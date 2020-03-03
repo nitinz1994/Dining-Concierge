@@ -1,0 +1,2288 @@
+{
+    "businesses": [
+        {
+            "id": "-udRA8VRsQJoIaT-kxCrGg",
+            "alias": "ipanema-restaurant-new-york",
+            "name": "Ipanema Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p7A065ZhtvsgsnVEaOfMuQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ipanema-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1376,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.757072217349,
+                "longitude": -73.9807795529175
+            },
+            "transactions": [
+                "pickup",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "43 W 46th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "43 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12127305848",
+            "display_phone": "(212) 730-5848",
+            "distance": 398.70749650389354
+        },
+        {
+            "id": "aJqjC4uAo6vhOpsVNCiMDA",
+            "alias": "samba-kitchen-new-york-5",
+            "name": "Samba Kitchen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iDhhiOuovy7R8uAdnBgDiA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/samba-kitchen-new-york-5?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 447,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.76095,
+                "longitude": -73.99115
+            },
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "661 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "661 9th Ave",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+16469829957",
+            "display_phone": "(646) 982-9957",
+            "distance": 1064.5643981199753
+        },
+        {
+            "id": "7B2XMvV5uGuKyl19-HTSvg",
+            "alias": "fogo-de-chao-brazilian-steakhouse-new-york-4",
+            "name": "Fogo de Chao Brazilian Steakhouse",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IcEOfdd4OS-lTrLLPigq9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fogo-de-chao-brazilian-steakhouse-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1192,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7610765,
+                "longitude": -73.9777711
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "40 W 53rd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "40 W 53rd St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12129699980",
+            "display_phone": "(212) 969-9980",
+            "distance": 113.80273459571582
+        },
+        {
+            "id": "3CMqDrz2fR2uVa8WC9CwJA",
+            "alias": "berimbau-do-brasil-new-york",
+            "name": "Berimbau Do Brasil",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YOStjniBhd9ga9_vVOdA-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/berimbau-do-brasil-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 422,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.73007,
+                "longitude": -74.00366
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "43 Carmine St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "43 Carmine St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12122422606",
+            "display_phone": "(212) 242-2606",
+            "distance": 3963.940093284447
+        },
+        {
+            "id": "53zd9Zi8EKMpLd6OXNm8Mw",
+            "alias": "emporium-brasil-new-york-2",
+            "name": "Emporium Brasil",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PAOanjEt0PV3Fv8HnwV2ag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/emporium-brasil-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 258,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75653,
+                "longitude": -73.97989
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "15 W 46th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "15 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12127644646",
+            "display_phone": "(212) 764-4646",
+            "distance": 426.1923305364426
+        },
+        {
+            "id": "VnjcxOUuZAeJMiDIU-7hUQ",
+            "alias": "churrascaria-plataforma-new-york-3",
+            "name": "Churrascaria Plataforma",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lOLa7C2K-bf8rmeXQh2SAA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/churrascaria-plataforma-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1370,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.76202,
+                "longitude": -73.98765
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "316 W 49th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "316 W 49th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122450505",
+            "display_phone": "(212) 245-0505",
+            "distance": 797.7710379683207
+        },
+        {
+            "id": "Hc2MuvFClsTlXr-MivnLzQ",
+            "alias": "via-brasil-restaurant-new-york",
+            "name": "Via Brasil Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F3HhmFQWdn2V1EpXW4qxDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/via-brasil-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 193,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75665,
+                "longitude": -73.98072
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "34 W 46th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "34 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12129971158",
+            "display_phone": "(212) 997-1158",
+            "distance": 455.57509558253105
+        },
+        {
+            "id": "VjojBUeQ2ph1lrOU74YqNw",
+            "alias": "casa-restaurant-new-york",
+            "name": "Casa Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4mupwzCochmpEgjQ-4lLgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/casa-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 245,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7314969,
+                "longitude": -74.0048608
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "72 Bedford St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "72 Bedford St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12123669410",
+            "display_phone": "(212) 366-9410",
+            "distance": 3889.53700169933
+        },
+        {
+            "id": "MZetiSUzOTgZ_A3ei6XGPQ",
+            "alias": "brazil-brazil-restaurant-new-york-2",
+            "name": "Brazil Brazil Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vvKxygcjX7t87GJpCQtPsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brazil-brazil-restaurant-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 407,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.760086,
+                "longitude": -73.989191
+            },
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "328 W 46th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "328 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12129574300",
+            "display_phone": "(212) 957-4300",
+            "distance": 900.5266195187604
+        },
+        {
+            "id": "tjstlcFtOiXnUU1MAG1uqg",
+            "alias": "villa-brazil-cafe-grill-astoria",
+            "name": "Villa Brazil Cafe Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7yuxUxuR5Dojy5n57DHHPw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/villa-brazil-cafe-grill-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 333,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7552896059395,
+                "longitude": -73.9180071651936
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "43-16 34th Ave",
+                "address2": "",
+                "address3": "Ste A 2",
+                "city": "Astoria",
+                "zip_code": "11101",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "43-16 34th Ave",
+                    "Ste A 2",
+                    "Astoria, NY 11101"
+                ]
+            },
+            "phone": "+13476704202",
+            "display_phone": "(347) 670-4202",
+            "distance": 5124.538219460718
+        },
+        {
+            "id": "eZRCx_bsjOsrwsfrAPYEew",
+            "alias": "brazeiro-churrascaria-north-bergen-2",
+            "name": "Brazeiro Churrascaria",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6-8AJav-4WqVKA-CcmLhGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brazeiro-churrascaria-north-bergen-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 311,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.796315,
+                "longitude": -74.002996
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "7420 Broadway Ave",
+                "address2": "",
+                "address3": "",
+                "city": "North Bergen",
+                "zip_code": "07047",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "7420 Broadway Ave",
+                    "North Bergen, NJ 07047"
+                ]
+            },
+            "phone": "+12016621212",
+            "display_phone": "(201) 662-1212",
+            "distance": 4513.039621690581
+        },
+        {
+            "id": "hJrZIHNRVUuC_PXAORxj9g",
+            "alias": "favela-cubana-new-york",
+            "name": "Favela Cubana",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/olR_bU9RrcLP_X0FOm46ZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/favela-cubana-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1026,
+            "categories": [
+                {
+                    "alias": "cuban",
+                    "title": "Cuban"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7284702112794,
+                "longitude": -73.9979839324952
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "543 LaGuardia Pl",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "543 LaGuardia Pl",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+12127776500",
+            "display_phone": "(212) 777-6500",
+            "distance": 3892.806980039949
+        },
+        {
+            "id": "oLcO1966IMx-Juv69hn6Cw",
+            "alias": "copacabana-astoria",
+            "name": "Copacabana",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Jre3puot4GIfvnY0HOETuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/copacabana-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 227,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7565371,
+                "longitude": -73.9293383
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "31-13 36th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Astoria",
+                "zip_code": "11106",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "31-13 36th Ave",
+                    "Astoria, NY 11106"
+                ]
+            },
+            "phone": "+17185453685",
+            "display_phone": "(718) 545-3685",
+            "distance": 4183.206905838556
+        },
+        {
+            "id": "3gAVyGCG1clukCX2DLcumw",
+            "alias": "rice-n-beans-new-york",
+            "name": "Rice N Beans",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hatcBI28MnKdLCxJ-7aj1w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rice-n-beans-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 246,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "fooddeliveryservices",
+                    "title": "Food Delivery Services"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.76352,
+                "longitude": -73.98852
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "744 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "744 9th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122654444",
+            "display_phone": "(212) 265-4444",
+            "distance": 926.4814111492734
+        },
+        {
+            "id": "5iciHq6BV3hOKpxTXKEzVA",
+            "alias": "favela-grill-astoria-4",
+            "name": "Favela Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kif-xduY4kQDRogedbQOew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/favela-grill-astoria-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 253,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7672,
+                "longitude": -73.91799
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "33-18 28th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Astoria",
+                "zip_code": "11103",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "33-18 28th Ave",
+                    "Astoria, NY 11103"
+                ]
+            },
+            "phone": "+17185458250",
+            "display_phone": "(718) 545-8250",
+            "distance": 5153.503456953653
+        },
+        {
+            "id": "sGqKDtizXj3tg9jnAc9FeQ",
+            "alias": "k-rico-steakhouse-new-york",
+            "name": "K Rico Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4lrc52hDy0y3yZv337J_Ug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/k-rico-steakhouse-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 594,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.76438,
+                "longitude": -73.9880699
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "772 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "772 9th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12127579393",
+            "display_phone": "(212) 757-9393",
+            "distance": 925.1010513389275
+        },
+        {
+            "id": "MMTk8TONDySpy2S_e4dclA",
+            "alias": "brazeiro-churrascaria-west-new-york",
+            "name": "Brazeiro Churrascaria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JD-chI8LsdLAso9411jWBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brazeiro-churrascaria-west-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 146,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7855359,
+                "longitude": -74.0094707
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "103 60th St",
+                "address2": null,
+                "address3": "",
+                "city": "West New York",
+                "zip_code": "07093",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "103 60th St",
+                    "West New York, NJ 07093"
+                ]
+            },
+            "phone": "+12017662683",
+            "display_phone": "(201) 766-2683",
+            "distance": 3837.817459171536
+        },
+        {
+            "id": "JboVlCv3LtJt8hA-yI9U0A",
+            "alias": "beija-flor-long-island-city",
+            "name": "Beija Flor",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CWF3S-pHtYOIItaECnUnZA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beija-flor-long-island-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 223,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.754601940029,
+                "longitude": -73.9336216385827
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "38-02 29th St",
+                "address2": "",
+                "address3": "",
+                "city": "Long Island City",
+                "zip_code": "11101",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "38-02 29th St",
+                    "Long Island City, NY 11101"
+                ]
+            },
+            "phone": "+17186062468",
+            "display_phone": "(718) 606-2468",
+            "distance": 3831.2208142230215
+        },
+        {
+            "id": "MU9gYp1tdK4iB0E2blZUVQ",
+            "alias": "beco-brooklyn",
+            "name": "Beco",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fYowdChfUHyOICAFngY6dg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beco-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 340,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71837,
+                "longitude": -73.95045
+            },
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "45 Richardson St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "45 Richardson St",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17185991645",
+            "display_phone": "(718) 599-1645",
+            "distance": 5218.647031159762
+        },
+        {
+            "id": "nc7gWfLrcsUi2poYpkPK6A",
+            "alias": "boteko-nyc-astoria",
+            "name": "Boteko NYC",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wXDu0XKDYotTSNMcQ9XVug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boteko-nyc-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.76285,
+                "longitude": -73.92664
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "29-03 Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Astoria",
+                "zip_code": "11106",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "29-03 Broadway",
+                    "Astoria, NY 11106"
+                ]
+            },
+            "phone": "+17186062411",
+            "display_phone": "(718) 606-2411",
+            "distance": 4374.6917147631
+        },
+        {
+            "id": "X2mfQ5SOE5eMuUzPrI_pwA",
+            "alias": "esperanto-new-york",
+            "name": "Esperanto",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MAfxRF7-3adAZ4NJyVq89w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/esperanto-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 694,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.725474,
+                "longitude": -73.978054
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "145 Ave C",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10009",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "145 Ave C",
+                    "New York, NY 10009"
+                ]
+            },
+            "phone": "+12125056559",
+            "display_phone": "(212) 505-6559",
+            "distance": 3863.1917716231783
+        },
+        {
+            "id": "0O3L9qPA_Q7N7jOnY6gu_Q",
+            "alias": "miss-favela-brooklyn",
+            "name": "Miss Favela",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a4sbRZCbgx0nPsm4cHf5ZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/miss-favela-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 479,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.712246483644,
+                "longitude": -73.9661882787452
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "57 S 5th St",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "zip_code": "11249",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "57 S 5th St",
+                    "Brooklyn, NY 11249"
+                ]
+            },
+            "phone": "+17182304040",
+            "display_phone": "(718) 230-4040",
+            "distance": 5433.778189112929
+        },
+        {
+            "id": "PcXQm5RXbNZP2GQKHu0QNQ",
+            "alias": "pao-de-queijo-astoria-6",
+            "name": "Pao De Queijo",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AOL6qCHRs4OtrD_uuxWoNw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pao-de-queijo-astoria-6?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 344,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.762659,
+                "longitude": -73.9261018
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "31-90 30th St",
+                "address2": "",
+                "address3": "",
+                "city": "Astoria",
+                "zip_code": "11106",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "31-90 30th St",
+                    "Astoria, NY 11106"
+                ]
+            },
+            "phone": "+17182041979",
+            "display_phone": "(718) 204-1979",
+            "distance": 4421.513979768205
+        },
+        {
+            "id": "wWhZvkaFrntlSf1CWvD1Zw",
+            "alias": "cafe-patoro-new-york",
+            "name": "Cafe Patoro",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nnlsd9Wl7KFVVqZxtDRWpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cafe-patoro-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 169,
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7072720974983,
+                "longitude": -74.0023160353303
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "223 Front St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10038",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "223 Front St",
+                    "New York, NY 10038"
+                ]
+            },
+            "phone": "+19172620031",
+            "display_phone": "(917) 262-0031",
+            "distance": 6219.569104325408
+        },
+        {
+            "id": "1-4W4i1fj9rp0Blrg0Q1zg",
+            "alias": "aroma-brazil-restaurant-jackson-heights",
+            "name": "Aroma Brazil Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4R0kwz9-MzapLMre_QrmiQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aroma-brazil-restaurant-jackson-heights?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 127,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7471117,
+                "longitude": -73.8902638
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "75-13 Roosevelt Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Jackson Heights",
+                "zip_code": "11372",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "75-13 Roosevelt Ave",
+                    "Jackson Heights, NY 11372"
+                ]
+            },
+            "phone": "+17186727662",
+            "display_phone": "(718) 672-7662",
+            "distance": 7594.375841985957
+        },
+        {
+            "id": "L0XYugkXpuACPMQ451MB8g",
+            "alias": "el-mate-brooklyn",
+            "name": "El Mate",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_DGA_Qm5RyNTglkdWQTq5A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-mate-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 292,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.6749782203506,
+                "longitude": -73.9995224876405
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "550 Court St",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11231",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "550 Court St",
+                    "Brooklyn, NY 11231"
+                ]
+            },
+            "phone": "+17182221102",
+            "display_phone": "(718) 222-1102",
+            "distance": 9642.04877382284
+        },
+        {
+            "id": "PbezejIP9RHrjw-k459iZA",
+            "alias": "porteno-restaurant-new-york",
+            "name": "Porteno Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WzyyO_NHAwO_eSXx9ZQsmA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/porteno-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 374,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.750499,
+                "longitude": -74.002525
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "299 10th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "299 10th Ave",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12126959694",
+            "display_phone": "(212) 695-9694",
+            "distance": 2289.850506434526
+        },
+        {
+            "id": "_ZbDZKrG5bE10hMUk3vnRQ",
+            "alias": "broa-jersey-city-2",
+            "name": "Broa",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jjib7XAnDsygY0XzKZRcJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/broa-jersey-city-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 274,
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71862,
+                "longitude": -74.04386
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "297 Grove St",
+                "address2": "",
+                "address3": "",
+                "city": "Jersey City",
+                "zip_code": "07302",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "297 Grove St",
+                    "Jersey City, NJ 07302"
+                ]
+            },
+            "phone": "+12014631467",
+            "display_phone": "(201) 463-1467",
+            "distance": 7189.675344916365
+        },
+        {
+            "id": "9E6f_oc2QuPUM4sGc14pRA",
+            "alias": "chimichurri-grill-new-york-4",
+            "name": "Chimichurri Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BOcRmWBYNKyU1ND-dvzG9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chimichurri-grill-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 334,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7592856237038,
+                "longitude": -73.9921118644058
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "609 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "609 9th Ave",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12125868655",
+            "display_phone": "(212) 586-8655",
+            "distance": 1151.0749975171977
+        },
+        {
+            "id": "ZgIfySJ3cnB1svoyJAiCzg",
+            "alias": "buenos-aires-new-york",
+            "name": "Buenos Aires",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IteP50y9ROawdkzRH8EQ4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/buenos-aires-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 535,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7253150939941,
+                "longitude": -73.983039855957
+            },
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "513 E 6th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10009",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "513 E 6th St",
+                    "New York, NY 10009"
+                ]
+            },
+            "phone": "+12122282775",
+            "display_phone": "(212) 228-2775",
+            "distance": 3903.232787082686
+        },
+        {
+            "id": "Q5XEIsjofh-OQy-LzOdRCA",
+            "alias": "kilo-astoria-astoria",
+            "name": "Kilo Astoria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rHa1NCJ6vZ3DzYQXupvwuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kilo-astoria-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 114,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.775567,
+                "longitude": -73.909654
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "31-27 Ditmars Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Astoria",
+                "zip_code": "11105",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "31-27 Ditmars Blvd",
+                    "Astoria, NY 11105"
+                ]
+            },
+            "phone": "+17186069300",
+            "display_phone": "(718) 606-9300",
+            "distance": 6043.955490396202
+        },
+        {
+            "id": "nXdXmNkHnqLJ3M9itMZ0Iw",
+            "alias": "brazil-grill-new-york-2",
+            "name": "Brazil Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JK0Kqu1XjDZ6VdXtxx_9hg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brazil-grill-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 276,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 40.76107,
+                "longitude": -73.98737
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "787 8th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "787 8th Ave",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+16466096057",
+            "display_phone": "(646) 609-6057",
+            "distance": 755.2318686224705
+        },
+        {
+            "id": "FBavnvcD0gKOZaf5MOMZOw",
+            "alias": "point-brazil-astoria",
+            "name": "Point Brazil",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aCbruf_8u0cqxn0o8m8-dw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/point-brazil-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 144,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.761827,
+                "longitude": -73.917579
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3801 31st Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Astoria",
+                "zip_code": "11103",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "3801 31st Ave",
+                    "Astoria, NY 11103"
+                ]
+            },
+            "phone": "+17182781934",
+            "display_phone": "(718) 278-1934",
+            "distance": 5132.23214465595
+        },
+        {
+            "id": "1bjUc14khru1HXuMUe5-5w",
+            "alias": "libertador-steakhouse-new-york-new-york",
+            "name": "Libertador Steakhouse - New York",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K7DlrJzTeSh59Ot4Qbnu3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/libertador-steakhouse-new-york-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 438,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.78004,
+                "longitude": -73.95057
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1725 2nd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10128",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1725 2nd Ave",
+                    "New York, NY 10128"
+                ]
+            },
+            "phone": "+12123486222",
+            "display_phone": "(212) 348-6222",
+            "distance": 3224.717181358221
+        },
+        {
+            "id": "50fj-g0MspUNye6eWEDjNw",
+            "alias": "taberna-97-new-york",
+            "name": "Taberna 97",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JSggIMMHqwXwkH644SKt8Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/taberna-97-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 57,
+            "categories": [
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7275018841028,
+                "longitude": -73.9849530905485
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "97 St Marks Pl",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10009",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "97 St Marks Pl",
+                    "New York, NY 10009"
+                ]
+            },
+            "phone": "+12124775600",
+            "display_phone": "(212) 477-5600",
+            "distance": 3677.9142694864136
+        },
+        {
+            "id": "ryvBsB9FrBBZDak87iGS1w",
+            "alias": "the-seafire-grill-new-york-4",
+            "name": "The Seafire Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XfmiprKBLVpP5ukKd1GnrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-seafire-grill-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1267,
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7547012104496,
+                "longitude": -73.972255513072
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "158 E 48th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "158 E 48th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12129353785",
+            "display_phone": "(212) 935-3785",
+            "distance": 807.8064530468238
+        },
+        {
+            "id": "hk3ohp_A4L4UgWTexDxf_Q",
+            "alias": "gallaghers-steakhouse-new-york",
+            "name": "Gallaghers Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5Vq76A_SH0pHQdR3F6tvpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gallaghers-steakhouse-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1189,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.762876,
+                "longitude": -73.983837
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "228 W 52nd St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "228 W 52nd St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12125865000",
+            "display_phone": "(212) 586-5000",
+            "distance": 538.1223167061654
+        },
+        {
+            "id": "1ozuYD1HTa4u2F_NR9uUJg",
+            "alias": "gomi-korean-wine-bar-new-york-2",
+            "name": "Gomi Korean Wine Bar",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eMHqD7WeWPRMicig0FfNAQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gomi-korean-wine-bar-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 129,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72886,
+                "longitude": -73.9813
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "186 Ave A",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10009",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "186 Ave A",
+                    "New York, NY 10009"
+                ]
+            },
+            "phone": "+16467070707",
+            "display_phone": "(646) 707-0707",
+            "distance": 3495.7961045196685
+        },
+        {
+            "id": "XMTqOsYSm7Dh3AMtFcgaMQ",
+            "alias": "rio-grande-restaurant-astoria",
+            "name": "Rio Grande Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_IxGILgUL1gFrc2ea55sew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rio-grande-restaurant-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.759494000104,
+                "longitude": -73.9204654097557
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "32-15 36th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Astoria",
+                "zip_code": "11103",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "32-15 36th Ave",
+                    "Astoria, NY 11103"
+                ]
+            },
+            "phone": "+13478320112",
+            "display_phone": "(347) 832-0112",
+            "distance": 4888.64003334928
+        },
+        {
+            "id": "2E2f5H4SltGyD8ciTu8AKg",
+            "alias": "chimu-bistro-brooklyn",
+            "name": "Chimu Bistro",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X6IsFDmf1b5rgwkjHldEzw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chimu-bistro-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 796,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "peruvian",
+                    "title": "Peruvian"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.714903,
+                "longitude": -73.95144
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "482 Union Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "482 Union Ave",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17183830045",
+            "display_phone": "(718) 383-0045",
+            "distance": 5530.279840189263
+        },
+        {
+            "id": "RC_1OpTo45TVewr5m7jgBQ",
+            "alias": "rice-x-beans-woodside-2",
+            "name": "Rice X Beans",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ELcpv-hdbeM8oFfmspBPGw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rice-x-beans-woodside-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 32,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7572374,
+                "longitude": -73.9079138
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "30-86 51st St",
+                "address2": "",
+                "address3": null,
+                "city": "Woodside",
+                "zip_code": "11377",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "30-86 51st St",
+                    "Woodside, NY 11377"
+                ]
+            },
+            "phone": "+17182551633",
+            "display_phone": "(718) 255-1633",
+            "distance": 5965.974702891534
+        },
+        {
+            "id": "pQuZDnefX038xurT1BhDXA",
+            "alias": "keens-steakhouse-new-york",
+            "name": "Keens Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wt-lr0rX2f-lncs05SWDlA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/keens-steakhouse-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2547,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75071,
+                "longitude": -73.98652
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "72 W 36th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "72 W 36th St",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12129473636",
+            "display_phone": "(212) 947-3636",
+            "distance": 1255.9075996490392
+        },
+        {
+            "id": "e_EQojNWskn_hFbKA_UZ-Q",
+            "alias": "balvanera-new-york-3",
+            "name": "Balvanera",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8HIGsOHlAijBmRcMMmJykQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/balvanera-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 231,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72063,
+                "longitude": -73.98539
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "152 Stanton St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10002",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "152 Stanton St",
+                    "New York, NY 10002"
+                ]
+            },
+            "phone": "+12125333348",
+            "display_phone": "(212) 533-3348",
+            "distance": 4440.506464545159
+        },
+        {
+            "id": "suEoAFFWEj-RA3smDVqDbA",
+            "alias": "mortons-the-steakhouse-new-york-9",
+            "name": "Morton's The Steakhouse",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7g-VkLO8FlgpVKmCS5zHjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mortons-the-steakhouse-new-york-9?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 241,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7097005194611,
+                "longitude": -74.0139538049698
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "136 Washington St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10006",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "136 Washington St",
+                    "New York, NY 10006"
+                ]
+            },
+            "phone": "+12126080171",
+            "display_phone": "(212) 608-0171",
+            "distance": 6361.856273968396
+        },
+        {
+            "id": "wEG1-_lPprofQcOB5DQvRg",
+            "alias": "brazilian-churrasqueria-guttenberg",
+            "name": "Brazilian Churrasqueria",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/48kNL8WpOE2psMjAERHxpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brazilian-churrasqueria-guttenberg?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.795806,
+                "longitude": -74.010719
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "6910 Bergenline Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Guttenberg",
+                "zip_code": "07093",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "6910 Bergenline Ave",
+                    "Guttenberg, NJ 07093"
+                ]
+            },
+            "phone": "+12018544144",
+            "display_phone": "(201) 854-4144",
+            "distance": 4810.381180930568
+        },
+        {
+            "id": "6tf6uGg424cOZTHIHa8Aiw",
+            "alias": "el-almacen-brooklyn",
+            "name": "El Almacen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ag--UOP37Sp2M3DYDGaQfQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/el-almacen-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 645,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71679,
+                "longitude": -73.9564
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "557 Driggs Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "557 Driggs Ave",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17182187284",
+            "display_phone": "(718) 218-7284",
+            "distance": 5171.685573200277
+        },
+        {
+            "id": "iq9_CMtUT1SwGcEL8fSDNQ",
+            "alias": "r-lounge-at-two-times-square-new-york",
+            "name": "R Lounge at Two Times Square",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uORQM7gzuQkMBh3XNc4EmA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/r-lounge-at-two-times-square-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 330,
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.759683705851,
+                "longitude": -73.9845943450927
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "Two Times Square, 714 Seventh Avenue at W. 48th Street",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "Two Times Square, 714 Seventh Avenue at W. 48th Street",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12122615114",
+            "display_phone": "(212) 261-5114",
+            "distance": 516.6510458675226
+        },
+        {
+            "id": "b8a-8u_A51v2IzyjLVsx6w",
+            "alias": "del-friscos-double-eagle-steakhouse-new-york",
+            "name": "Del Frisco's Double Eagle Steakhouse",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FyQ0V-QtndWStk5B8qwjXw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/del-friscos-double-eagle-steakhouse-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2967,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.759412,
+                "longitude": -73.982221
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "1221 Ave Of The Americas",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10020",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1221 Ave Of The Americas",
+                    "New York, NY 10020"
+                ]
+            },
+            "phone": "+12125755129",
+            "display_phone": "(212) 575-5129",
+            "distance": 325.83967084427394
+        },
+        {
+            "id": "mhVTnOTPxmRrBb4n-yFlkA",
+            "alias": "brasil-and-brazil-restaurant-fairview",
+            "name": "Brasil & Brazil Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mtac_5nUpXzAq_xa5MvXZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/brasil-and-brazil-restaurant-fairview?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.8142,
+                "longitude": -73.99761
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "147 Anderson Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Fairview",
+                "zip_code": "07022",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "147 Anderson Ave",
+                    "Fairview, NJ 07022"
+                ]
+            },
+            "phone": "+12019433220",
+            "display_phone": "(201) 943-3220",
+            "distance": 6218.092321542291
+        },
+        {
+            "id": "REDWyPG0UJc5u8iU8mP6Hw",
+            "alias": "rocco-steakhouse-new-york",
+            "name": "Rocco Steakhouse",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wzwm0dhUP61ro1jukgu6YQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rocco-steakhouse-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 347,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7438607,
+                "longitude": -73.9861214
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "72 Madison Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "72 Madison Ave",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "+12126969660",
+            "display_phone": "(212) 696-9660",
+            "distance": 1928.4867139315156
+        }
+    ],
+    "total": 72,
+    "region": {
+        "center": {
+            "longitude": -73.97850036621094,
+            "latitude": 40.76021491079617
+        }
+    }
+}

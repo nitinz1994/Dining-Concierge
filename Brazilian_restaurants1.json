@@ -1,0 +1,977 @@
+{
+    "businesses": [
+        {
+            "id": "uTXRhiUm5yXLLjC1oGy7ig",
+            "alias": "212-steakhouse-new-york-5",
+            "name": "212 Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VDId1D46GMiiY7Oq2saL9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/212-steakhouse-new-york-5?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 665,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75634,
+                "longitude": -73.966489
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "316 E 53rd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "316 E 53rd St",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+12128580646",
+            "display_phone": "(212) 858-0646",
+            "distance": 1099.6104962033812
+        },
+        {
+            "id": "aq5rpA-KaaIGGUFWZEs8Yw",
+            "alias": "cliffside-bbq-cliffside-park",
+            "name": "Cliffside BBQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KBI5enJzV9SF4ob3L1LH3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cliffside-bbq-cliffside-park?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 29,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.82063,
+                "longitude": -73.99109
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "442 Anderson Ave",
+                "address2": "Ste A-B",
+                "address3": null,
+                "city": "Cliffside Park",
+                "zip_code": "07010",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "442 Anderson Ave",
+                    "Ste A-B",
+                    "Cliffside Park, NJ 07010"
+                ]
+            },
+            "phone": "+12013130234",
+            "display_phone": "(201) 313-0234",
+            "distance": 6809.120900903649
+        },
+        {
+            "id": "kB-lmHs7yNwLIlQyp0kMmQ",
+            "alias": "quality-meats-new-york",
+            "name": "Quality Meats",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S0LrrLcBBkLThXw0qZLQLw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/quality-meats-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1960,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.764958,
+                "longitude": -73.976206
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "57 W 58th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "57 W 58th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12123717777",
+            "display_phone": "(212) 371-7777",
+            "distance": 561.6917476300781
+        },
+        {
+            "id": "rEWsz2KHmJX6jmAEQBa6Zw",
+            "alias": "churrasquiera-europa-jersey-city",
+            "name": "Churrasquiera Europa",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x3V6wPvctFwbJOPRkb94nw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/churrasquiera-europa-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 126,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "spanish",
+                    "title": "Spanish"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.73111,
+                "longitude": -74.05585
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "542 Newark Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Jersey City",
+                "zip_code": "07306",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "542 Newark Ave",
+                    "Jersey City, NJ 07306"
+                ]
+            },
+            "phone": "+12017954230",
+            "display_phone": "(201) 795-4230",
+            "distance": 7284.223819116252
+        },
+        {
+            "id": "njpz2-Vd-EnoFu5YiIBTVA",
+            "alias": "delmonicos-kitchen-new-york-3",
+            "name": "Delmonico's Kitchen",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZJYihNOMAEE8CbVIRdhTYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/delmonicos-kitchen-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 332,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.752533,
+                "longitude": -73.9899368
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "207 W 36th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "207 W 36th St",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12126955220",
+            "display_phone": "(212) 695-5220",
+            "distance": 1295.462034999521
+        },
+        {
+            "id": "oBORgWrnY4rRVyhPsYaTWw",
+            "alias": "nusr-et-steakhouse-new-york-4",
+            "name": "Nusr-Et Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PpAy466RGrnsf_8ckppw2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nusr-et-steakhouse-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 517,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.761343,
+                "longitude": -73.978529
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "60 W 53rd St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "60 W 53rd St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12123153660",
+            "display_phone": "(212) 315-3660",
+            "distance": 125.46083789678161
+        },
+        {
+            "id": "4yPqqJDJOQX69gC66YUDkA",
+            "alias": "peter-luger-brooklyn-2",
+            "name": "Peter Luger",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KRpKd1ZdcYSPRDhlb12Vjw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peter-luger-brooklyn-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 5707,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.709945,
+                "longitude": -73.962478
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "178 Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11211",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "178 Broadway",
+                    "Brooklyn, NY 11211"
+                ]
+            },
+            "phone": "+17183877400",
+            "display_phone": "(718) 387-7400",
+            "distance": 5750.460147254267
+        },
+        {
+            "id": "7fDylE6fckLR5jLYJcRvrw",
+            "alias": "raizes-brooklyn",
+            "name": "Raizes",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yp6RcKl6H7nhmBhk3Agq5w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/raizes-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 157,
+            "categories": [
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.7247029246308,
+                "longitude": -73.9480696991086
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "139 Nassau Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Brooklyn",
+                "zip_code": "11222",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "139 Nassau Ave",
+                    "Brooklyn, NY 11222"
+                ]
+            },
+            "phone": "+17183890088",
+            "display_phone": "(718) 389-0088",
+            "distance": 4707.983288060709
+        },
+        {
+            "id": "HbRpu_sO3ouX0a9CiRTXEA",
+            "alias": "christos-steak-house-astoria",
+            "name": "Christo's Steak House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Fn26CsdTnP9md_SJUYCwiw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/christos-steak-house-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 394,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.770312,
+                "longitude": -73.9073979
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "4108 23rd Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Astoria",
+                "zip_code": "11105",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "4108 23rd Ave",
+                    "Astoria, NY 11105"
+                ]
+            },
+            "phone": "+17187778400",
+            "display_phone": "(718) 777-8400",
+            "distance": 6085.812475905869
+        },
+        {
+            "id": "d-DQwNxs77Pah2ys0q7w1Q",
+            "alias": "american-cut-steakhouse-tribeca-new-york",
+            "name": "American Cut Steakhouse Tribeca",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i3zhEqirF7DZkb6_CuKv4g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/american-cut-steakhouse-tribeca-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 582,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71915,
+                "longitude": -74.00994
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "363 Greenwich St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10013",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "363 Greenwich St",
+                    "New York, NY 10013"
+                ]
+            },
+            "phone": "+12122264736",
+            "display_phone": "(212) 226-4736",
+            "distance": 5286.262862980032
+        },
+        {
+            "id": "2QihduRipVtfqNpj3HFPYg",
+            "alias": "little-brazil-new-york",
+            "name": "Little Brazil",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ofczaYij0iFDvv-r6Jo1RQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/little-brazil-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 3,
+            "categories": [],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.75653,
+                "longitude": -73.97989
+            },
+            "transactions": [],
+            "location": {
+                "address1": "15 W 46th St Frnt",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "15 W 46th St Frnt",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12127644646",
+            "display_phone": "(212) 764-4646",
+            "distance": 425.58855306921583
+        },
+        {
+            "id": "TYKqS9eoC4xiixTNP_xsMQ",
+            "alias": "stk-downtown-new-york-2",
+            "name": "STK Downtown",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Pw-6MRk6GUaEt7T2Uye25Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stk-downtown-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1296,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.73988,
+                "longitude": -74.0072
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "26 Little West 12th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "26 Little West 12th St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+16466242444",
+            "display_phone": "(646) 624-2444",
+            "distance": 3321.441791523971
+        },
+        {
+            "id": "VqPoQGy0q5Q8BWlb0XvZuw",
+            "alias": "blt-steak-new-york",
+            "name": "BLT Steak",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/y6BtV9Yu2JDw5GbGoqf52A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blt-steak-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 404,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.761162,
+                "longitude": -73.970335
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "106 E 57th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "106 E 57th St",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+12127527470",
+            "display_phone": "(212) 752-7470",
+            "distance": 695.7342769058372
+        },
+        {
+            "id": "FNIJejLUqeqYjW1lqYO5hw",
+            "alias": "edwards-steak-house-jersey-city",
+            "name": "Edward's Steak House",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YX0kvLi38AGSe6RmAvio_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/edwards-steak-house-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 240,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.71628,
+                "longitude": -74.04281
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "239 Marin Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Jersey City",
+                "zip_code": "07302",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "239 Marin Blvd",
+                    "Jersey City, NJ 07302"
+                ]
+            },
+            "phone": "+12017610000",
+            "display_phone": "(201) 761-0000",
+            "distance": 7300.556859902849
+        },
+        {
+            "id": "tZinZdPH3p4BrJuuSYK2Kw",
+            "alias": "kasbah-grill-and-sushi-restaurant-new-york",
+            "name": "Kasbah Grill & Sushi Restaurant",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8h4kkuWfzDEBdQUblEVRww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kasbah-grill-and-sushi-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 85,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 40.78786,
+                "longitude": -73.97731
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "251 W 85th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10024",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "251 W 85th St",
+                    "New York, NY 10024"
+                ]
+            },
+            "phone": "+12124961500",
+            "display_phone": "(212) 496-1500",
+            "distance": 3089.81813118993
+        },
+        {
+            "id": "Ucya5uGBVUA3azs-HX0sTA",
+            "alias": "west-side-steakhouse-new-york-2",
+            "name": "West Side Steakhouse",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5iygmf_Ie-mJ-pbPQ7Be-g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/west-side-steakhouse-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 374,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7606,
+                "longitude": -73.995
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "597 10th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "597 10th Ave",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12125644803",
+            "display_phone": "(212) 564-4803",
+            "distance": 1400.1913511152104
+        },
+        {
+            "id": "LmjIvh6gRGzxFBI99doR9w",
+            "alias": "liberty-prime-steakhouse-jersey-city",
+            "name": "Liberty Prime Steakhouse",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hTs90CuZBnrrMnf-CcbP_A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/liberty-prime-steakhouse-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 366,
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7168985,
+                "longitude": -74.0399027
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "111 Montgomery St",
+                "address2": "",
+                "address3": "",
+                "city": "Jersey City",
+                "zip_code": "07302",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "111 Montgomery St",
+                    "Jersey City, NJ 07302"
+                ]
+            },
+            "phone": "+12013333633",
+            "display_phone": "(201) 333-3633",
+            "distance": 7068.367737040891
+        },
+        {
+            "id": "fiNNzhD1BRLP8iA1r3m2Cg",
+            "alias": "uncle-jacks-steakhouse-westside-new-york-3",
+            "name": "Uncle Jack's Steakhouse - Westside",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MRF73r8NpXEFBF2Yd4qvNg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uncle-jacks-steakhouse-westside-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 525,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.75367,
+                "longitude": -73.99549
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "440 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "440 9th Ave",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12122440005",
+            "display_phone": "(212) 244-0005",
+            "distance": 1611.348481033847
+        },
+        {
+            "id": "dqXZa8fcvHsFvtZVtwRNkA",
+            "alias": "old-homestead-steak-house-new-york",
+            "name": "Old Homestead Steak House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r_2yM62CaN6xcJj0QCJpBw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/old-homestead-steak-house-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1033,
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.74121,
+                "longitude": -74.00477
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "56 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "56 9th Ave",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+12122429040",
+            "display_phone": "(212) 242-9040",
+            "distance": 3058.2543021538163
+        },
+        {
+            "id": "gfQ-r520Oav74_dXUdgj7Q",
+            "alias": "mr-skewer-and-co-new-york-2",
+            "name": "Mr Skewer & Co",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mr-skewer-and-co-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 40.7169132,
+                "longitude": -74.0037184
+            },
+            "transactions": [],
+            "location": {
+                "address1": "352 Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "352 Broadway",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+12126450533",
+            "display_phone": "(212) 645-0533",
+            "distance": 5260.346677860985
+        },
+        {
+            "id": "irm8jTrg_NC5Awlp6nSQDg",
+            "alias": "la-fusta-north-bergen",
+            "name": "La Fusta",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MPhJHa25PwJ8SY8ykMs7gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-fusta-north-bergen?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 139,
+            "categories": [
+                {
+                    "alias": "argentine",
+                    "title": "Argentine"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.7639012809459,
+                "longitude": -74.0484309196472
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1110 Tonnelle Ave",
+                "address2": "",
+                "address3": "",
+                "city": "North Bergen",
+                "zip_code": "07047",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "1110 Tonnelle Ave",
+                    "North Bergen, NJ 07047"
+                ]
+            },
+            "phone": "+12017701950",
+            "display_phone": "(201) 770-1950",
+            "distance": 5903.938626717638
+        },
+        {
+            "id": "P_WcaYX89ZmIE4nNVTqS9w",
+            "alias": "prime-one-16-new-york-6",
+            "name": "Prime One 16",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0GFZGqGR_mJGkonoxADoig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/prime-one-16-new-york-6?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 147,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.795976,
+                "longitude": -73.935774
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2257 1st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10029",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2257 1st Ave",
+                    "New York, NY 10029"
+                ]
+            },
+            "phone": "+16465902187",
+            "display_phone": "(646) 590-2187",
+            "distance": 5363.581672824932
+        }
+    ],
+    "total": 72,
+    "region": {
+        "center": {
+            "longitude": -73.97850036621094,
+            "latitude": 40.76021491079617
+        }
+    }
+}

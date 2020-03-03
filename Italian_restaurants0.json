@@ -1,0 +1,2179 @@
+{
+    "businesses": [
+        {
+            "id": "DoSU8IPq-Py_YV3kYmXPfQ",
+            "alias": "trattoria-trecolori-new-york",
+            "name": "Trattoria Trecolori",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G8vBgHxbEfoONO0JpLX3Qw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/trattoria-trecolori-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2338,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75998,
+                "longitude": -73.98671
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "254 West 47th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "254 West 47th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12129974540",
+            "display_phone": "(212) 997-4540",
+            "distance": 699.3572680342019
+        },
+        {
+            "id": "rp8S7scxOkVVeG7dNneMGQ",
+            "alias": "l-artusi-new-york",
+            "name": "L'Artusi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HeDloBW-SnokWblGDuPrUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/l-artusi-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1820,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.733714,
+                "longitude": -74.005068
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "228 W 10th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "228 W 10th St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12122555757",
+            "display_phone": "(212) 255-5757",
+            "distance": 3700.331251049352
+        },
+        {
+            "id": "vjubSxmdG_HoBBgd39geBw",
+            "alias": "ninos-46-new-york",
+            "name": "Nino's 46",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zzgCrcM_HFdRTsDdeD10Pg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ninos-46-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1230,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7569159,
+                "longitude": -73.980516
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "39 W 46th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "39 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12127194015",
+            "display_phone": "(212) 719-4015",
+            "distance": 404.21291417408236
+        },
+        {
+            "id": "22nKUyCIbpnzR6R3_g1ptQ",
+            "alias": "carmines-italian-restaurant-times-square-new-york-5",
+            "name": "Carmine's Italian Restaurant - Times Square",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0UszeEYPWI-RIk0Ak6HtVQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carmines-italian-restaurant-times-square-new-york-5?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 3768,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7574955824307,
+                "longitude": -73.9866844540098
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "200 W 44th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "200 W 44th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12122213800",
+            "display_phone": "(212) 221-3800",
+            "distance": 752.7176947652221
+        },
+        {
+            "id": "z7H9ApIGopnDnQaglnPTzg",
+            "alias": "allora-ristorante-new-york-2",
+            "name": "Allora Ristorante",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PFMCcufxzzNRQ6JOVX5jFQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/allora-ristorante-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 572,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75433,
+                "longitude": -73.97277
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "145 E 47th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "145 E 47th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12127549800",
+            "display_phone": "(212) 754-9800",
+            "distance": 810.9530908049022
+        },
+        {
+            "id": "GjEE8vvjqb7eeHA3BGNxAw",
+            "alias": "barolo-east-new-york",
+            "name": "Barolo East",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TwY9MDIfIiaOI0wi5tN1gA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barolo-east-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 111,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75481,
+                "longitude": -73.97059
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "location": {
+                "address1": "214 E 49th St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "214 E 49th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12127545710",
+            "display_phone": "(212) 754-5710",
+            "distance": 892.3405971487837
+        },
+        {
+            "id": "OAqsZMbjv66nOMqlimnYuQ",
+            "alias": "uva-new-york",
+            "name": "Uva",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OKw0xxKFXVRPNTRFx6v2Dg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/uva-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2336,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7722,
+                "longitude": -73.95566
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1486 2nd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10075",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "1486 2nd Ave",
+                    "New York, NY 10075"
+                ]
+            },
+            "phone": "+12124724552",
+            "display_phone": "(212) 472-4552",
+            "distance": 2341.9530202338674
+        },
+        {
+            "id": "Ve6GVzzJpR5QIIPdcn6ViQ",
+            "alias": "mercato-new-york",
+            "name": "Mercato",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u0HAR-cPdG-VytpsxR14RQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mercato-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 878,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75619,
+                "longitude": -73.9937
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "352 W 39th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "352 W 39th St",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12126432000",
+            "display_phone": "(212) 643-2000",
+            "distance": 1353.7649154225949
+        },
+        {
+            "id": "WG639VkTjmK5dzydd1BBJA",
+            "alias": "rubirosa-new-york-2",
+            "name": "Rubirosa",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LuSzR8cpVQRofXOT_bMi1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/rubirosa-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2199,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72275,
+                "longitude": -73.99622
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "235 Mulberry St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "235 Mulberry St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+12129650500",
+            "display_phone": "(212) 965-0500",
+            "distance": 4424.5161824476145
+        },
+        {
+            "id": "V3USzFEGhuoXez4G2Rk11A",
+            "alias": "tavola-new-york",
+            "name": "Tavola",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HhhlKQchXV9dhvgGgNH1Bw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tavola-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 951,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.755403,
+                "longitude": -73.994516
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "488 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "488 9th Ave",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12122731181",
+            "display_phone": "(212) 273-1181",
+            "distance": 1451.195568662845
+        },
+        {
+            "id": "16ZnHpuaaBt92XWeJHCC5A",
+            "alias": "olio-e-piú-new-york-5",
+            "name": "Olio e Piú",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l4peUZMi7CLFcG3w3jnYvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/olio-e-pi%C3%BA-new-york-5?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2151,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.733826,
+                "longitude": -73.999852
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3 Greenwich Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "3 Greenwich Ave",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12122436546",
+            "display_phone": "(212) 243-6546",
+            "distance": 3441.720334311369
+        },
+        {
+            "id": "5TX0X8w5ssIACU_pnBEq6g",
+            "alias": "tonys-di-napoli-new-york-4",
+            "name": "Tony's Di Napoli",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4wyiOvfKrh4Ff9uWwatg9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/tonys-di-napoli-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2087,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75641,
+                "longitude": -73.98547
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "147 W 43rd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "147 W 43rd St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12122210100",
+            "display_phone": "(212) 221-0100",
+            "distance": 716.4452640700139
+        },
+        {
+            "id": "7cjT33LfYSk7vrRdEaSr4w",
+            "alias": "angeletto-restaurant-new-york",
+            "name": "Angeletto Restaurant",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6uaxZoW81RMhxJ1-8XBHOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/angeletto-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 205,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.753188,
+                "longitude": -73.969365
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "890 2nd Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "890 2nd Ave",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12122351227",
+            "display_phone": "(212) 235-1227",
+            "distance": 1096.6253954927765
+        },
+        {
+            "id": "JLpEKUYAtzBRQwsUL3RPIA",
+            "alias": "il-corso-new-york",
+            "name": "Il Corso",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9JdLrFuhRPvMkc_gVOeO_w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-corso-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 342,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.762463,
+                "longitude": -73.977161
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "54 W 55th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "54 W 55th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12129571500",
+            "display_phone": "(212) 957-1500",
+            "distance": 274.2498190181128
+        },
+        {
+            "id": "8oO6j7AlnAbMSJs9Oj9GIw",
+            "alias": "osteria-delbianco-new-york",
+            "name": "Osteria Delbianco",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aagQkah_5EppkSf2LSqEeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/osteria-delbianco-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7573689002,
+                "longitude": -73.9764462233
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "location": {
+                "address1": "22 East 49th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "22 East 49th St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12128385972",
+            "display_phone": "(212) 838-5972",
+            "distance": 360.66782436988524
+        },
+        {
+            "id": "TzVVPWK_4dhdSEpNqZwIhQ",
+            "alias": "toscana-49-new-york",
+            "name": "Toscana 49",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rlrsRGP9mZvXHir5G3Mvxw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/toscana-49-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 237,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7556957079225,
+                "longitude": -73.9717184007168
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "143 East 49 St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10017",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "143 East 49 St",
+                    "New York, NY 10017"
+                ]
+            },
+            "phone": "+12122560190",
+            "display_phone": "(212) 256-0190",
+            "distance": 760.8004785980303
+        },
+        {
+            "id": "raqwXUBlnc0e8c7CYmxEJQ",
+            "alias": "scarpetta-new-york",
+            "name": "Scarpetta",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MuSpWrm8AmcalPlKf9gBQg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/scarpetta-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1904,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.744509,
+                "longitude": -73.9856
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "88 Madison Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10016",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "88 Madison Ave",
+                    "New York, NY 10016"
+                ]
+            },
+            "phone": "+12126910555",
+            "display_phone": "(212) 691-0555",
+            "distance": 1845.9714846749469
+        },
+        {
+            "id": "AUifp6IDKzmorCM6vY2fug",
+            "alias": "pepe-giallo-new-york",
+            "name": "Pepe Giallo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8MAtdlNnxIqCFxEOuZ3XvQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pepe-giallo-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 645,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7468940064083,
+                "longitude": -74.0049896784992
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "195 10th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "195 10th Ave",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+12122426055",
+            "display_phone": "(212) 242-6055",
+            "distance": 2678.1632285019805
+        },
+        {
+            "id": "LXdblKc5g1Dp17xiV-Am1w",
+            "alias": "trattoria-dellarte-new-york",
+            "name": "Trattoria Dell'Arte",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KU92-a2MPTsvMX0-I6t7Gg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/trattoria-dellarte-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1024,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.765295646702,
+                "longitude": -73.98046281606
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "900 7th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "900 7th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122459800",
+            "display_phone": "(212) 245-9800",
+            "distance": 588.6318975509159
+        },
+        {
+            "id": "Vs8kQ4R381y27AH018gLpg",
+            "alias": "supper-new-york",
+            "name": "Supper",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jEEH9kmoHFmyQRgXiMjFuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/supper-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1284,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7229,
+                "longitude": -73.98527
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "156 E 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10009",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "156 E 2nd St",
+                    "New York, NY 10009"
+                ]
+            },
+            "phone": "+12124777600",
+            "display_phone": "(212) 477-7600",
+            "distance": 4184.680927492418
+        },
+        {
+            "id": "tmzWZtu9Nimn7Hfas9XmcA",
+            "alias": "quality-bistro-new-york-3",
+            "name": "Quality Bistro",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vhQmUEenntGSEg977G6oBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/quality-bistro-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 17,
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 40.76306,
+                "longitude": -73.9786
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "120 W 55th St",
+                "address2": null,
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "120 W 55th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12124333330",
+            "display_phone": "(212) 433-3330",
+            "distance": 325.63325758501185
+        },
+        {
+            "id": "OCTiJwvjoK81WoDwsTkFvA",
+            "alias": "paesano-of-mulberry-street-new-york",
+            "name": "Paesano of Mulberry Street",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yN9ARCE3LF6u9E0yN5WpIw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/paesano-of-mulberry-street-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 913,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.718554,
+                "longitude": -73.997447
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "136 Mulberry St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10013",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "136 Mulberry St",
+                    "New York, NY 10013"
+                ]
+            },
+            "phone": "+12129651188",
+            "display_phone": "(212) 965-1188",
+            "distance": 4899.786912203181
+        },
+        {
+            "id": "yZJbealagfujEkgesAl2hA",
+            "alias": "lupa-new-york",
+            "name": "Lupa",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0_EF0APVQ4X_bAqJF7zi6g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lupa-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1527,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7276,
+                "longitude": -74.000045
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "170 Thompson St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "170 Thompson St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+12129825089",
+            "display_phone": "(212) 982-5089",
+            "distance": 4050.2606595202838
+        },
+        {
+            "id": "562aZEpTDdYKDe5hWuDyFA",
+            "alias": "la-gioconda-new-york",
+            "name": "La Gioconda",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/spYlfLeNiF-OEWc63zbJCQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-gioconda-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 163,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7570686,
+                "longitude": -73.9684186
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "226 E 53rd St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "226 E 53rd St",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+12123713536",
+            "display_phone": "(212) 371-3536",
+            "distance": 918.3973006586898
+        },
+        {
+            "id": "MOwB9YYd-Ko6nVgSB-ltQw",
+            "alias": "briciola-new-york",
+            "name": "Briciola",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eO9jNBCXTg5yxxnbpLrkeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/briciola-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 832,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7637997047278,
+                "longitude": -73.9880919456482
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "370 W 51st St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "370 W 51st St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+16466785763",
+            "display_phone": "(646) 678-5763",
+            "distance": 900.8151135164967
+        },
+        {
+            "id": "muX5xoh3aOleCrSja_T_FA",
+            "alias": "il-tavolo-di-palmisano-hoboken-2",
+            "name": "IL Tavolo di’ Palmisano",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T3bq-CEg-dvTsCMaE3x8fg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-tavolo-di-palmisano-hoboken-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.74571,
+                "longitude": -74.03346
+            },
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "location": {
+                "address1": "700 Clinton St",
+                "address2": null,
+                "address3": null,
+                "city": "Hoboken",
+                "zip_code": "07030",
+                "country": "US",
+                "state": "NJ",
+                "display_address": [
+                    "700 Clinton St",
+                    "Hoboken, NJ 07030"
+                ]
+            },
+            "phone": "+12013455980",
+            "display_phone": "(201) 345-5980",
+            "distance": 4903.793552983157
+        },
+        {
+            "id": "IErfGS0DASSJfYU73m0Sqg",
+            "alias": "malatesta-trattoria-new-york",
+            "name": "Malatesta Trattoria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-5A2WyQVd3xrzudn9JBLVA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/malatesta-trattoria-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1239,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.73285,
+                "longitude": -74.00847
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "649 Washington St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "649 Washington St",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12127411207",
+            "display_phone": "(212) 741-1207",
+            "distance": 3952.254756666615
+        },
+        {
+            "id": "hzPBADaUBQEL30MGrvKsww",
+            "alias": "il-tinello-ristorante-italiano-new-york",
+            "name": "Il Tinello Ristorante Italiano",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jy2uTW4BfEFiYpgOvNTemg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-tinello-ristorante-italiano-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 278,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.76256,
+                "longitude": -73.97566
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "16 W 56th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "16 W 56th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122454388",
+            "display_phone": "(212) 245-4388",
+            "distance": 358.55809138140415
+        },
+        {
+            "id": "hdiuRS9sVZSMReZm4oV5SA",
+            "alias": "da-andrea-new-york",
+            "name": "Da Andrea",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IesapW_Zj-Mp-1KdLbAw9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/da-andrea-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 755,
+            "categories": [
+                {
+                    "alias": "tuscan",
+                    "title": "Tuscan"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.736218,
+                "longitude": -73.99597
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "35 W 13th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10011",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "35 W 13th St",
+                    "New York, NY 10011"
+                ]
+            },
+            "phone": "+12123671979",
+            "display_phone": "(212) 367-1979",
+            "distance": 3047.2448524235715
+        },
+        {
+            "id": "04exhf1PZ79_Km9vHAzvfA",
+            "alias": "pepe-rosso-social-new-york-2",
+            "name": "Pepe Rosso Social",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MErF46rFrXUcnnfERnLDyw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pepe-rosso-social-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 829,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.72007,
+                "longitude": -73.99618
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "173 Mott St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10013",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "173 Mott St",
+                    "New York, NY 10013"
+                ]
+            },
+            "phone": "+12122190019",
+            "display_phone": "(212) 219-0019",
+            "distance": 4709.760060155232
+        },
+        {
+            "id": "zg9Jrtx9rqTXeaqufSOxHQ",
+            "alias": "masseria-dei-vini-new-york",
+            "name": "Masseria Dei Vini",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QeZC3CC6LdizIOJH-3CqwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/masseria-dei-vini-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 442,
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7684,
+                "longitude": -73.98558
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "887 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "887 9th Ave",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12123152888",
+            "display_phone": "(212) 315-2888",
+            "distance": 1098.2638753826427
+        },
+        {
+            "id": "3o0W7asUgP7EEKn8iFWFyA",
+            "alias": "casa-nonna-new-york-2",
+            "name": "Casa Nonna",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-wYaG96OKuo0Qp8Nq7gmWg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/casa-nonna-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 541,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75496,
+                "longitude": -73.99247
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "310 W 38th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10018",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "310 W 38th St",
+                    "New York, NY 10018"
+                ]
+            },
+            "phone": "+12127363000",
+            "display_phone": "(212) 736-3000",
+            "distance": 1335.6543003475533
+        },
+        {
+            "id": "_3QRn51W3IoqBzc9fYet4Q",
+            "alias": "grazie-new-york-3",
+            "name": "Grazie",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lAkj2esaNxFyZIpplRd9HQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/grazie-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 452,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.77948,
+                "longitude": -73.9601
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "26 E 84th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10028",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "26 E 84th St",
+                    "New York, NY 10028"
+                ]
+            },
+            "phone": "+12127174407",
+            "display_phone": "(212) 717-4407",
+            "distance": 2643.711936527341
+        },
+        {
+            "id": "qBGKigOGn_flCx1apxPzlA",
+            "alias": "piccola-cucina-osteria-new-york",
+            "name": "Piccola Cucina Osteria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U9CN5QUnEAp1tHKHM8ZrXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/piccola-cucina-osteria-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 552,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.72506,
+                "longitude": -74.00322
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "196 Spring St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "196 Spring St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+16464787488",
+            "display_phone": "(646) 478-7488",
+            "distance": 4434.850280861263
+        },
+        {
+            "id": "7AknGS1qVEyq_pHfmjkZtg",
+            "alias": "wolf-new-york",
+            "name": "Wolf",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NNUA7aSMhZzgbl14lTaHQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wolf-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7661522,
+                "longitude": -73.9811393
+            },
+            "transactions": [],
+            "location": {
+                "address1": "225 W 57th St",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "225 W 57th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122952184",
+            "display_phone": "(212) 295-2184",
+            "distance": 696.6021570070762
+        },
+        {
+            "id": "zjglOaCY8xQu3s2eKnLFzw",
+            "alias": "mozzarella-and-vino-new-york",
+            "name": "Mozzarella & Vino",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-2--zsiIl9RroYxon1O_nQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mozzarella-and-vino-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 260,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.76204,
+                "longitude": -73.97718
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "33 W 54th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "33 W 54th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+16466928849",
+            "display_phone": "(646) 692-8849",
+            "distance": 228.11455292250466
+        },
+        {
+            "id": "QObHX0yR6zd0WfksRDbJTA",
+            "alias": "becco-new-york-4",
+            "name": "Becco",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w5_bccA0edjbSwzUVZS-PA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/becco-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 2860,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 40.76083,
+                "longitude": -73.98981
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "355 W 46th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "355 W 46th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12123977597",
+            "display_phone": "(212) 397-7597",
+            "distance": 956.6855059112635
+        },
+        {
+            "id": "rpVX-o82EEOX8ZDnM28a_Q",
+            "alias": "bistango-new-york-8",
+            "name": "Bistango",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ql7E2k9t6ouLEN2lPZTeEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bistango-new-york-8?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 269,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.75628,
+                "longitude": -73.97144
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "145 E 50th St",
+                "address2": "",
+                "address3": "The Kimberly Hotel",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "145 E 50th St",
+                    "The Kimberly Hotel",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+12128884121",
+            "display_phone": "(212) 888-4121",
+            "distance": 738.396267663434
+        },
+        {
+            "id": "a0IET3_yCFcO36OqGSsisg",
+            "alias": "eataly-nyc-flatiron-new-york",
+            "name": "Eataly NYC Flatiron",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CnTjWyLu9nEkH6BJ9LNgTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/eataly-nyc-flatiron-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 5489,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.74195877796,
+                "longitude": -73.989716662832
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "200 5th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10010",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "200 5th Ave",
+                    "New York, NY 10010"
+                ]
+            },
+            "phone": "+12122292560",
+            "display_phone": "(212) 229-2560",
+            "distance": 2239.089759376025
+        },
+        {
+            "id": "mTWlEiCUEBlxBAkIikkB1A",
+            "alias": "carmines-italian-restaurant-upper-west-side-new-york",
+            "name": "Carmine's Italian Restaurant - Upper West Side",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_lTCIijz3zVH13nUugBwhg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carmines-italian-restaurant-upper-west-side-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1361,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.791077,
+                "longitude": -73.973763
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2450 Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10024",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2450 Broadway",
+                    "New York, NY 10024"
+                ]
+            },
+            "phone": "+12123622200",
+            "display_phone": "(212) 362-2200",
+            "distance": 3454.8111746859327
+        },
+        {
+            "id": "7_hGsGEkHrjgAiYVjrCFnw",
+            "alias": "carbone-new-york",
+            "name": "Carbone",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HA_Pfz7CkKHRcWkyqCk-uQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/carbone-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 999,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.728,
+                "longitude": -74.0001497
+            },
+            "transactions": [],
+            "price": "$$$$",
+            "location": {
+                "address1": "181 Thompson St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "181 Thompson St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+12122543000",
+            "display_phone": "(212) 254-3000",
+            "distance": 4019.7092403388683
+        },
+        {
+            "id": "ugIv_ylUdqRIlx6AD8lTJA",
+            "alias": "basso56-new-york",
+            "name": "Basso56",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zSJjAU5tswPUxqLB6JJJYg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/basso56-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 622,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7655,
+                "longitude": -73.98267
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "234 W 56th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10019",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "234 W 56th St",
+                    "New York, NY 10019"
+                ]
+            },
+            "phone": "+12122652610",
+            "display_phone": "(212) 265-2610",
+            "distance": 686.8476013630755
+        },
+        {
+            "id": "h37t9rA06Sr4EetJjKrfzw",
+            "alias": "don-angie-new-york",
+            "name": "Don Angie",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j5cm0Ku1lMJ8ikvVlmO1sw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/don-angie-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 310,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.73778,
+                "longitude": -74.00197
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "103 Greenwich Ave",
+                "address2": "",
+                "address3": null,
+                "city": "New York",
+                "zip_code": "10014",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "103 Greenwich Ave",
+                    "New York, NY 10014"
+                ]
+            },
+            "phone": "+12128898884",
+            "display_phone": "(212) 889-8884",
+            "distance": 3187.5085789311715
+        },
+        {
+            "id": "faukkggAc_tuJ4THYlf4fg",
+            "alias": "la-masseria-new-york-3",
+            "name": "La Masseria",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wsDDg7kYQOlL5om2uUYqqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-masseria-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 594,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.760868632784,
+                "longitude": -73.986348802868
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "235 W 48th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "235 W 48th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12125822111",
+            "display_phone": "(212) 582-2111",
+            "distance": 665.0109419597989
+        },
+        {
+            "id": "yB4ziqFM_7V8JxJas7CHfA",
+            "alias": "ulivo-new-york-2",
+            "name": "Ulivo",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SeqmtuN6hXsstVpV53pIpA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ulivo-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 296,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7447371960713,
+                "longitude": -73.9880339428782
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4 W 28th St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10001",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "4 W 28th St",
+                    "New York, NY 10001"
+                ]
+            },
+            "phone": "+12126848000",
+            "display_phone": "(212) 684-8000",
+            "distance": 1899.1780758476311
+        },
+        {
+            "id": "A2DV-AQIXRYUMu5Ak5mjxg",
+            "alias": "patzeria-family-and-friends-new-york",
+            "name": "Patzeria Family & Friends",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hjIQhLZrZTqtG7VxCo9DTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/patzeria-family-and-friends-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1099,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7615,
+                "longitude": -73.98754
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "311 W 48th St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10036",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "311 W 48th St",
+                    "New York, NY 10036"
+                ]
+            },
+            "phone": "+12122454343",
+            "display_phone": "(212) 245-4343",
+            "distance": 778.002919347917
+        },
+        {
+            "id": "KCBfW6sWl9Gx-LvMff08jg",
+            "alias": "osteria-morini-new-york-3",
+            "name": "Osteria Morini",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4VU9R-TAo0Yga-Ih3H4W6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/osteria-morini-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1158,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.7219179851303,
+                "longitude": -73.9976472073402
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "218 Lafayette St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10012",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "218 Lafayette St",
+                    "New York, NY 10012"
+                ]
+            },
+            "phone": "+12129658777",
+            "display_phone": "(212) 965-8777",
+            "distance": 4553.7026099367995
+        },
+        {
+            "id": "yi6jIxzHo-nbAOG4KWuqcw",
+            "alias": "maialino-new-york",
+            "name": "Maialino",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rPx9Q-3FDlY6ljUrpgIYkg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maialino-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 1389,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 40.738437,
+                "longitude": -73.985686
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "2 Lexington Ave",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10010",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "2 Lexington Ave",
+                    "New York, NY 10010"
+                ]
+            },
+            "phone": "+12127772410",
+            "display_phone": "(212) 777-2410",
+            "distance": 2496.0957610564074
+        },
+        {
+            "id": "MphfKkYFEe0BDQ6hZ0A5fA",
+            "alias": "gelso-and-grand-new-york",
+            "name": "Gelso & Grand",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HuHFQ0vaGnMsBu_5QcprXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gelso-and-grand-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 901,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pastashops",
+                    "title": "Pasta Shops"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.7194089547259,
+                "longitude": -73.9973777877722
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "186 Grand St",
+                "address2": "",
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10013",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "186 Grand St",
+                    "New York, NY 10013"
+                ]
+            },
+            "phone": "+12122261600",
+            "display_phone": "(212) 226-1600",
+            "distance": 4808.071106697698
+        },
+        {
+            "id": "R3gSQGB3aEmVpwbKIgOPqg",
+            "alias": "fabio-cucina-italiana-new-york",
+            "name": "Fabio Cucina Italiana",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AeVxT9BwxFwSClxOCrGb-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fabio-cucina-italiana-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+            "review_count": 309,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 40.75667,
+                "longitude": -73.96912
+            },
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "214 E 52nd St",
+                "address2": null,
+                "address3": "",
+                "city": "New York",
+                "zip_code": "10022",
+                "country": "US",
+                "state": "NY",
+                "display_address": [
+                    "214 E 52nd St",
+                    "New York, NY 10022"
+                ]
+            },
+            "phone": "+12126885200",
+            "display_phone": "(212) 688-5200",
+            "distance": 880.443668295004
+        }
+    ],
+    "total": 4000,
+    "region": {
+        "center": {
+            "longitude": -73.97850036621094,
+            "latitude": 40.76021491079617
+        }
+    }
+}
