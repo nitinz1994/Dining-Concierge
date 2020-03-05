@@ -1,0 +1,2277 @@
+[
+    {
+        "id": "YsSjmyGWbxA05JuxAF69hA",
+        "alias": "neptune-diner-astoria",
+        "name": "Neptune Diner",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eQPbiC4d9U_2IKM4D7SNow/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/neptune-diner-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 473,
+        "categories": [
+            {
+                "alias": "diners",
+                "title": "Diners"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.770753,
+            "longitude": -73.916801
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3105 Astoria Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11102",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3105 Astoria Blvd",
+                "Astoria, NY 11102"
+            ]
+        },
+        "phone": "+17182784853",
+        "display_phone": "(718) 278-4853",
+        "distance": 5326.661561474666
+    },
+    {
+        "id": "BdqOP7iyhE14RM2onuFd4w",
+        "alias": "nikitas-place-whitestone",
+        "name": "Nikitas Place",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L9IDVtDDh7FMoxstIIvYSQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nikitas-place-whitestone?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 77,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.780338,
+            "longitude": -73.793608
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1903 Utopia Pkwy",
+            "address2": "",
+            "address3": "",
+            "city": "Whitestone",
+            "zip_code": "11357",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1903 Utopia Pkwy",
+                "Whitestone, NY 11357"
+            ]
+        },
+        "phone": "+17184284976",
+        "display_phone": "(718) 428-4976",
+        "distance": 15728.87707326518
+    },
+    {
+        "id": "Y39SdfmS0Z_GepcFnFqlMA",
+        "alias": "natureworks-new-york-2",
+        "name": "Natureworks",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/st3xBGzPaSl4-5QmxCqOkQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/natureworks-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 253,
+        "categories": [
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.745068,
+            "longitude": -73.981859
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "113 E 31st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "113 E 31st St",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12127251411",
+        "display_phone": "(212) 725-1411",
+        "distance": 1707.8532838707201
+    },
+    {
+        "id": "gI58fGaPwkwiaCbMs8z0Mg",
+        "alias": "gogreek-pelham-2",
+        "name": "GoGreek",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XEM4u8FwhAx6VicT-DgCaQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gogreek-pelham-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 40,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "soup",
+                "title": "Soup"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.9125071,
+            "longitude": -73.8088604
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "108 5th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Pelham",
+            "zip_code": "10803",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "108 5th Ave",
+                "Pelham, NY 10803"
+            ]
+        },
+        "phone": "+19147403173",
+        "display_phone": "(914) 740-3173",
+        "distance": 22137.535396028634
+    },
+    {
+        "id": "h0PVO3fYw37f7VUH4UA3jQ",
+        "alias": "xyst-new-york-2",
+        "name": "XYST",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/t6G5WvniLO2HHD8Fq9_c7A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xyst-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 328,
+        "categories": [
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73874,
+            "longitude": -73.99444
+        },
+        "transactions": [
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "44 West 17th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "44 West 17th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12127272979",
+        "display_phone": "(212) 727-2979",
+        "distance": 2748.1858515678596
+    },
+    {
+        "id": "KPRHC9snWkh8U6z4uFyL_w",
+        "alias": "mister-greek-queens",
+        "name": "Mister Greek",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gpekh9YXyonVYcZ6Y_J3CA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mister-greek-queens?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73009,
+            "longitude": -73.88806
+        },
+        "transactions": [],
+        "location": {
+            "address1": "74th St & Grand Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Queens",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "74th St & Grand Ave",
+                "Queens, NY 11373"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 8358.98530983769
+    },
+    {
+        "id": "TPSY6gS0-cncBwlPOUYs1Q",
+        "alias": "seven-hills-mediterranean-grill-new-york",
+        "name": "Seven Hills Mediterranean Grill",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MuYMKmgQfMs1HD8nS8g6lw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/seven-hills-mediterranean-grill-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 219,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7780303955078,
+            "longitude": -73.9809875488281
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "158 W 72nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "158 W 72nd St",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12127244700",
+        "display_phone": "(212) 724-4700",
+        "distance": 1991.1807959657558
+    },
+    {
+        "id": "8Y5Ytn30Wup9sNf2n99s1A",
+        "alias": "nomo-kitchen-new-york",
+        "name": "NOMO Kitchen",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qIEswFiGTLfqXSrXP3RYHw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nomo-kitchen-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 532,
+        "categories": [
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7198301,
+            "longitude": -74.0000708
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "9 Crosby St",
+            "address2": "",
+            "address3": "NOMO SOHO Hotel",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "9 Crosby St",
+                "NOMO SOHO Hotel",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+16462186400",
+        "display_phone": "(646) 218-6400",
+        "distance": 4844.3704044424285
+    },
+    {
+        "id": "V37ECDCspDO5x1h_eEoHoA",
+        "alias": "farah-anatolia-new-york",
+        "name": "Farah Anatolia",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QO-rO-YCqTzfUbQhQiaIXQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/farah-anatolia-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 192,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.76146,
+            "longitude": -73.96029
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "401 E 62nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10065",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "401 E 62nd St",
+                "New York, NY 10065"
+            ]
+        },
+        "phone": "+12122237500",
+        "display_phone": "(212) 223-7500",
+        "distance": 1548.82683243206
+    },
+    {
+        "id": "WojnO4OcLHo8EBIRgJrGsQ",
+        "alias": "dill-and-parsley-new-york",
+        "name": "Dill & Parsley",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/csCmkDoN86vaTT-gTSEJNQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dill-and-parsley-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 144,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7560462224459,
+            "longitude": -73.9703554478851
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "829 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10022",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "829 3rd Ave",
+                "New York, NY 10022"
+            ]
+        },
+        "phone": "+16469186949",
+        "display_phone": "(646) 918-6949",
+        "distance": 827.9445481806541
+    },
+    {
+        "id": "-xY5lT-G7Ks9ypWurVbyAw",
+        "alias": "dp-riverside-grill-whitestone",
+        "name": "DP Riverside Grill",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RBufFXdCXeVj50fqb9Ttgw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dp-riverside-grill-whitestone?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 11,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "wraps",
+                "title": "Wraps"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7947867,
+            "longitude": -73.8059792
+        },
+        "transactions": [],
+        "location": {
+            "address1": "154-11 Powells Cove Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Whitestone",
+            "zip_code": "11357",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "154-11 Powells Cove Blvd",
+                "Whitestone, NY 11357"
+            ]
+        },
+        "phone": "+17187673100",
+        "display_phone": "(718) 767-3100",
+        "distance": 15025.168024076067
+    },
+    {
+        "id": "W2CqfHWZoOiRuW2jt1J-xQ",
+        "alias": "turks-inn-brooklyn",
+        "name": "Turk's Inn",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HFVZOo2Yy4GQIA0ytXDzsg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/turks-inn-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 47,
+        "categories": [
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.70554,
+            "longitude": -73.922316
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "234 Starr St",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11237",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "234 Starr St",
+                "Brooklyn, NY 11237"
+            ]
+        },
+        "phone": "+17182150025",
+        "display_phone": "(718) 215-0025",
+        "distance": 7699.940868702406
+    },
+    {
+        "id": "MdFV5IBcX-Ni6I4Zy1EqIw",
+        "alias": "marlow-bistro-new-york",
+        "name": "Marlow Bistro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7CF0SOk8VLpP1bUr-MrO5Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/marlow-bistro-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 280,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "venues",
+                "title": "Venues & Event Spaces"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8028109023738,
+            "longitude": -73.9641991912535
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1018 Amsterdam Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1018 Amsterdam Ave",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12126629020",
+        "display_phone": "(212) 662-9020",
+        "distance": 4887.115054920169
+    },
+    {
+        "id": "z0pxdL3Pn4C_Pa8QjDWvKw",
+        "alias": "victory-garden-cafe-astoria",
+        "name": "Victory Garden Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oHw5opOkxYiYejcNuDQDVg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/victory-garden-cafe-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 111,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.773027,
+            "longitude": -73.905396
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2169 Steinway St",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11105",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2169 Steinway St",
+                "Astoria, NY 11105"
+            ]
+        },
+        "phone": "+17182742087",
+        "display_phone": "(718) 274-2087",
+        "distance": 6319.25588774241
+    },
+    {
+        "id": "GFdJfLJUlOcwD3NZamijKA",
+        "alias": "peri-ela-new-york",
+        "name": "Peri Ela",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0kRnN6JDOmAU9sLCwnq3JQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/peri-ela-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 84,
+        "categories": [
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.78218,
+            "longitude": -73.95344
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "1361 Lexington Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10128",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1361 Lexington Ave",
+                "New York, NY 10128"
+            ]
+        },
+        "phone": "+12124104300",
+        "display_phone": "(212) 410-4300",
+        "distance": 3231.3464690394
+    },
+    {
+        "id": "7Ui-wOox7975OuoQpLIUvg",
+        "alias": "viand-café-new-york-3",
+        "name": "Viand Café",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1yLClWOSiZ3QyqO0O5icng/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/viand-caf%C3%A9-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 249,
+        "categories": [
+            {
+                "alias": "diners",
+                "title": "Diners"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.78066,
+            "longitude": -73.98112
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2130 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2130 Broadway",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12128772888",
+        "display_phone": "(212) 877-2888",
+        "distance": 2286.369269125365
+    },
+    {
+        "id": "vvToYvBfb-UvgWFnhidpdA",
+        "alias": "greek-grill-howard-beach-howard-beach-2",
+        "name": "Greek Grill - Howard Beach",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D5eo7A9MiyLXNrbkB46VVQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/greek-grill-howard-beach-howard-beach-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 166,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.6628132,
+            "longitude": -73.8411815
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "156-40E Cross Bay Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Howard Beach",
+            "zip_code": "11414",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "156-40E Cross Bay Blvd",
+                "Howard Beach, NY 11414"
+            ]
+        },
+        "phone": "+17188439000",
+        "display_phone": "(718) 843-9000",
+        "distance": 15851.179286859115
+    },
+    {
+        "id": "szrkleW0KeKcoKqnGa2Tew",
+        "alias": "zaytoons-brooklyn-3",
+        "name": "Zaytoons",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GUmK5u7iSBc2YuVpW_LTmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/zaytoons-brooklyn-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 285,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.678733,
+            "longitude": -73.968803
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "594 Vanderbilt Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11238",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "594 Vanderbilt Ave",
+                "Brooklyn, NY 11238"
+            ]
+        },
+        "phone": "+17182303200",
+        "display_phone": "(718) 230-3200",
+        "distance": 9100.286481940193
+    },
+    {
+        "id": "TBX6fnKz0lSdMjR598r75w",
+        "alias": "zorbas-souvlaki-plus-astoria",
+        "name": "Zorba's Souvlaki Plus",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UvUDASXalnEKnJgTzQO7uQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/zorbas-souvlaki-plus-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 242,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.77507,
+            "longitude": -73.91339
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "29-05 23rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11105",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "29-05 23rd Ave",
+                "Astoria, NY 11105"
+            ]
+        },
+        "phone": "+17189567266",
+        "display_phone": "(718) 956-7266",
+        "distance": 5727.841642207717
+    },
+    {
+        "id": "6nOxwnuN0ZwLX3h3JYSJnA",
+        "alias": "toms-restaurant-new-york",
+        "name": "Tom's Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fJOgZUAeupdq9BKDBovaPA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/toms-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 761,
+        "categories": [
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.80545,
+            "longitude": -73.9654599
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2880 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2880 Broadway",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12128646137",
+        "display_phone": "(212) 864-6137",
+        "distance": 5148.5781112334225
+    },
+    {
+        "id": "CyIf24YrOuiikkYVnHjoog",
+        "alias": "uncle-momo-jersey-city-2",
+        "name": "Uncle Momo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FL2CmcAcxVMGW5pXlSzgZA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/uncle-momo-jersey-city-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 182,
+        "categories": [
+            {
+                "alias": "lebanese",
+                "title": "Lebanese"
+            },
+            {
+                "alias": "french",
+                "title": "French"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71835,
+            "longitude": -74.04396
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "289 Grove St",
+            "address2": "",
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07302",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "289 Grove St",
+                "Jersey City, NJ 07302"
+            ]
+        },
+        "phone": "+12013603914",
+        "display_phone": "(201) 360-3914",
+        "distance": 7219.206345956131
+    },
+    {
+        "id": "U3bhHJsw7yP4uKpL0kSGRA",
+        "alias": "dannys-athens-restaurant-bronx",
+        "name": "Danny's Athens Restaurant",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dannys-athens-restaurant-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.82969,
+            "longitude": -73.87451
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "1621 Westchester Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10472",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1621 Westchester Ave",
+                "Bronx, NY 10472"
+            ]
+        },
+        "phone": "+17188609055",
+        "display_phone": "(718) 860-9055",
+        "distance": 11689.847285249289
+    },
+    {
+        "id": "Vx-X9dRYvecFALrpxo2w5g",
+        "alias": "teddys-place-bayonne",
+        "name": "Teddy's Place",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Zbieps_bvmcuPs2a7ilpMA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/teddys-place-bayonne?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 103,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.6658802,
+            "longitude": -74.1170519
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "5 W 25th St",
+            "address2": "",
+            "address3": "",
+            "city": "Bayonne",
+            "zip_code": "07002",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "5 W 25th St",
+                "Bayonne, NJ 07002"
+            ]
+        },
+        "phone": "+12013399333",
+        "display_phone": "(201) 339-9333",
+        "distance": 15701.183886617153
+    },
+    {
+        "id": "g1KGZUkhGu6erEtGCqfgOQ",
+        "alias": "casablanca-grill-new-york",
+        "name": "Casablanca Grill",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y_KXYo47L6lQ3SlIcephEA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casablanca-grill-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 99,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.76153,
+            "longitude": -73.96021
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1132 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10065",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1132 1st Ave",
+                "New York, NY 10065"
+            ]
+        },
+        "phone": "+12134237806",
+        "display_phone": "(213) 423-7806",
+        "distance": 1547.2878992542076
+    },
+    {
+        "id": "j0n_poMVZnODYOFviLbh0Q",
+        "alias": "taim-west-village-new-york",
+        "name": "Taim West Village",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FtNE-4FWqBgQtGpRJnhD2g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taim-west-village-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 1522,
+        "categories": [
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "falafel",
+                "title": "Falafel"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.736002376347,
+            "longitude": -74.0019588366439
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "222 Waverly Pl",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10014",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "222 Waverly Pl",
+                "New York, NY 10014"
+            ]
+        },
+        "phone": "+12126911287",
+        "display_phone": "(212) 691-1287",
+        "distance": 3339.704843702688
+    },
+    {
+        "id": "bG9Tsue1s3VFOo3Cx6-wvw",
+        "alias": "the-kebabci-wood-ridge",
+        "name": "The Kebabci",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LLugzpAg6muxyXQD3_nxHQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-kebabci-wood-ridge?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 147,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.8511112,
+            "longitude": -74.0850838
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "259 Valley Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Wood-Ridge",
+            "zip_code": "07075",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "259 Valley Blvd",
+                "Wood-Ridge, NJ 07075"
+            ]
+        },
+        "phone": "+12017284949",
+        "display_phone": "(201) 728-4949",
+        "distance": 13517.14312800372
+    },
+    {
+        "id": "ShQz0wFmdLkFcqI_sb6oBA",
+        "alias": "taverna-on-the-bay-staten-island-5",
+        "name": "Taverna On The Bay",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C7bsntGbE0lp9mArrGkYTw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taverna-on-the-bay-staten-island-5?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 107,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.6259299,
+            "longitude": -74.0750599
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "661 Bay St",
+            "address2": "",
+            "address3": null,
+            "city": "Staten Island",
+            "zip_code": "10304",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "661 Bay St",
+                "Staten Island, NY 10304"
+            ]
+        },
+        "phone": "+17185245686",
+        "display_phone": "(718) 524-5686",
+        "distance": 17008.7237668302
+    },
+    {
+        "id": "FCJaZeBoeeM5F2ZhfzO0sA",
+        "alias": "crave-astoria-44",
+        "name": "Crave",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mssIbSqloDGfSnZPbAmXaQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/crave-astoria-44?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 329,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "fishnchips",
+                "title": "Fish & Chips"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.765631,
+            "longitude": -73.9166717
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "28-55 36th St",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11103",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "28-55 36th St",
+                "Astoria, NY 11103"
+            ]
+        },
+        "phone": "+17187264976",
+        "display_phone": "(718) 726-4976",
+        "distance": 5207.574801882354
+    },
+    {
+        "id": "MOTCpyZUoUKvNqZ5oQ6PFg",
+        "alias": "skewr-kabob-kitchen-new-york-4",
+        "name": "Skewr Kabob Kitchen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eTZOxN5Ff00jUlJmyQXUUQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/skewr-kabob-kitchen-new-york-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 120,
+        "categories": [
+            {
+                "alias": "persian",
+                "title": "Persian/Iranian"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7405,
+            "longitude": -73.98752
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "34 East 23rd St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "34 East 23rd St",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+12125985818",
+        "display_phone": "(212) 598-5818",
+        "distance": 2327.677355618292
+    },
+    {
+        "id": "_IXwnlEd4DsiXuruRiRl9Q",
+        "alias": "pera-mediterranean-brasserie-new-york",
+        "name": "Pera Mediterranean Brasserie",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0sAQHOqKT2x6Z6BSKTU23g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pera-mediterranean-brasserie-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 403,
+        "categories": [
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75228,
+            "longitude": -73.9795
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "303 Madison Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "303 Madison Ave",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+12128786301",
+        "display_phone": "(212) 878-6301",
+        "distance": 881.7654657265507
+    },
+    {
+        "id": "YecfnKTxUSb7u1RtR2-MlQ",
+        "alias": "bz-grill-brooklyn",
+        "name": "BZ Grill",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r4VOkNroFQfBWMpSdbx8bA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bz-grill-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 16,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.722006,
+            "longitude": -73.94935
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "544 Manhattan Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11222",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "544 Manhattan Ave",
+                "Brooklyn, NY 11222"
+            ]
+        },
+        "phone": "+17185996100",
+        "display_phone": "(718) 599-6100",
+        "distance": 4908.04108580034
+    },
+    {
+        "id": "7KN1q3ssjWoEnT_ggW09IA",
+        "alias": "king-souvlaki-astoria-2",
+        "name": "King Souvlaki",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jrCWyDuYsoOVFfDfXd6w2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/king-souvlaki-astoria-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 276,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7643238363402,
+            "longitude": -73.9235472679138
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "31 St And 31 Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Astoria",
+            "zip_code": "11106",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "31 St And 31 Ave",
+                "Astoria, NY 11106"
+            ]
+        },
+        "phone": "+19174161189",
+        "display_phone": "(917) 416-1189",
+        "distance": 4650.742735072194
+    },
+    {
+        "id": "CMaKcJbkj-hn1We0ecVt3Q",
+        "alias": "soup-and-gyro-turkish-mediterranean-restaurant-new-york",
+        "name": "Soup & Gyro Turkish Mediterranean Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7jzL_65YZyxrDVq6NburEg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/soup-and-gyro-turkish-mediterranean-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 34,
+        "categories": [
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.71571,
+            "longitude": -74.0075
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "178A Church St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "178A Church St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+16465590656",
+        "display_phone": "(646) 559-0656",
+        "distance": 5524.914962076608
+    },
+    {
+        "id": "IFZ3_d01uflGixWrrD8_gg",
+        "alias": "ariana-afghan-kebab-restaurant-new-york",
+        "name": "Ariana Afghan Kebab Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EJVkP-sLAaoYOAtB0XcflA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ariana-afghan-kebab-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 481,
+        "categories": [
+            {
+                "alias": "afghani",
+                "title": "Afghan"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "kebab",
+                "title": "Kebab"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76515,
+            "longitude": -73.98813
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "787 9th Ave",
+            "address2": "Apt 3N",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "787 9th Ave",
+                "Apt 3N",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122622323",
+        "display_phone": "(212) 262-2323",
+        "distance": 974.6911467036036
+    },
+    {
+        "id": "lzS4xZdl9Yk1ULtbzi9ejQ",
+        "alias": "hamido-seafood-astoria",
+        "name": "Hamido Seafood",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4oqgcPx2IyQW-ZdcQaUj_Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hamido-seafood-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 116,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7750008,
+            "longitude": -73.9095623
+        },
+        "transactions": [],
+        "location": {
+            "address1": "3308 Ditmars Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11105",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3308 Ditmars Blvd",
+                "Astoria, NY 11105"
+            ]
+        },
+        "phone": "+17185452200",
+        "display_phone": "(718) 545-2200",
+        "distance": 6033.929651082504
+    },
+    {
+        "id": "jTvExXa9M8QqS_Wn_4KB5g",
+        "alias": "harissa-grill-long-island-city",
+        "name": "Harissa Grill",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D48SY8qBrlJhCpDB68kD1w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/harissa-grill-long-island-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7430133,
+            "longitude": -73.9363643
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "30-30 47th Ave",
+            "address2": "Ste 130",
+            "address3": "",
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "30-30 47th Ave",
+                "Ste 130",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+13479249090",
+        "display_phone": "(347) 924-9090",
+        "distance": 4042.2685208479347
+    },
+    {
+        "id": "lzUkaMCuxYWR1cL_q3ElsQ",
+        "alias": "dar-525-brooklyn-2",
+        "name": "Dar 525",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q_BcFhwac0ZhdORGCZN5tw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dar-525-brooklyn-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 123,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "kebab",
+                "title": "Kebab"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.72308,
+            "longitude": -73.9452699
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "168 Driggs Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11222",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "168 Driggs Ave",
+                "Brooklyn, NY 11222"
+            ]
+        },
+        "phone": "+17183890003",
+        "display_phone": "(718) 389-0003",
+        "distance": 4984.075414324793
+    },
+    {
+        "id": "aGzGqDMdR8NbWSzE0Oqm_w",
+        "alias": "stix-bar-and-grill-new-york",
+        "name": "Stix Bar and Grill",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MaV4e8dhygTJMxKzFIhIfQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/stix-bar-and-grill-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7467918,
+            "longitude": -73.9917221
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "127 W 28th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "127 W 28th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12129739000",
+        "display_phone": "(212) 973-9000",
+        "distance": 1870.1853890216578
+    },
+    {
+        "id": "lKgTNYp-oFL_hTddicAjzw",
+        "alias": "cava-new-york-7",
+        "name": "CAVA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n5KQSURpRUoiuf1TsLG8DQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cava-new-york-7?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 80,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.721964,
+            "longitude": -73.996499
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "50 Spring St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "50 Spring St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+17185029262",
+        "display_phone": "(718) 502-9262",
+        "distance": 4515.520717284141
+    },
+    {
+        "id": "5JtSEryw2Yt8RT1Rm19ryQ",
+        "alias": "taste-and-sabor-bronx",
+        "name": "Taste & Sabor",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bOoIPDoccqEU5MBSD-cYsQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taste-and-sabor-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 43,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.88099,
+            "longitude": -73.90896
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "318 W 231st St",
+            "address2": "",
+            "address3": null,
+            "city": "Bronx",
+            "zip_code": "10463",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "318 W 231st St",
+                "Bronx, NY 10463"
+            ]
+        },
+        "phone": "+17187087704",
+        "display_phone": "(718) 708-7704",
+        "distance": 14648.526054497379
+    },
+    {
+        "id": "n4dX_B5xOJWHLKvqZ5o82g",
+        "alias": "doner-kebab-nyc-brooklyn-2",
+        "name": "Doner Kebab NYC",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_ZMNO9HZNNBzbCH7POnNzg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/doner-kebab-nyc-brooklyn-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 173,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.69216,
+            "longitude": -73.98755
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "34 Willoughby St",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11201",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "34 Willoughby St",
+                "Brooklyn, NY 11201"
+            ]
+        },
+        "phone": "+17182223434",
+        "display_phone": "(718) 222-3434",
+        "distance": 7615.394483335325
+    },
+    {
+        "id": "xEnNFXtMLDF5kZDxfaCJgA",
+        "alias": "the-halal-guys-new-york-2",
+        "name": "The Halal Guys",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/24lb-VP2zVySsY9cq45ETw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-halal-guys-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 9313,
+        "categories": [
+            {
+                "alias": "foodstands",
+                "title": "Food Stands"
+            },
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.761854,
+            "longitude": -73.979363
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "W 53rd St 6th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "W 53rd St 6th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 196.20559938550173
+    },
+    {
+        "id": "HHUMUAKDiJqrKSf2Qaxmlw",
+        "alias": "tava-turkish-mediterranean-brooklyn",
+        "name": "Tava Turkish Mediterranean",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FZG3MiU9QmYCg6dNI3ZoFQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tava-turkish-mediterranean-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 165,
+        "categories": [
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.673165,
+            "longitude": -73.983292
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "318 5th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11215",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "318 5th Ave",
+                "Brooklyn, NY 11215"
+            ]
+        },
+        "phone": "+17184995600",
+        "display_phone": "(718) 499-5600",
+        "distance": 9687.918229851126
+    },
+    {
+        "id": "9VLCikK2J1lqgnb9MOI-GQ",
+        "alias": "taste-of-the-palace-the-bronx",
+        "name": "Taste of the Palace",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_l_luHYPNdbBqnir7HYdWQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taste-of-the-palace-the-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 6,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.88709,
+            "longitude": -73.90465
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "436 W 238th St",
+            "address2": "",
+            "address3": null,
+            "city": "The Bronx",
+            "zip_code": "10463",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "436 W 238th St",
+                "The Bronx, NY 10463"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 15414.213716605802
+    },
+    {
+        "id": "GzLvItrtwlPpkH0HPEC_5w",
+        "alias": "nanoosh-new-york-3",
+        "name": "Nanoosh",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LU1pldrRCzttnKF4MH-XRQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/nanoosh-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 173,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7472875,
+            "longitude": -73.9832812
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "173 Madison Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "173 Madison Ave",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12124474345",
+        "display_phone": "(212) 447-4345",
+        "distance": 1492.803586093803
+    },
+    {
+        "id": "wctR1TrheHAwpHZ2sJknEw",
+        "alias": "yemen-cafe-and-restaurant-brooklyn-3",
+        "name": "Yemen Cafe & Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/naw33McdBGb70-6qc5go4A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/yemen-cafe-and-restaurant-brooklyn-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 509,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "soup",
+                "title": "Soup"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.6899167976363,
+            "longitude": -73.9936561765076
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "176 Atlantic Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11201",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "176 Atlantic Ave",
+                "Brooklyn, NY 11201"
+            ]
+        },
+        "phone": "+17188349533",
+        "display_phone": "(718) 834-9533",
+        "distance": 7920.433717738109
+    },
+    {
+        "id": "G2bUXNwpD3uf2AdmD1b_Pg",
+        "alias": "gazala-place-new-york-3",
+        "name": "Gazala Place",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MdDU8qDoGNQusri6q_KvPA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gazala-place-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 373,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            },
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.76265,
+            "longitude": -73.98978
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "709 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "709 9th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122450709",
+        "display_phone": "(212) 245-0709",
+        "distance": 1005.9518163585655
+    },
+    {
+        "id": "PSpGb8041o_FXpj3V4Y-iw",
+        "alias": "gyro-world-flushing-2",
+        "name": "Gyro World",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6Lljcesu99VHoJkrGifn2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gyro-world-flushing-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 550,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7581424,
+            "longitude": -73.7869091
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "194-21 Northern Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11358",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "194-21 Northern Blvd",
+                "Flushing, NY 11358"
+            ]
+        },
+        "phone": "+17184283800",
+        "display_phone": "(718) 428-3800",
+        "distance": 16138.543234703344
+    },
+    {
+        "id": "gLyCmWWmqvg2SUG4DBgtWA",
+        "alias": "family-corner-restaurant-astoria",
+        "name": "Family Corner Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jamCdnz2J8v9FdkVGMAHIA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/family-corner-restaurant-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 212,
+        "categories": [
+            {
+                "alias": "greek",
+                "title": "Greek"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7779502868652,
+            "longitude": -73.9089813232422
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2102 31st St",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11105",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2102 31st St",
+                "Astoria, NY 11105"
+            ]
+        },
+        "phone": "+17182047915",
+        "display_phone": "(718) 204-7915",
+        "distance": 6177.643288795134
+    },
+    {
+        "id": "0c6Xt-P2x40DbMW7tMVDgw",
+        "alias": "veranda-restaurant-and-cafe-bayside",
+        "name": "Veranda Restaurant & Cafe",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wf7MqkPXxbOkb81KPIUy_A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/veranda-restaurant-and-cafe-bayside?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 307,
+        "categories": [
+            {
+                "alias": "mediterranean",
+                "title": "Mediterranean"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "greek",
+                "title": "Greek"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75895,
+            "longitude": -73.77538
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "208-01 Northern Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Bayside",
+            "zip_code": "11361",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "208-01 Northern Blvd",
+                "Bayside, NY 11361"
+            ]
+        },
+        "phone": "+17182812233",
+        "display_phone": "(718) 281-2233",
+        "distance": 17105.747959795997
+    }
+]
