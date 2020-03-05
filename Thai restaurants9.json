@@ -1,0 +1,2233 @@
+[
+    {
+        "id": "MxMWPaC30sRkPKit_Omz2A",
+        "alias": "khun-noo-thai-noodle-house-woodside",
+        "name": "Khun Noo Thai Noodle House",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jZcxRfFO14TdxP2bFbLjAA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/khun-noo-thai-noodle-house-woodside?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 34,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74568,
+            "longitude": -73.91261
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "51-20 Skillman Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Woodside",
+            "zip_code": "11377",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "51-20 Skillman Ave",
+                "Woodside, NY 11377"
+            ]
+        },
+        "phone": "+17184268162",
+        "display_phone": "(718) 426-8162",
+        "distance": 5780.009559829411
+    },
+    {
+        "id": "KIERtmoOTz7r103MWw08nA",
+        "alias": "cafe-chili-brooklyn",
+        "name": "Cafe Chili",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EmbQrWI6B5JQPUfoBut9cA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cafe-chili-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 161,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.68801,
+            "longitude": -73.99334
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "172 Court St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11201",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "172 Court St",
+                "Brooklyn, NY 11201"
+            ]
+        },
+        "phone": "+17182600066",
+        "display_phone": "(718) 260-0066",
+        "distance": 8125.495959253389
+    },
+    {
+        "id": "yiyc5wbgSCe13I7hj_jb-A",
+        "alias": "pho-bang-restaurant-new-york",
+        "name": "Pho Bang Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H6gw8rEgE3BAIkAtr7wx_g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pho-bang-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 541,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71952,
+            "longitude": -73.99657
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "157 Mott St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "157 Mott St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129663797",
+        "display_phone": "(212) 966-3797",
+        "distance": 4774.63807439957
+    },
+    {
+        "id": "BEuZGvNlbM4tXq7YICyM6w",
+        "alias": "luannes-wild-ginger-all-asian-vegan-new-york",
+        "name": "LuAnne's Wild Ginger All-Asian Vegan",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zdEE5agmgnpzLB_xf9H1zA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/luannes-wild-ginger-all-asian-vegan-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 643,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7204631,
+            "longitude": -73.9964956
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "380 Broome St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "380 Broome St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129661883",
+        "display_phone": "(212) 966-1883",
+        "distance": 4672.970180185997
+    },
+    {
+        "id": "zqyGYIiCXL1Hz8KVZxbylQ",
+        "alias": "hello-saigon-new-york",
+        "name": "Hello Saigon",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LYw6wPijKa6o2hxZXshVdA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hello-saigon-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 293,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7289399955423,
+            "longitude": -74.0009501203895
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "180 Bleecker St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "180 Bleecker St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+12122542088",
+        "display_phone": "(212) 254-2088",
+        "distance": 3958.613935020048
+    },
+    {
+        "id": "fe9aDWC5giHgcuKjqSr_gQ",
+        "alias": "ruammit-thai-brooklyn",
+        "name": "Ruammit Thai",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fCoN_7FXAvyukurXPXoIUg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ruammit-thai-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 87,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.67324,
+            "longitude": -73.950452
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "742 Nostrand Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11216",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "742 Nostrand Ave",
+                "Brooklyn, NY 11216"
+            ]
+        },
+        "phone": "+17189287797",
+        "display_phone": "(718) 928-7797",
+        "distance": 9955.868601221258
+    },
+    {
+        "id": "Xw34tTIGTE0WdWVmXc02Vw",
+        "alias": "money-cat-brooklyn",
+        "name": "Money Cat",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LKPBNBFXDjR0MAgeLKEwyg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/money-cat-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 12,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.690851,
+            "longitude": -73.90883
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "554 Wilson Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11207",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "554 Wilson Ave",
+                "Brooklyn, NY 11207"
+            ]
+        },
+        "phone": "+19293973411",
+        "display_phone": "(929) 397-3411",
+        "distance": 9691.96193367815
+    },
+    {
+        "id": "rehmlZmUNL2AthW-VTXJJQ",
+        "alias": "tasty-thai-ridgewood",
+        "name": "Tasty Thai",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NX0ocs11fl3Dj1kTmpBrRw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tasty-thai-ridgewood?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 58,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.69984,
+            "longitude": -73.89958
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "72-04 Forest Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Ridgewood",
+            "zip_code": "11385",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "72-04 Forest Ave",
+                "Ridgewood, NY 11385"
+            ]
+        },
+        "phone": "+19179090937",
+        "display_phone": "(917) 909-0937",
+        "distance": 9445.744343920975
+    },
+    {
+        "id": "kiKUF11kNgEnM__P11nrig",
+        "alias": "tea-cup-cafe-elmhurst",
+        "name": "Tea Cup Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vQ6MQ3RFMtQHOOoiPK1CKQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tea-cup-cafe-elmhurst?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 116,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7440056330087,
+            "longitude": -73.8885498046875
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "76-23 Woodside Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Elmhurst",
+            "zip_code": "11377",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "76-23 Woodside Ave",
+                "Elmhurst, NY 11377"
+            ]
+        },
+        "phone": "+17184262222",
+        "display_phone": "(718) 426-2222",
+        "distance": 7788.3747298620365
+    },
+    {
+        "id": "Dqu-5RxNbbpBsL1Ssht9Ng",
+        "alias": "hunan-slurp-new-york-2",
+        "name": "Hunan Slurp",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IGmf-AwM7x5VLX-EL1C0lA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hunan-slurp-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 215,
+        "categories": [
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72669,
+            "longitude": -73.98563
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "112 1st Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10009",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "112 1st Ave",
+                "New York, NY 10009"
+            ]
+        },
+        "phone": "+16465859585",
+        "display_phone": "(646) 585-9585",
+        "distance": 3775.641669281347
+    },
+    {
+        "id": "Ge9wqsI72Mvk375CPvXurw",
+        "alias": "mr-khao-man-gai-jackson-heights",
+        "name": "Mr. Khao Man Gai",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dD9TvTmSrCRlheP5LWb0Qw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mr-khao-man-gai-jackson-heights?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 14,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "hainan",
+                "title": "Hainan"
+            },
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7467196,
+            "longitude": -73.8923393
+        },
+        "transactions": [],
+        "location": {
+            "address1": "73rd St & Roosevelt Avenue",
+            "address2": null,
+            "address3": null,
+            "city": "Jackson heights",
+            "zip_code": "11372",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "73rd St & Roosevelt Avenue",
+                "Jackson heights, NY 11372"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 7411.108104590903
+    },
+    {
+        "id": "tx-gxkns4uFyve7Eu5mYKA",
+        "alias": "tana-thai-bronx",
+        "name": "Tana Thai",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S3CWKAyjCYm-s-Hgg2mYzA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tana-thai-bronx?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 170,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.8513635,
+            "longitude": -73.8439993
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1890 Eastchester Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10461",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1890 Eastchester Rd",
+                "Bronx, NY 10461"
+            ]
+        },
+        "phone": "+17186841900",
+        "display_phone": "(718) 684-1900",
+        "distance": 15206.006497111755
+    },
+    {
+        "id": "caNQzquO-iCkMZzID87EqQ",
+        "alias": "hale-and-hearty-soups-new-york-10",
+        "name": "Hale and Hearty Soups",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rX-UB7UxrF_jjbrdNJfAxw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hale-and-hearty-soups-new-york-10?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 74,
+        "categories": [
+            {
+                "alias": "soup",
+                "title": "Soup"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.76339,
+            "longitude": -73.97667
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "55 W 56th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "55 W 56th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122459200",
+        "display_phone": "(212) 245-9200",
+        "distance": 397.8002441286953
+    },
+    {
+        "id": "kqJApXkfFn42SZZG7QTc4w",
+        "alias": "go-zen-new-york-3",
+        "name": "Go Zen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zIxMsSPL-X8rrKe6iaiRqA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/go-zen-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 562,
+        "categories": [
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "kosher",
+                "title": "Kosher"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7313398845326,
+            "longitude": -74.0005102638063
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "144 W 4th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "144 W 4th St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+12122607130",
+        "display_phone": "(212) 260-7130",
+        "distance": 3707.6794563139338
+    },
+    {
+        "id": "f_OiLWqldSmNy1MAvtWlPQ",
+        "alias": "cyclo-long-island-city",
+        "name": "Cyclo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7KpUQO7Ve9mGD_WG71G1Gg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cyclo-long-island-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 496,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.745714,
+            "longitude": -73.953549
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5-51 47th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "5-51 47th Ave",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+17187868309",
+        "display_phone": "(718) 786-8309",
+        "distance": 2649.006539026676
+    },
+    {
+        "id": "fJW2CdsqXrKRtaHqoZoeHg",
+        "alias": "jad-jaan-thai-vietnamese-new-york",
+        "name": "Jad Jaan Thai Vietnamese",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SQjkqypg59wxhoC0M7Qhmg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jad-jaan-thai-vietnamese-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 20,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.84124,
+            "longitude": -73.93768
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "83 Audubon Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10032",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "83 Audubon Ave",
+                "New York, NY 10032"
+            ]
+        },
+        "phone": "+19173883460",
+        "display_phone": "(917) 388-3460",
+        "distance": 9647.624883970211
+    },
+    {
+        "id": "ptWTdgSzSpH-0LD24QIH-w",
+        "alias": "wild-ink-new-york",
+        "name": "Wild Ink",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tZEeTncctkFhV8pDrERORA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wild-ink-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 143,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.753754,
+            "longitude": -74.001388
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "500 W 33rd St",
+            "address2": "Fl 5",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "500 W 33rd St",
+                "Fl 5",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+16469747305",
+        "display_phone": "(646) 974-7305",
+        "distance": 2057.3040593068013
+    },
+    {
+        "id": "QJj-f8cpIs81NtlvS_Dc3w",
+        "alias": "cafe-klom-klorm-brooklyn",
+        "name": "Cafe @ Klom Klorm",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-A3olm_cGp8sfZEULFUuhQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cafe-klom-klorm-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 19,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.70311,
+            "longitude": -73.91708
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "181 Wyckoff Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11237",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "181 Wyckoff Ave",
+                "Brooklyn, NY 11237"
+            ]
+        },
+        "phone": "+17183663670",
+        "display_phone": "(718) 366-3670",
+        "distance": 8190.471079063652
+    },
+    {
+        "id": "VTNMeipIiyRRenXcRBedpg",
+        "alias": "hk-food-court-elmhurst",
+        "name": "HK Food Court",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aQFpIOOSq7uPjFGG2BbqlA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hk-food-court-elmhurst?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 98,
+        "categories": [
+            {
+                "alias": "food_court",
+                "title": "Food Court"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7414872,
+            "longitude": -73.8827301
+        },
+        "transactions": [],
+        "location": {
+            "address1": "8202 45th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Elmhurst",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "8202 45th Ave",
+                "Elmhurst, NY 11373"
+            ]
+        },
+        "phone": "+17186513838",
+        "display_phone": "(718) 651-3838",
+        "distance": 8347.268153751338
+    },
+    {
+        "id": "iiZpFWVd1Cmd-cSOanmXAA",
+        "alias": "fusha-asian-cuisine-new-york-2",
+        "name": "Fusha Asian Cuisine",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EF4ikJCLCXkC6o9GQR89RQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fusha-asian-cuisine-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 206,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75915,
+            "longitude": -73.96252
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1065 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10022",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1065 1st Ave",
+                "New York, NY 10022"
+            ]
+        },
+        "phone": "+12127528883",
+        "display_phone": "(212) 752-8883",
+        "distance": 1340.5640629620857
+    },
+    {
+        "id": "qn9dgCRGNjHKDGilBamkiw",
+        "alias": "noodlefan-castleton-corners",
+        "name": "Noodlefan",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/71INZkML7L9jLiWsvsArXg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/noodlefan-castleton-corners?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 115,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.61319,
+            "longitude": -74.12367
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1809 Victory Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Castleton Corners",
+            "zip_code": "10314",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1809 Victory Blvd",
+                "Castleton Corners, NY 10314"
+            ]
+        },
+        "phone": "+17187277499",
+        "display_phone": "(718) 727-7499",
+        "distance": 20424.7819469558
+    },
+    {
+        "id": "ZUJqeftWycx9uC1tS4pYZg",
+        "alias": "sweetgreen-new-york-42",
+        "name": "sweetgreen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pIxw9-dgTS5rEv9ne3imhA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sweetgreen-new-york-42?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 15,
+        "categories": [
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.7546501,
+            "longitude": -73.9766658
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "230 Park Ave",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10169",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "230 Park Ave",
+                "New York, NY 10169"
+            ]
+        },
+        "phone": "+19179702300",
+        "display_phone": "(917) 970-2300",
+        "distance": 637.7798939496637
+    },
+    {
+        "id": "iB1tr_xJk7aAt0AhewoB9Q",
+        "alias": "thai-nam-restaurant-new-york",
+        "name": "Thai-Nam Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tJJ7hZXE181okq7QgVXCIw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thai-nam-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 45,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 40.7532501,
+            "longitude": -73.9740524
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "137 E 45th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "137 E 45th St",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+12128678222",
+        "display_phone": "(212) 867-8222",
+        "distance": 854.447919633245
+    },
+    {
+        "id": "noKyBvc-z4eTGgxlvMnKjA",
+        "alias": "phobar-new-york-9",
+        "name": "PhoBar",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dxGUjQKl9dgqUjkNp02yjw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/phobar-new-york-9?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 189,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72975,
+            "longitude": -73.99893
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "82 W 3rd St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "82 W 3rd St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12128033369",
+        "display_phone": "(212) 803-3369",
+        "distance": 3805.4534803432457
+    },
+    {
+        "id": "ba-MPbYnM6T30RNgPdUvtQ",
+        "alias": "shanghai-red-asian-latin-bistro-bronx-2",
+        "name": "Shanghai Red Asian Latin Bistro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ygm5bjAuAhWOhhafsmwKgA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/shanghai-red-asian-latin-bistro-bronx-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 77,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8401620296024,
+            "longitude": -73.8425095552948
+        },
+        "transactions": [
+            "pickup",
+            "delivery",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "127 Westchester Sq",
+            "address2": "",
+            "address3": null,
+            "city": "Bronx",
+            "zip_code": "10461",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "127 Westchester Sq",
+                "Bronx, NY 10461"
+            ]
+        },
+        "phone": "+17186846262",
+        "display_phone": "(718) 684-6262",
+        "distance": 14493.344776044081
+    },
+    {
+        "id": "SkYcO8FaqYgoP-66g58OMw",
+        "alias": "thai-pot-forest-hills",
+        "name": "Thai Pot",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Qu_oE3bTpWt-pJw8r4LXxw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thai-pot-forest-hills?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 235,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7247545048924,
+            "longitude": -73.8498401641846
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "103-07 Queens Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Forest Hills",
+            "zip_code": "11375",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "103-07 Queens Blvd",
+                "Forest Hills, NY 11375"
+            ]
+        },
+        "phone": "+17188973898",
+        "display_phone": "(718) 897-3898",
+        "distance": 11534.115621568686
+    },
+    {
+        "id": "RYoc4EBUNOtgbg7c32OG9A",
+        "alias": "atoboy-new-york",
+        "name": "Atoboy",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FtU0bzEh54L5CR2o-EBXXA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/atoboy-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 359,
+        "categories": [
+            {
+                "alias": "korean",
+                "title": "Korean"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.74364,
+            "longitude": -73.98456
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "43 E 28th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "43 E 28th St",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+16464767217",
+        "display_phone": "(646) 476-7217",
+        "distance": 1909.477918170123
+    },
+    {
+        "id": "AeNU0DYNtYDVPGnWAIh-0Q",
+        "alias": "wok-to-walk-new-york-2",
+        "name": "Wok To Walk",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fq49XX29ZAZYpo4JJ_xptw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wok-to-walk-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 398,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "hotdogs",
+                "title": "Fast Food"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7547179,
+            "longitude": -73.991281
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "570 8th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "570 8th Ave",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+12123911500",
+        "display_phone": "(212) 391-1500",
+        "distance": 1237.914867287947
+    },
+    {
+        "id": "q2HGvziLlfQGChoDPFjTCQ",
+        "alias": "szechaun-mirchi-jersey-city",
+        "name": "Szechaun Mirchi",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t89MoRdC6syxo33f1NV2_Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/szechaun-mirchi-jersey-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73621,
+            "longitude": -74.067281
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "850 Newark Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07306",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "850 Newark Ave",
+                "Jersey City, NJ 07306"
+            ]
+        },
+        "phone": "+12017433720",
+        "display_phone": "(201) 743-3720",
+        "distance": 7940.894005425002
+    },
+    {
+        "id": "LpVbI-E9C-CSp7WhU5h2Iw",
+        "alias": "fishmarket-restaurant-new-york",
+        "name": "Fishmarket Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BxY50B6ntFYQa8COuI1Fog/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fishmarket-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 547,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.70717,
+            "longitude": -74.00192
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "111 South St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10038",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "111 South St",
+                "New York, NY 10038"
+            ]
+        },
+        "phone": "+19173638101",
+        "display_phone": "(917) 363-8101",
+        "distance": 6219.792314470137
+    },
+    {
+        "id": "brMIenh-sAXr1zq6zpBKLA",
+        "alias": "sawasde-thai-cooking-brooklyn",
+        "name": "Sawasde Thai Cooking",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FAQdKnpQfIVP7tUpXapZzQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sawasde-thai-cooking-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 142,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.6454,
+            "longitude": -73.97973
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "359 McDonald Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11218",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "359 McDonald Ave",
+                "Brooklyn, NY 11218"
+            ]
+        },
+        "phone": "+17184360589",
+        "display_phone": "(718) 436-0589",
+        "distance": 12774.865519239851
+    },
+    {
+        "id": "HzJP6ICu_Naf5R0swzd-dg",
+        "alias": "amina-thai-jamaica",
+        "name": "Amina Thai",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Jd9t1MxANeVWkcur5F4KfA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/amina-thai-jamaica?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 147,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7107274,
+            "longitude": -73.7929057
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "169-22 Hillside Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jamaica",
+            "zip_code": "11432",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "169-22 Hillside Ave",
+                "Jamaica, NY 11432"
+            ]
+        },
+        "phone": "+17188801804",
+        "display_phone": "(718) 880-1804",
+        "distance": 16577.353877192825
+    },
+    {
+        "id": "mESab-FqL5QqSVsnX72asQ",
+        "alias": "zen-ramen-and-sushi-new-york",
+        "name": "Zen Ramen & Sushi",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-W7fV5FcFuq-KGw_IT_fow/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/zen-ramen-and-sushi-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1647,
+        "categories": [
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            },
+            {
+                "alias": "ramen",
+                "title": "Ramen"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.75185,
+            "longitude": -73.98892
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "150 W 36th street",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "150 W 36th street",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+16468707509",
+        "display_phone": "(646) 870-7509",
+        "distance": 1285.1364838057887
+    },
+    {
+        "id": "rvI-gvqsWy_HmunwUsjmGg",
+        "alias": "bangkok-bar-brooklyn-2",
+        "name": "Bangkok BAR",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DDic7vT2iGRqZcmE6JITJw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bangkok-bar-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.6563098,
+            "longitude": -74.0080235
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "238 36th St",
+            "address2": null,
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11232",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "238 36th St",
+                "Brooklyn, NY 11232"
+            ]
+        },
+        "phone": "+19172447158",
+        "display_phone": "(917) 244-7158",
+        "distance": 11825.758316844885
+    },
+    {
+        "id": "2wxwpJs4ZrgniJH6Cst-bA",
+        "alias": "mr-thai-ridgewood",
+        "name": "Mr. Thai",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zqD6HIv4r9WxIKCdUDU_og/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mr-thai-ridgewood?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 49,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.70028,
+            "longitude": -73.90205
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "57-42 Myrtle Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Ridgewood",
+            "zip_code": "11385",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "57-42 Myrtle Ave",
+                "Ridgewood, NY 11385"
+            ]
+        },
+        "phone": "+19294478169",
+        "display_phone": "(929) 447-8169",
+        "distance": 9269.603340234733
+    },
+    {
+        "id": "IdZ5DnGnAEXcmz2jZXGFiQ",
+        "alias": "hiroshi-japanese-fusion-new-york",
+        "name": "Hiroshi Japanese Fusion",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lj8iS0QEk2v6E3lWw8oupA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hiroshi-japanese-fusion-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 185,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.74836,
+            "longitude": -73.97585
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "585 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "585 3rd Ave",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12126619288",
+        "display_phone": "(212) 661-9288",
+        "distance": 1335.761204276979
+    },
+    {
+        "id": "jIbFA311ECY4Fv4L0JikdQ",
+        "alias": "just-pho-new-york-2",
+        "name": "Just Pho",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/csy62hnNVt9F2s3fI3f4UA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/just-pho-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 163,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "soup",
+                "title": "Soup"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74989,
+            "longitude": -73.99425
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "252 W 31st St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "252 W 31st St",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+19172617494",
+        "display_phone": "(917) 261-7494",
+        "distance": 1756.097331693755
+    },
+    {
+        "id": "oe8GEFE4QLFAKt87y7zcgA",
+        "alias": "very-fresh-noodles-new-york",
+        "name": "Very Fresh Noodles",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/62nOxnKOKR4LAuBkgNBy1Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/very-fresh-noodles-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 981,
+        "categories": [
+            {
+                "alias": "taiwanese",
+                "title": "Taiwanese"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7423387008486,
+            "longitude": -74.00625
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "425 W 15th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "425 W 15th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 3068.397827131836
+    },
+    {
+        "id": "TuGFxspYWd0smugwUeN9sA",
+        "alias": "a-gusto-thai-bistro-bedford-stuyvesant-2",
+        "name": "A Gusto Thai Bistro",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sFBiGJ0e2oPanbECLRHUFw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/a-gusto-thai-bistro-bedford-stuyvesant-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 126,
+        "categories": [
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "wine_bars",
+                "title": "Wine Bars"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.679782,
+            "longitude": -73.942825
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1450 Fulton St",
+            "address2": "",
+            "address3": "",
+            "city": "Bedford-Stuyvesant",
+            "zip_code": "11216",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1450 Fulton St",
+                "Bedford-Stuyvesant, NY 11216"
+            ]
+        },
+        "phone": "+13475339961",
+        "display_phone": "(347) 533-9961",
+        "distance": 9428.7806170064
+    },
+    {
+        "id": "zJ6-ZCrtJA943nsVl2l8gQ",
+        "alias": "thai-cuisine-bronx-2",
+        "name": "Thai Cuisine",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dGMOA_UaYsofpYEIqkUw4w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thai-cuisine-bronx-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 53,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.83811,
+            "longitude": -73.8638
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1509 White Plains Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10462",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1509 White Plains Rd",
+                "Bronx, NY 10462"
+            ]
+        },
+        "phone": "+16464069664",
+        "display_phone": "(646) 406-9664",
+        "distance": 12971.360375892029
+    },
+    {
+        "id": "WueXPnaTvM_R5UuPjxbbQw",
+        "alias": "amber-west-village-new-york-93",
+        "name": "Amber West Village",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bWJfcziGzklG-0A-wLtyQg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/amber-west-village-new-york-93?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 207,
+        "categories": [
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.733165,
+            "longitude": -74.006958
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "135 Christopher St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10014",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "135 Christopher St",
+                "New York, NY 10014"
+            ]
+        },
+        "phone": "+12124775880",
+        "display_phone": "(212) 477-5880",
+        "distance": 3846.8291003050017
+    },
+    {
+        "id": "IIKK1IKRVNEyE7lFo9pprQ",
+        "alias": "tiny-thai-cafe-new-york-2",
+        "name": "Tiny Thai Cafe",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tiny-thai-cafe-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.742176,
+            "longitude": -73.98104
+        },
+        "transactions": [],
+        "location": {
+            "address1": "394 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "394 3rd Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 2016.892631680482
+    },
+    {
+        "id": "Il1K0hzGEiJgLLBCZCfA1A",
+        "alias": "pnoi-thaithai-grocery-new-york",
+        "name": "P'Noi Thaithai Grocery",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vqwg0CAzc5weBMkafmWhjw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pnoi-thaithai-grocery-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 27,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "importedfood",
+                "title": "Imported Food"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74369,
+            "longitude": -73.88835
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "76-13 Woodside Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "76-13 Woodside Ave",
+                "New York, NY 11373"
+            ]
+        },
+        "phone": "+19177696168",
+        "display_phone": "(917) 769-6168",
+        "distance": 7812.704128253138
+    },
+    {
+        "id": "CqQ2Og9kf-LhlUWtODalCQ",
+        "alias": "blue-ribbon-sushi-bar-and-grill-new-york-new-york",
+        "name": "Blue Ribbon Sushi Bar & Grill - New York",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/efOJP6kyQRUr-v268aBZ_g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/blue-ribbon-sushi-bar-and-grill-new-york-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 754,
+        "categories": [
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            },
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7674948014194,
+            "longitude": -73.9831978922043
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "308 W 58th St",
+            "address2": "6 Columbus Hotel",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "308 W 58th St",
+                "6 Columbus Hotel",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12123970404",
+        "display_phone": "(212) 397-0404",
+        "distance": 900.9918179077467
+    },
+    {
+        "id": "PBUIaPtgnhmdHE3KHglK-g",
+        "alias": "jean-georges-new-york-2",
+        "name": "Jean-Georges",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tSJhcc9W1wb9peait1pMLg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jean-georges-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1880,
+        "categories": [
+            {
+                "alias": "french",
+                "title": "French"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7691122743293,
+            "longitude": -73.9814290717583
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$$$",
+        "location": {
+            "address1": "1 Central Park W",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1 Central Park W",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12122993900",
+        "display_phone": "(212) 299-3900",
+        "distance": 1019.6234165976689
+    },
+    {
+        "id": "YIYetgfNE34G8JhQu98XQw",
+        "alias": "ozen-new-york-3",
+        "name": "Ozen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CUBicKA5CabMSo6gw-T3Mw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ozen-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 187,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7948819801249,
+            "longitude": -73.9700052707462
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "760 Amsterdam Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "760 Amsterdam Ave",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12126780300",
+        "display_phone": "(212) 678-0300",
+        "distance": 3920.6034877546645
+    },
+    {
+        "id": "ybPMdh4XiTTwLWOMUXdwlw",
+        "alias": "thai-101-bistro-brooklyn-2",
+        "name": "Thai 101 Bistro",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l54hBrGSHNlffEZ2lRC9Vg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thai-101-bistro-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 182,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.6930313110352,
+            "longitude": -73.9674987792969
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "448 Myrtle Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11205",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "448 Myrtle Ave",
+                "Brooklyn, NY 11205"
+            ]
+        },
+        "phone": "+17188558518",
+        "display_phone": "(718) 855-8518",
+        "distance": 7523.808736702542
+    },
+    {
+        "id": "Hgc27X2PX2jZQMcVtbJ9vQ",
+        "alias": "mother-of-pearl-new-york",
+        "name": "Mother of Pearl",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ejG0ykgeobnNzsVHCT2mhA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mother-of-pearl-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 428,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "tikibars",
+                "title": "Tiki Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72566,
+            "longitude": -73.98412
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "95 Ave A",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10009",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "95 Ave A",
+                "New York, NY 10009"
+            ]
+        },
+        "phone": "+12126146818",
+        "display_phone": "(212) 614-6818",
+        "distance": 3870.849006214671
+    },
+    {
+        "id": "XB8hpls-B4ekyZvuouxqng",
+        "alias": "ninja-grill-new-york",
+        "name": "Ninja Grill",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GBcq7AUyYBScQS8BmM9BFQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ninja-grill-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 86,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71911,
+            "longitude": -73.98823
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "103 Essex St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "103 Essex St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12129950999",
+        "display_phone": "(212) 995-0999",
+        "distance": 4644.01852648457
+    },
+    {
+        "id": "3_R-YG5_KXS4m2ct5-QYhw",
+        "alias": "by-chloe-new-york-34",
+        "name": "by CHLOE",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LvUykLTnH6Y6QYxnteTAaw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/by-chloe-new-york-34?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "gluten_free",
+                "title": "Gluten-Free"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.758951,
+            "longitude": -73.970858
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "630 Lexington Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10022",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "630 Lexington Ave",
+                "New York, NY 10022"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 626.9758353131186
+    }
+]

@@ -1,0 +1,2245 @@
+[
+    {
+        "id": "mt4KWnuakQLhJ6NhgbXqVA",
+        "alias": "tasty-delicious-canarsie",
+        "name": "Tasty Delicious",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CCJmoh08txWFc4RtUtvIAw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tasty-delicious-canarsie?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "bakeries",
+                "title": "Bakeries"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.645882,
+            "longitude": -73.9028674
+        },
+        "transactions": [],
+        "location": {
+            "address1": "1397 Rockaway Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Canarsie",
+            "zip_code": "11236",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1397 Rockaway Ave",
+                "Canarsie, NY 11236"
+            ]
+        },
+        "phone": "+17186760149",
+        "display_phone": "(718) 676-0149",
+        "distance": 14222.323731998842
+    },
+    {
+        "id": "_oB3M47mlg3dJGKKIYkRIA",
+        "alias": "jewel-of-india-manhattan",
+        "name": "Jewel of India",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bX-v_23KjrkpdrqS6gwvkg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jewel-of-india-manhattan?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.7266884,
+            "longitude": -73.9874496
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "324 E 6th St",
+            "address2": null,
+            "address3": "",
+            "city": "Manhattan",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "324 E 6th St",
+                "Manhattan, NY 10003"
+            ]
+        },
+        "phone": "+12125332245",
+        "display_phone": "(212) 533-2245",
+        "distance": 3794.8609854785545
+    },
+    {
+        "id": "XNJgKHavBZm47RpudtAn3A",
+        "alias": "taste-of-lahore-jackson-heights",
+        "name": "Taste Of Lahore",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VlGKgyaOx1jrV5wtV9xRUg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taste-of-lahore-jackson-heights?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 84,
+        "categories": [
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7545891,
+            "longitude": -73.8931961
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "73-10 Northern Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Jackson Heights",
+            "zip_code": "11372",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "73-10 Northern Blvd",
+                "Jackson Heights, NY 11372"
+            ]
+        },
+        "phone": "+17187796700",
+        "display_phone": "(718) 779-6700",
+        "distance": 7205.9942145804125
+    },
+    {
+        "id": "p7Dj6-OEWfFTP_o_MsJyxw",
+        "alias": "roti-in-a-box-new-york",
+        "name": "Roti in a Box",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/roti-in-a-box-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73621,
+            "longitude": -73.98528
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "216 3rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "216 3rd Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+17182606455",
+        "display_phone": "(718) 260-6455",
+        "distance": 2724.959030045109
+    },
+    {
+        "id": "sUVRmTS3gwZtdDbjA5TPpA",
+        "alias": "kebab-and-curry-in-a-hurry-new-york",
+        "name": "Kebab & Curry In A Hurry",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nPDnjZc-Vb6Te7vty6kLxA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kebab-and-curry-in-a-hurry-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 9,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.8019218,
+            "longitude": -73.9345703
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "2409 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10035",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2409 2nd Ave",
+                "New York, NY 10035"
+            ]
+        },
+        "phone": "+12123482880",
+        "display_phone": "(212) 348-2880",
+        "distance": 5935.577627335001
+    },
+    {
+        "id": "HsEK7jGmzI7KP1e0N_6uQw",
+        "alias": "mysttik-masaala-astoria-2",
+        "name": "Mysttik Masaala",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T-W2hCnMuF160TD7f8QT-Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mysttik-masaala-astoria-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 45,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.7761445017191,
+            "longitude": -73.9101906
+        },
+        "transactions": [],
+        "location": {
+            "address1": "21-77 31st St",
+            "address2": "",
+            "address3": null,
+            "city": "Astoria",
+            "zip_code": "11105",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "21-77 31st St",
+                "Astoria, NY 11105"
+            ]
+        },
+        "phone": "+19174003090",
+        "display_phone": "(917) 400-3090",
+        "distance": 6019.178477624789
+    },
+    {
+        "id": "pwarWuPn7Aw_il-epzJEgg",
+        "alias": "awash-ethiopian-restaurant-new-york-3",
+        "name": "Awash Ethiopian Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MTJUXz_vjrh7-qaKIXzyxw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/awash-ethiopian-restaurant-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 329,
+        "categories": [
+            {
+                "alias": "ethiopian",
+                "title": "Ethiopian"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72658,
+            "longitude": -73.98682
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "338 E 6th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "338 E 6th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12129829589",
+        "display_phone": "(212) 982-9589",
+        "distance": 3807.0324958574024
+    },
+    {
+        "id": "XYusVoJKFBU_-LIGYlkZeQ",
+        "alias": "punjab-restaurant-brooklyn",
+        "name": "Punjab Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9pqNVEeOVh_XuV9hjd-HQA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/punjab-restaurant-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 26,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.640671,
+            "longitude": -73.968811
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "691 Coney Island Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11218",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "691 Coney Island Ave",
+                "Brooklyn, NY 11218"
+            ]
+        },
+        "phone": "+17188566207",
+        "display_phone": "(718) 856-6207",
+        "distance": 13312.750879133064
+    },
+    {
+        "id": "CXGy1jTUVkDpA2-wJNujyQ",
+        "alias": "namaste-queens",
+        "name": "Namaste",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TWHpP74m9GE-T3kjVWhG8w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/namaste-queens?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.67459,
+            "longitude": -73.807
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "131-10 Rockaway Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Queens",
+            "zip_code": "11420",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "131-10 Rockaway Blvd",
+                "Queens, NY 11420"
+            ]
+        },
+        "phone": "+17186746780",
+        "display_phone": "(718) 674-6780",
+        "distance": 17307.40882736166
+    },
+    {
+        "id": "eVZGBIWAmQxiTwVYA0pjWA",
+        "alias": "little-gujrat-deli-new-york",
+        "name": "Little Gujrat Deli",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/little-gujrat-deli-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.799697,
+            "longitude": -73.962936
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "946 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "946 Columbus Ave",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12128662937",
+        "display_phone": "(212) 866-2937",
+        "distance": 4580.156449795525
+    },
+    {
+        "id": "shNn0uGXQBD7wEIhbtzeIg",
+        "alias": "malika-exclusive-indian-restaurant-new-york",
+        "name": "Malika Exclusive Indian Restaurant",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/malika-exclusive-indian-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.7511443,
+            "longitude": -73.9736139
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "210 E 43rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "210 E 43rd St",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+12126816775",
+        "display_phone": "(212) 681-6775",
+        "distance": 1109.928844130203
+    },
+    {
+        "id": "E8atCW6l6y1SVeEXbbXzEA",
+        "alias": "sacred-chow-new-york",
+        "name": "Sacred Chow",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kICk5dtsKe-xmAXKYbeyTA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sacred-chow-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 560,
+        "categories": [
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "kosher",
+                "title": "Kosher"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72959,
+            "longitude": -73.99944
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "227 Sullivan St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "227 Sullivan St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+12123370863",
+        "display_phone": "(212) 337-0863",
+        "distance": 3834.5740374862226
+    },
+    {
+        "id": "de_HHnpR9mYejcImO8jmVQ",
+        "alias": "falguni-family-restaurant-brooklyn-2",
+        "name": "Falguni Family Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SJI57AOiGfTEa4HhPrrlaw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/falguni-family-restaurant-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 6,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "afghani",
+                "title": "Afghan"
+            },
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.63491398402,
+            "longitude": -73.9643950150184
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "1326 Newkirk Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11230",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1326 Newkirk Ave",
+                "Brooklyn, NY 11230"
+            ]
+        },
+        "phone": "+17187584184",
+        "display_phone": "(718) 758-4184",
+        "distance": 13983.464635170807
+    },
+    {
+        "id": "XipQLDbyTl5tsLlyzAWzug",
+        "alias": "jajaja-new-york",
+        "name": "Jajaja",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6HT76TsvGr6XtRVzBi4S_g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jajaja-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 918,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7141530317142,
+            "longitude": -73.9904247969389
+        },
+        "transactions": [
+            "delivery",
+            "restaurant_reservation",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "162 E Broadway",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "162 E Broadway",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+16468835453",
+        "display_phone": "(646) 883-5453",
+        "distance": 5219.447623946914
+    },
+    {
+        "id": "l4fwf8VwAokv3MWT45Ab7g",
+        "alias": "bunna-cafe-brooklyn",
+        "name": "Bunna Cafe",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jGKIcCZ2lx23kKX2YRug7g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bunna-cafe-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 598,
+        "categories": [
+            {
+                "alias": "ethiopian",
+                "title": "Ethiopian"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "african",
+                "title": "African"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.705042,
+            "longitude": -73.928078
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1084 Flushing Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11237",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1084 Flushing Ave",
+                "Brooklyn, NY 11237"
+            ]
+        },
+        "phone": "+13472952227",
+        "display_phone": "(347) 295-2227",
+        "distance": 7462.4189970390335
+    },
+    {
+        "id": "L6DAp6L1ZJKeeDN2PwoOLQ",
+        "alias": "adels-famous-halal-food-new-york",
+        "name": "Adel's Famous Halal Food",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v4a2PNP0mhEkExzYGG1_MQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/adels-famous-halal-food-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 248,
+        "categories": [
+            {
+                "alias": "mideastern",
+                "title": "Middle Eastern"
+            },
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.76394,
+            "longitude": -73.99193
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "49th & 6th",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "49th & 6th",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 226.3855809866882
+    },
+    {
+        "id": "XDFrK9kelRfGcQvBN3O1OA",
+        "alias": "dosa-and-biryani-house-saddle-brook-3",
+        "name": "Dosa and Biryani House",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gRPCqXD4WKNLTI1iVXu7kQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dosa-and-biryani-house-saddle-brook-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 133,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "buffets",
+                "title": "Buffets"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.896566,
+            "longitude": -74.095439
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "350 Market St",
+            "address2": "",
+            "address3": "",
+            "city": "Saddle Brook",
+            "zip_code": "07663",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "350 Market St",
+                "Saddle Brook, NJ 07663"
+            ]
+        },
+        "phone": "+12018450001",
+        "display_phone": "(201) 845-0001",
+        "distance": 18071.191890080532
+    },
+    {
+        "id": "Tx3pJnxQo00twdxjvjc8Ow",
+        "alias": "habibi-halal-food-new-york",
+        "name": "Habibi Halal Food",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-SdDXDiDCwV4EtqVFojJ7Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/habibi-halal-food-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 44,
+        "categories": [
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "foodstands",
+                "title": "Food Stands"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7401285,
+            "longitude": -73.9855201
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "115 E 23rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "115 E 23rd St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 2310.455328507559
+    },
+    {
+        "id": "3vpqJK9Oz515AZR-bFW5Ig",
+        "alias": "dosass-uthappam-jersey-city",
+        "name": "Dosas's Uthappam",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1qb9gOITsjDnR_1aBb5I_Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dosass-uthappam-jersey-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.735691,
+            "longitude": -74.065111
+        },
+        "transactions": [],
+        "location": {
+            "address1": "1-15 Liberty Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "zip_code": "07306",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1-15 Liberty Ave",
+                "Jersey City, NJ 07306"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 7789.0166316606455
+    },
+    {
+        "id": "DvnDSayg9dPpkmHIY3ap6A",
+        "alias": "vatan-express-newark",
+        "name": "Vatan Express",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Nsb1wdWw6-FeqTMTZJPIfw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/vatan-express-newark?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 40.7362,
+            "longitude": -74.1685
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "location": {
+            "address1": "89 Mulberry St",
+            "address2": "",
+            "address3": null,
+            "city": "Newark",
+            "zip_code": "07102",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "89 Mulberry St",
+                "Newark, NJ 07102"
+            ]
+        },
+        "phone": "+19735968244",
+        "display_phone": "(973) 596-8244",
+        "distance": 16229.902033729262
+    },
+    {
+        "id": "T-oHllUXvyGBvhn3id5Vwg",
+        "alias": "new-asha-sri-lanka-restaurant-staten-island",
+        "name": "New Asha Sri Lanka Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Va5-qyERGP2hzir9geuovA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-asha-sri-lanka-restaurant-staten-island?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 115,
+        "categories": [
+            {
+                "alias": "srilankan",
+                "title": "Sri Lankan"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.6342048,
+            "longitude": -74.0855344
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "322 Victory Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Staten Island",
+            "zip_code": "10301",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "322 Victory Blvd",
+                "Staten Island, NY 10301"
+            ]
+        },
+        "phone": "+17184200649",
+        "display_phone": "(718) 420-0649",
+        "distance": 16665.79468999718
+    },
+    {
+        "id": "1gK-0_lGqjxbwiHWcXXdzg",
+        "alias": "abcv-new-york-2",
+        "name": "ABCV",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tX-W0xtvowSoEMyAXoQPeA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/abcv-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 517,
+        "categories": [
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7379039812942,
+            "longitude": -73.9888740099824
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "38 E 19th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "38 E 19th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12124755829",
+        "display_phone": "(212) 475-5829",
+        "distance": 2630.265139972085
+    },
+    {
+        "id": "Z2qZSs6oVJQFSc44tytAHg",
+        "alias": "india-house-restaurant-brooklyn-4",
+        "name": "India House Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tsq-rYvFtHGzhkJfmnFN5g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/india-house-restaurant-brooklyn-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 120,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.6787193651342,
+            "longitude": -73.9496699720621
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "586 Nostrand Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11216",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "586 Nostrand Ave",
+                "Brooklyn, NY 11216"
+            ]
+        },
+        "phone": "+17188577011",
+        "display_phone": "(718) 857-7011",
+        "distance": 9381.959988471453
+    },
+    {
+        "id": "-D-ye8DU5KndJ7mqBpKU1g",
+        "alias": "araf-biriyani-and-halal-food-new-york",
+        "name": "Araf Biriyani & Halal Food",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/plv0fAaGby1tIqkn1Y001w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/araf-biriyani-and-halal-food-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.7258,
+            "longitude": -73.99793
+        },
+        "transactions": [],
+        "location": {
+            "address1": "",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 4229.974745432029
+    },
+    {
+        "id": "AKaO-EaJ8EgUnx5EPZ8N4g",
+        "alias": "alis-original-roti-shop-brooklyn",
+        "name": "Ali's Original Roti Shop",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YZ-3Wh7Qeb5cENBxqQy5Ow/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alis-original-roti-shop-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 142,
+        "categories": [
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.6665,
+            "longitude": -73.9312
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "337 Utica Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11213",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "337 Utica Ave",
+                "Brooklyn, NY 11213"
+            ]
+        },
+        "phone": "+17187787329",
+        "display_phone": "(718) 778-7329",
+        "distance": 11164.718753873807
+    },
+    {
+        "id": "VNmSye6SGkwtSijlPnV5YA",
+        "alias": "spice-rack-staten-island",
+        "name": "Spice Rack",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qfLBx69CvHTUddGWH6aEBA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/spice-rack-staten-island?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 25,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "srilankan",
+                "title": "Sri Lankan"
+            },
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.61321,
+            "longitude": -74.12325
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1791 Victory Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Staten Island",
+            "zip_code": "10314",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1791 Victory Blvd",
+                "Staten Island, NY 10314"
+            ]
+        },
+        "phone": "+17182735843",
+        "display_phone": "(718) 273-5843",
+        "distance": 20397.561310500187
+    },
+    {
+        "id": "_ZxbRvQDWD3uVu3o9df82A",
+        "alias": "j-and-r-west-indian-restaurant-brooklyn-2",
+        "name": "J & R West Indian Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PMKyo6-a33qkVif0QZ8nvw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/j-and-r-west-indian-restaurant-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.6662292480469,
+            "longitude": -73.9538803100586
+        },
+        "transactions": [],
+        "location": {
+            "address1": "294 Rogers Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11225",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "294 Rogers Ave",
+                "Brooklyn, NY 11225"
+            ]
+        },
+        "phone": "+17187354650",
+        "display_phone": "(718) 735-4650",
+        "distance": 10653.392691000437
+    },
+    {
+        "id": "-GkhPQ0AVLoIAzPGfQ_SaA",
+        "alias": "halal-west-indian-and-american-cuisine-brooklyn",
+        "name": "Halal West Indian and American Cuisine",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PR5QXttN8-a1ALqaCyAvVQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/halal-west-indian-and-american-cuisine-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 13,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.6582221984863,
+            "longitude": -73.9601211547852
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "621 Flatbush Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11230",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "621 Flatbush Ave",
+                "Brooklyn, NY 11230"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 11445.888282211288
+    },
+    {
+        "id": "QK4oWeb8EItwV5U3YH_R8Q",
+        "alias": "lash-west-indian-and-american-cuisine-bronx",
+        "name": "Lash West Indian And American Cuisine",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R_EXOBANo29mXDn2vLnGcQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lash-west-indian-and-american-cuisine-bronx?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 143,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.87122,
+            "longitude": -73.8632
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "800 Burke Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Bronx",
+            "zip_code": "10467",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "800 Burke Ave",
+                "Bronx, NY 10467"
+            ]
+        },
+        "phone": "+17188820815",
+        "display_phone": "(718) 882-0815",
+        "distance": 15693.547585932098
+    },
+    {
+        "id": "yFub1BhKEP-W-_ZM3_nJoQ",
+        "alias": "bodhi-kosher-vegetarian-restaurant-new-york",
+        "name": "Bodhi Kosher Vegetarian Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4V_HEDHq9Azd0mX_XYZDmA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bodhi-kosher-vegetarian-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 370,
+        "categories": [
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "kosher",
+                "title": "Kosher"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71641,
+            "longitude": -73.99931
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "77 Mulberry St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "77 Mulberry St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12122332921",
+        "display_phone": "(212) 233-2921",
+        "distance": 5178.39181229754
+    },
+    {
+        "id": "2YufTvP05BC9VORwAcOl_g",
+        "alias": "desi-bbq-halal-long-island-city-2",
+        "name": "Desi BBQ Halal",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yyhLV-BefZFZEeUhFcztnw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/desi-bbq-halal-long-island-city-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 30,
+        "categories": [
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            },
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7535956,
+            "longitude": -73.9237429
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "36-02 Steinway St",
+            "address2": null,
+            "address3": "",
+            "city": "Long Island city",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "36-02 Steinway St",
+                "Long Island city, NY 11101"
+            ]
+        },
+        "phone": "+17186501750",
+        "display_phone": "(718) 650-1750",
+        "distance": 4670.50242604302
+    },
+    {
+        "id": "ugYhnKrr3Q1TVV15R0EEWQ",
+        "alias": "antalia-nyc-new-york-2",
+        "name": "AnTalia NYC",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ghdcVvF8tthyLNDSVzpS3w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/antalia-nyc-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 419,
+        "categories": [
+            {
+                "alias": "turkish",
+                "title": "Turkish"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "catering",
+                "title": "Caterers"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.755905,
+            "longitude": -73.980346
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "17 W 45th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "17 W 45th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12122213333",
+        "display_phone": "(212) 221-3333",
+        "distance": 503.8215005508571
+    },
+    {
+        "id": "PZLdVjlGHc9XlvFDdxHcIw",
+        "alias": "jassis-world-famous-deli-long-island-city",
+        "name": "Jassi's World Famous Deli",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PvmrwL8y0ZXUG9Lu9nwNcg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jassis-world-famous-deli-long-island-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.74978,
+            "longitude": -73.94674
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "4344 21st St",
+            "address2": null,
+            "address3": null,
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "4344 21st St",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+17187862484",
+        "display_phone": "(718) 786-2484",
+        "distance": 2920.9772373481687
+    },
+    {
+        "id": "7lhmzhkct9-blnuBAp_HVQ",
+        "alias": "five-stars-thai-cuisine-togo-union-city-2",
+        "name": "Five Stars Thai Cuisine - Togo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Go1wVnTNyMpnlbnJXOKBew/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/five-stars-thai-cuisine-togo-union-city-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 383,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7702123810457,
+            "longitude": -74.0288150168948
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "324 29th St",
+            "address2": "",
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "324 29th St",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12015831800",
+        "display_phone": "(201) 583-1800",
+        "distance": 4380.794502249217
+    },
+    {
+        "id": "ju6btoDb3UFhnmmPwrOWgA",
+        "alias": "benis-south-richmond-hill-2",
+        "name": "Beni's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JwhUOJGKNjfv2c89V9FSJw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/benis-south-richmond-hill-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.689353,
+            "longitude": -73.815467
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "12920 Liberty Ave",
+            "address2": "",
+            "address3": "",
+            "city": "South Richmond Hill",
+            "zip_code": "11419",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "12920 Liberty Ave",
+                "South Richmond Hill, NY 11419"
+            ]
+        },
+        "phone": "+17187389700",
+        "display_phone": "(718) 738-9700",
+        "distance": 15837.645673377407
+    },
+    {
+        "id": "y-y2rMiSf5alNXMJTpTuDg",
+        "alias": "mehak-kew-gardens-3",
+        "name": "Mehak",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HwIP34G53ByPVauJ1hi80w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mehak-kew-gardens-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 154,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.70895,
+            "longitude": -73.82961
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "8306 Austin St",
+            "address2": null,
+            "address3": "",
+            "city": "Kew Gardens",
+            "zip_code": "11415",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "8306 Austin St",
+                "Kew Gardens, NY 11415"
+            ]
+        },
+        "phone": "+17184413337",
+        "display_phone": "(718) 441-3337",
+        "distance": 13778.9800862971
+    },
+    {
+        "id": "x4Xptj-YNZ-aGNhn4XyfsA",
+        "alias": "india-palace-restaurant-jersey-city",
+        "name": "India Palace Restaurant",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/india-palace-restaurant-jersey-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73554,
+            "longitude": -74.07097
+        },
+        "transactions": [],
+        "location": {
+            "address1": "1059 W Side Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "zip_code": "07306",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1059 W Side Ave",
+                "Jersey City, NJ 07306"
+            ]
+        },
+        "phone": "+12013959600",
+        "display_phone": "(201) 395-9600",
+        "distance": 8251.210456763105
+    },
+    {
+        "id": "gJSX5IDyhjeMjz9IS2DIwQ",
+        "alias": "veggie-heaven-teaneck",
+        "name": "Veggie Heaven",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NW4RjIPHpxBvreqnaAqwSA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/veggie-heaven-teaneck?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 436,
+        "categories": [
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "kosher",
+                "title": "Kosher"
+            },
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.889845,
+            "longitude": -74.023091
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "473 Cedar Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Teaneck",
+            "zip_code": "07666",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "473 Cedar Ln",
+                "Teaneck, NJ 07666"
+            ]
+        },
+        "phone": "+12018360887",
+        "display_phone": "(201) 836-0887",
+        "distance": 14854.12246438196
+    },
+    {
+        "id": "bVyA5z69287U9B9W88hERg",
+        "alias": "kabab-king-jackson-heights",
+        "name": "Kabab King",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8CAEvXFsCiDw15qifM_viA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kabab-king-jackson-heights?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 322,
+        "categories": [
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            },
+            {
+                "alias": "bangladeshi",
+                "title": "Bangladeshi"
+            },
+            {
+                "alias": "afghani",
+                "title": "Afghan"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7472744,
+            "longitude": -73.8922265
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "7301 37th Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Jackson Heights",
+            "zip_code": "11372",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "7301 37th Rd",
+                "Jackson Heights, NY 11372"
+            ]
+        },
+        "phone": "+17184575857",
+        "display_phone": "(718) 457-5857",
+        "distance": 7413.698645139479
+    },
+    {
+        "id": "JOXl-jcvaciJa_oQAvFkbA",
+        "alias": "afghan-kebab-house-new-york-5",
+        "name": "Afghan Kebab House",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hKK1CwNUlEz7fndNa8yBww/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/afghan-kebab-house-new-york-5?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 273,
+        "categories": [
+            {
+                "alias": "afghani",
+                "title": "Afghan"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7641549876443,
+            "longitude": -73.9883097706085
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "764 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "764 9th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12123071612",
+        "display_phone": "(212) 307-1612",
+        "distance": 935.1450573755302
+    },
+    {
+        "id": "RdcqVP_xjxQEbNRMYccBQw",
+        "alias": "tandoori-hut-richmond-hill",
+        "name": "Tandoori Hut",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TX1vx2Ta-GE1VDE7nsLeog/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tandoori-hut-richmond-hill?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 127,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.69359,
+            "longitude": -73.82733
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "119-08 94th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Richmond Hill",
+            "zip_code": "11419",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "119-08 94th Ave",
+                "Richmond Hill, NY 11419"
+            ]
+        },
+        "phone": "+17188508919",
+        "display_phone": "(718) 850-8919",
+        "distance": 14726.867387082637
+    },
+    {
+        "id": "AiZhCGPJeLm8T1fvdYdbKQ",
+        "alias": "pakistan-tea-house-new-york",
+        "name": "Pakistan Tea House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sotHRxSbxpW4w6t58Xc4uA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pakistan-tea-house-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 161,
+        "categories": [
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            },
+            {
+                "alias": "pakistani",
+                "title": "Pakistani"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.715671,
+            "longitude": -74.007652
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "176 Church St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "176 Church St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12122409800",
+        "display_phone": "(212) 240-9800",
+        "distance": 5527.106985970259
+    },
+    {
+        "id": "xnrn6Ibn4T22vTjYX1H1zQ",
+        "alias": "afghan-kabab-and-grill-house-brooklyn",
+        "name": "Afghan Kabab and Grill House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9f-AVChFAXVAYFzuBvFpVA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/afghan-kabab-and-grill-house-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 52,
+        "categories": [
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "afghani",
+                "title": "Afghan"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73359,
+            "longitude": -73.95498
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "1015 Manhattan Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11222",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1015 Manhattan Ave",
+                "Brooklyn, NY 11222"
+            ]
+        },
+        "phone": "+17183892211",
+        "display_phone": "(718) 389-2211",
+        "distance": 3557.51949885121
+    },
+    {
+        "id": "bRPq-Nmct5bOuOtsu8fC7Q",
+        "alias": "smac-new-york",
+        "name": "S'MAC",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v0WNAlbgqS0IN3NVw98tSw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/smac-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 2186,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "gluten_free",
+                "title": "Gluten-Free"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.730212,
+            "longitude": -73.983724
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "197 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "197 1st Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12123587912",
+        "display_phone": "(212) 358-7912",
+        "distance": 3365.0653780038497
+    },
+    {
+        "id": "yRJfv1ERRieWTX-uHCFDtg",
+        "alias": "punjabi-indian-and-american-restaurant-flushing",
+        "name": "Punjabi Indian & American Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EVZEt8Bi3R0-hoakdBtVmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/punjabi-indian-and-american-restaurant-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 99,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75367,
+            "longitude": -73.80602
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "160-20 46th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11358",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "160-20 46th Ave",
+                "Flushing, NY 11358"
+            ]
+        },
+        "phone": "+17183218429",
+        "display_phone": "(718) 321-8429",
+        "distance": 14545.475626307698
+    },
+    {
+        "id": "GN85BFt0L_HFYOd-VWgo5A",
+        "alias": "chandni-sweets-and-resturant-new-york",
+        "name": "Chandni Sweets & Resturant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hMDiXdMUnht09teTGB4rHA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chandni-sweets-and-resturant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 6,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 40.80119,
+            "longitude": -73.96104
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "71 W 109th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "71 W 109th St",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12122228820",
+        "display_phone": "(212) 222-8820",
+        "distance": 4782.160645845237
+    },
+    {
+        "id": "8mmM20X369_Do04kW7-TTA",
+        "alias": "holy-cow-new-york-4",
+        "name": "Holy Cow",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TQkUZ--P1E928h5B-e1Bvw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/holy-cow-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 241,
+        "categories": [
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "hotdog",
+                "title": "Hot Dogs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7143638,
+            "longitude": -73.9906935
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "34 Canal St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "34 Canal St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+13476309155",
+        "display_phone": "(347) 630-9155",
+        "distance": 5200.875654177325
+    },
+    {
+        "id": "CX6_T61ZANH5ttfMLeKKIA",
+        "alias": "the-kati-roll-company-new-york-10",
+        "name": "The Kati Roll Company",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jJQX1c5qT4loarjskHPnRg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-kati-roll-company-new-york-10?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 31,
+        "categories": [
+            {
+                "alias": "indpak",
+                "title": "Indian"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            },
+            {
+                "alias": "wraps",
+                "title": "Wraps"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7091424,
+            "longitude": -74.00909
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "22 Maiden Ln",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10038",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "22 Maiden Ln",
+                "New York, NY 10038"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 6236.498191023288
+    },
+    {
+        "id": "7QNfgCS66llLCsVu_8VOyA",
+        "alias": "vlife-new-york-2",
+        "name": "VLife",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yH8NrbphyQ8BLKwX7CRyOA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/vlife-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 356,
+        "categories": [
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7481116799498,
+            "longitude": -73.992917656414
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "348 7th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "348 7th Ave",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12127601900",
+        "display_phone": "(212) 760-1900",
+        "distance": 1812.7279853471546
+    },
+    {
+        "id": "7lztzQTF79er1RydVnPiDg",
+        "alias": "noi-due-new-york-2",
+        "name": "Noi Due",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iipKasrB3uzCtJwhu_wtQA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/noi-due-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 204,
+        "categories": [
+            {
+                "alias": "kosher",
+                "title": "Kosher"
+            },
+            {
+                "alias": "italian",
+                "title": "Italian"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.77621,
+            "longitude": -73.98169
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "143 W 69th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "143 W 69th St",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12127122222",
+        "display_phone": "(212) 712-2222",
+        "distance": 1805.1541228614237
+    }
+]

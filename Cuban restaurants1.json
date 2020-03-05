@@ -1,0 +1,2278 @@
+[
+    {
+        "id": "qFtwAqz_hQFrXYKHOXfVNg",
+        "alias": "sophies-cuban-cuisine-new-york-5",
+        "name": "Sophie's Cuban Cuisine",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zacRUoeOFiDXQXjzdqLmag/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sophies-cuban-cuisine-new-york-5?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 229,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.714576,
+            "longitude": -74.007659
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "96 Chambers St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10007",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "96 Chambers St",
+                "New York, NY 10007"
+            ]
+        },
+        "phone": "+12126089900",
+        "display_phone": "(212) 608-9900",
+        "distance": 5635.186753036386
+    },
+    {
+        "id": "CLYgWtV0g0t96I2PMysfrA",
+        "alias": "sophies-cuban-cuisine-new-york-4",
+        "name": "Sophie's Cuban Cuisine",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JgqO-pAoHC92X0u0xGUASg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sophies-cuban-cuisine-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 290,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.740617380142,
+            "longitude": -73.987803582502
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "28 E 23rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "28 E 23rd St",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+12122608884",
+        "display_phone": "(212) 260-8884",
+        "distance": 2315.774114875347
+    },
+    {
+        "id": "sgmfSQUBJfhBzhSUZDOBVg",
+        "alias": "trova-cuban-cafe-north-bergen-2",
+        "name": "Trova Cuban Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1kD5jQ-UZwApX1LTz2ATog/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/trova-cuban-cafe-north-bergen-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 81,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.80089,
+            "longitude": -74.00764
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "7723 Bergenline Ave",
+            "address2": "",
+            "address3": null,
+            "city": "North Bergen",
+            "zip_code": "07047",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "7723 Bergenline Ave",
+                "North Bergen, NJ 07047"
+            ]
+        },
+        "phone": "+12014304177",
+        "display_phone": "(201) 430-4177",
+        "distance": 5140.975094554221
+    },
+    {
+        "id": "bUt2TiF1dX1RKcSUplAAnA",
+        "alias": "flavors-house-new-york-2",
+        "name": "Flavor's House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_0RyE_h4qXp_k9goOmJYDA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/flavors-house-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.73957,
+            "longitude": -73.9799
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "449 2nd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "449 2nd Ave",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+16468700318",
+        "display_phone": "(646) 870-0318",
+        "distance": 2295.9619480294887
+    },
+    {
+        "id": "0qDyDGsZDGZ-34LuAJFQGA",
+        "alias": "centro-latino-ii-west-new-york",
+        "name": "Centro Latino II",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EJoUUrS2RiDJgDdBpsBENw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/centro-latino-ii-west-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 55,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "colombian",
+                "title": "Colombian"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.789459,
+            "longitude": -74.005378
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "6500 Park Ave",
+            "address2": "",
+            "address3": "",
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "6500 Park Ave",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12012950001",
+        "display_phone": "(201) 295-0001",
+        "distance": 3962.9542130279865
+    },
+    {
+        "id": "9gcbrimniLbpKsThHp2Y9A",
+        "alias": "mima-s-cuban-cantina-east-rutherford",
+        "name": "Mima’s Cuban Cantina",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6pqE_ue-iLyTubEUYkAAVw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mima-s-cuban-cantina-east-rutherford?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.84987,
+            "longitude": -74.11457
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "850 Paterson Ave",
+            "address2": null,
+            "address3": "",
+            "city": "East Rutherford",
+            "zip_code": "07073",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "850 Paterson Ave",
+                "East Rutherford, NJ 07073"
+            ]
+        },
+        "phone": "+19732468475",
+        "display_phone": "(973) 246-8475",
+        "distance": 15183.78327814365
+    },
+    {
+        "id": "iNA1ljXvsX8R11NuY6GSMw",
+        "alias": "rumbas-cafe-jersey-city",
+        "name": "Rumba's Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9lYHlQiA6LB4danCCFpYiA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rumbas-cafe-jersey-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 291,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.75218,
+            "longitude": -74.04531
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "513 Central Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "zip_code": "07307",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "513 Central Ave",
+                "Jersey City, NJ 07307"
+            ]
+        },
+        "phone": "+12012169655",
+        "display_phone": "(201) 216-9655",
+        "distance": 5701.819829523379
+    },
+    {
+        "id": "XJ8mq5IE2LQ0AYq574KAIw",
+        "alias": "rebeccas-edgewater-3",
+        "name": "Rebecca's",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/H6iv9tQjbbzq80c-J-HRtg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rebeccas-edgewater-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 287,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "venues",
+                "title": "Venues & Event Spaces"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8090199,
+            "longitude": -73.99101
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "236 Old River Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Edgewater",
+            "zip_code": "07020",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "236 Old River Rd",
+                "Edgewater, NJ 07020"
+            ]
+        },
+        "phone": "+12019438808",
+        "display_phone": "(201) 943-8808",
+        "distance": 5521.77163620739
+    },
+    {
+        "id": "5BQc3GZZwxY-2rnD6KS5ZA",
+        "alias": "las-cubanitas-bake-shop-union-city",
+        "name": "Las Cubanitas Bake Shop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NfU0ryYFjPu3wKVmOxD7cw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/las-cubanitas-bake-shop-union-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "bakeries",
+                "title": "Bakeries"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.774820074439,
+            "longitude": -74.0270704776049
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3704 Bergenline Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "3704 Bergenline Ave",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12018668484",
+        "display_phone": "(201) 866-8484",
+        "distance": 4400.5863521501615
+    },
+    {
+        "id": "Pm9g4v6bpq9_OEigK0jHYA",
+        "alias": "la-unica-caridad-restaurant-new-york",
+        "name": "La Unica Caridad Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dnTNWxVsu85oEHfgPPQLbw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-unica-caridad-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7832742,
+            "longitude": -73.9807237
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2199 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10024",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2199 Broadway",
+                "New York, NY 10024"
+            ]
+        },
+        "phone": "+12128742780",
+        "display_phone": "(212) 874-2780",
+        "distance": 2560.659624115355
+    },
+    {
+        "id": "4fKYXE90bvuAyY_DvC2LOg",
+        "alias": "la-isla-restaurant-uptown-hoboken",
+        "name": "La Isla Restaurant - Uptown",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5g897pLBpZZzR4if6ZYCNA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-isla-restaurant-uptown-hoboken?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 308,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7507544,
+            "longitude": -74.0252864
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "25 12th St",
+            "address2": "",
+            "address3": "",
+            "city": "Hoboken",
+            "zip_code": "07030",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "25 12th St",
+                "Hoboken, NJ 07030"
+            ]
+        },
+        "phone": "+12016596090",
+        "display_phone": "(201) 659-6090",
+        "distance": 4078.792890699431
+    },
+    {
+        "id": "SSw0GFDGE1BGM5scP8PpDg",
+        "alias": "casa-cubana-catering-jersey-city",
+        "name": "Casa Cubana Catering",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LzMh1uljxk1EhrCDqQ5POw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casa-cubana-catering-jersey-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "catering",
+                "title": "Caterers"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.74886,
+            "longitude": -74.05077
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "1007 Summit Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07307",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1007 Summit Ave",
+                "Jersey City, NJ 07307"
+            ]
+        },
+        "phone": "+12017922272",
+        "display_phone": "(201) 792-2272",
+        "distance": 6210.798726459772
+    },
+    {
+        "id": "YigPOZxASGQX1IniEyCp8g",
+        "alias": "la-dinastia-new-york",
+        "name": "La Dinastia",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HU5KjZmAYtt_GfBZb-DxvA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-dinastia-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 159,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.77833,
+            "longitude": -73.98022
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "145 W 72nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "145 W 72nd St",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12123623801",
+        "display_phone": "(212) 362-3801",
+        "distance": 2020.288324537924
+    },
+    {
+        "id": "VsqHs36uLxhqmjo60r1aJA",
+        "alias": "habana-to-go-new-york",
+        "name": "Habana To-Go",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WMyR17SQiP8WeZkjEf4LyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/habana-to-go-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 269,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72292,
+            "longitude": -73.99418
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "229 Elizabeth St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "229 Elizabeth St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+12126252002",
+        "display_phone": "(212) 625-2002",
+        "distance": 4351.800640829846
+    },
+    {
+        "id": "SyBFnqsPEge00N0_bHs2fQ",
+        "alias": "madera-cuban-grill-and-steakhouse-long-island-city",
+        "name": "Madera Cuban Grill & Steakhouse",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SVqkc__-jxzZVeBVZzG__w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/madera-cuban-grill-and-steakhouse-long-island-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 408,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "steak",
+                "title": "Steakhouses"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7445573,
+            "longitude": -73.9531438
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "47-29 Vernon Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "47-29 Vernon Blvd",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+17186061236",
+        "display_phone": "(718) 606-1236",
+        "distance": 2755.589049104261
+    },
+    {
+        "id": "SyEi1P5FKCBiAIZ14RggmA",
+        "alias": "my-cuban-spot-brooklyn",
+        "name": "My Cuban Spot",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1deHDttUOzQgOyw_8E_4IA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/my-cuban-spot-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 196,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.6769086333056,
+            "longitude": -73.9861538242469
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "488 Carroll St",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11215",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "488 Carroll St",
+                "Brooklyn, NY 11215"
+            ]
+        },
+        "phone": "+17188551941",
+        "display_phone": "(718) 855-1941",
+        "distance": 9285.65449040043
+    },
+    {
+        "id": "hgsodKhYFrzhZX5-DLc8QA",
+        "alias": "son-cubano-west-new-york-4",
+        "name": "Son Cubano",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q2GVntFnEaU7P8e2Dn0nsg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/son-cubano-west-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 981,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "venues",
+                "title": "Venues & Event Spaces"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7814025762396,
+            "longitude": -74.005708694458
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "40-4 Riverwalk Pl",
+            "address2": "",
+            "address3": "",
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "40-4 Riverwalk Pl",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12013992020",
+        "display_phone": "(201) 399-2020",
+        "distance": 3286.3829348778236
+    },
+    {
+        "id": "wTCR-EUTLX4UoPUPdxWVJg",
+        "alias": "blend-long-island-city",
+        "name": "Blend",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5mL3MLIyl6zSOfzagpp32w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/blend-long-island-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 836,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7454187160279,
+            "longitude": -73.9533804030555
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "4704 Vernon Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "4704 Vernon Blvd",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+17187292800",
+        "display_phone": "(718) 729-2800",
+        "distance": 2680.3201385675716
+    },
+    {
+        "id": "mcviVVgOj4jSzmyhQeEY5Q",
+        "alias": "isla-bonita-west-new-york",
+        "name": "Isla Bonita",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ovqo3Ka2wNisHY-xFhq6dw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/isla-bonita-west-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 85,
+        "categories": [
+            {
+                "alias": "puertorican",
+                "title": "Puerto Rican"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7863402316117,
+            "longitude": -74.0088099986315
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "6023 Park Ave",
+            "address2": "",
+            "address3": null,
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "6023 Park Ave",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12016620062",
+        "display_phone": "(201) 662-0062",
+        "distance": 3866.9492509241354
+    },
+    {
+        "id": "JTwUl0mo7t97CbbmjZ8WIQ",
+        "alias": "guantanamera-forest-hills",
+        "name": "Guantanamera",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fh7vJggR_jQW6WAQrh42Pg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/guantanamera-forest-hills?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 124,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.718603,
+            "longitude": -73.838617
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "110-80 Queens Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Forest Hills",
+            "zip_code": "11375",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "110-80 Queens Blvd",
+                "Forest Hills, NY 11375"
+            ]
+        },
+        "phone": "+17185755755",
+        "display_phone": "(718) 575-5755",
+        "distance": 12661.041916402008
+    },
+    {
+        "id": "RThvexVhZQ8KA6JAr0UkCQ",
+        "alias": "casa-adela-new-york",
+        "name": "Casa Adela",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CrSVEHHLE8JhciwZAEZ-aQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casa-adela-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 456,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "puertorican",
+                "title": "Puerto Rican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72264,
+            "longitude": -73.97973
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "66 Ave C",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10009",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "66 Ave C",
+                "New York, NY 10009"
+            ]
+        },
+        "phone": "+12124731882",
+        "display_phone": "(212) 473-1882",
+        "distance": 4182.591244834221
+    },
+    {
+        "id": "zIpYFLBoSF8qyAUnkLeH8A",
+        "alias": "latin-bites-new-york",
+        "name": "Latin Bites",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bIEw5tblyq_u1DPiTusSGg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/latin-bites-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 89,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7660399,
+            "longitude": -73.95564
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "419 E 70th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10021",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "419 E 70th St",
+                "New York, NY 10021"
+            ]
+        },
+        "phone": "+12125854250",
+        "display_phone": "(212) 585-4250",
+        "distance": 2030.247003627894
+    },
+    {
+        "id": "1HPdyg0OLRkjHeixVmbu0Q",
+        "alias": "cocina-del-sur-new-york-2",
+        "name": "Cocina Del Sur",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Xa3RvHsWY-tABX_aIK1MUQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cocina-del-sur-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 118,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "catering",
+                "title": "Caterers"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7515296936035,
+            "longitude": -73.9846572875977
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "40 W 38th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "40 W 38th St",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+16462741995",
+        "display_phone": "(646) 274-1995",
+        "distance": 1100.4097729286639
+    },
+    {
+        "id": "9z2lUyfzZV8b2rkkiwSM4g",
+        "alias": "abc-cocina-new-york",
+        "name": "ABC Cocina",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/82OXTMHrHm9vyaU6c2t2cw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/abc-cocina-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 902,
+        "categories": [
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7379699846239,
+            "longitude": -73.9892806964011
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "38 E 19th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "38 E 19th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12126772233",
+        "display_phone": "(212) 677-2233",
+        "distance": 2634.953651023019
+    },
+    {
+        "id": "RL1YogACkp6zHImeL9401Q",
+        "alias": "ventanas-restaraunt-and-lounge-fort-lee",
+        "name": "Ventanas Restaraunt and Lounge",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0V4W6SkUjvm9Dg6AN4BKKg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ventanas-restaraunt-and-lounge-fort-lee?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 197,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8529794718683,
+            "longitude": -73.9670800660406
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "200 Park Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Fort Lee",
+            "zip_code": "07024",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "200 Park Ave",
+                "Fort Lee, NJ 07024"
+            ]
+        },
+        "phone": "+12015834777",
+        "display_phone": "(201) 583-4777",
+        "distance": 10251.495834826188
+    },
+    {
+        "id": "lQKnVAB9E4mhVlJc6sxwVQ",
+        "alias": "havanas-cuban-cafe-edgewater",
+        "name": "Havana's Cuban Cafe",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Agz8T_dGHLBu2TMNku7bUQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/havanas-cuban-cafe-edgewater?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 95,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8235699,
+            "longitude": -73.97604
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "824 River Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Edgewater",
+            "zip_code": "07020",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "824 River Rd",
+                "Edgewater, NJ 07020"
+            ]
+        },
+        "phone": "+12018862100",
+        "display_phone": "(201) 886-2100",
+        "distance": 7047.389097936376
+    },
+    {
+        "id": "W7MJiJZ9-R-txtvVbLQnCw",
+        "alias": "la-churreria-union-city",
+        "name": "La Churreria",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Y0m7lRxGU4hGq68legiIHQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-churreria-union-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 46,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "importedfood",
+                "title": "Imported Food"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7728473097086,
+            "longitude": -74.0286241471767
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3300 Bergenline Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "3300 Bergenline Ave",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12018661501",
+        "display_phone": "(201) 866-1501",
+        "distance": 4440.772615619786
+    },
+    {
+        "id": "hcF1k2mPULZl-l7EgutN8g",
+        "alias": "las-palmas-restaurant-west-new-york",
+        "name": "Las Palmas Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5tWGNq1HTXMXGgrQ5D5pzA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/las-palmas-restaurant-west-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 364,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7909018538746,
+            "longitude": -74.0149954022577
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "6153 Bergenline Ave",
+            "address2": "",
+            "address3": "",
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "6153 Bergenline Ave",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12018611400",
+        "display_phone": "(201) 861-1400",
+        "distance": 4592.05911522114
+    },
+    {
+        "id": "B87c3bE_u53yNYO1cmHSIw",
+        "alias": "flor-de-mayo-new-york-3",
+        "name": "Flor de Mayo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y6sXEOR3V65RrNaC-k86-g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/flor-de-mayo-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 568,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "peruvian",
+                "title": "Peruvian"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.797859,
+            "longitude": -73.969948
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2651 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2651 Broadway",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12126635520",
+        "display_phone": "(212) 663-5520",
+        "distance": 4247.318189695947
+    },
+    {
+        "id": "aJqjC4uAo6vhOpsVNCiMDA",
+        "alias": "samba-kitchen-new-york-5",
+        "name": "Samba Kitchen",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iDhhiOuovy7R8uAdnBgDiA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/samba-kitchen-new-york-5?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 448,
+        "categories": [
+            {
+                "alias": "brazilian",
+                "title": "Brazilian"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.76095,
+            "longitude": -73.99115
+        },
+        "transactions": [
+            "delivery",
+            "restaurant_reservation",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "661 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "661 9th Ave",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+16469829957",
+        "display_phone": "(646) 982-9957",
+        "distance": 1064.5643981199753
+    },
+    {
+        "id": "Ui-E0CK2BBVVoOzulzzhcQ",
+        "alias": "carmens-kitchen-new-york",
+        "name": "Carmen's Kitchen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y_ZrheaBT8X6uKB7tESQDg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/carmens-kitchen-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 31,
+        "categories": [
+            {
+                "alias": "chickenshop",
+                "title": "Chicken Shop"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7547995,
+            "longitude": -73.9921988
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "302 W 38th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "302 W 38th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1301.472846214203
+    },
+    {
+        "id": "4axlhxyN2bKuRWfnY2IhuQ",
+        "alias": "tabaré-brooklyn-2",
+        "name": "Tabaré",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jjacWq20vetUzC737Xwurw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tabar%C3%A9-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 638,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.713046,
+            "longitude": -73.958968
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "221 S 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11211",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "221 S 1st St",
+                "Brooklyn, NY 11211"
+            ]
+        },
+        "phone": "+13473350187",
+        "display_phone": "(347) 335-0187",
+        "distance": 5497.0581761651365
+    },
+    {
+        "id": "Y8Fj6nhoWrMuPR1rlzfZXw",
+        "alias": "mis-raices-restaurant-teaneck-2",
+        "name": "Mis Raices Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YyCcIY547Uscx6xjBVFBgQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mis-raices-restaurant-teaneck-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 202,
+        "categories": [
+            {
+                "alias": "puertorican",
+                "title": "Puerto Rican"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.89412,
+            "longitude": -74.00138
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1213 Teaneck Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Teaneck",
+            "zip_code": "07666",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1213 Teaneck Rd",
+                "Teaneck, NJ 07666"
+            ]
+        },
+        "phone": "+12015307233",
+        "display_phone": "(201) 530-7233",
+        "distance": 15026.71772754858
+    },
+    {
+        "id": "154ILTDY2x4liySxKmO4cw",
+        "alias": "zoralie-restaurant-new-york",
+        "name": "Zoralie Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vUaMNLO0kRmII5P6ZazuSQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/zoralie-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 249,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "puertorican",
+                "title": "Puerto Rican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7649401427866,
+            "longitude": -73.9902253076434
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "449 W 51st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "449 W 51st St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+16465903751",
+        "display_phone": "(646) 590-3751",
+        "distance": 1118.5726850151684
+    },
+    {
+        "id": "ylo-luxv49zw9tyOViJheQ",
+        "alias": "mangos-cafe-restaurant-west-new-york-3",
+        "name": "Mango's Cafe Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hojtrt4A4oLAnWaVSAMf9Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mangos-cafe-restaurant-west-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.78574,
+            "longitude": -74.00871
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "6012 Park Ave",
+            "address2": null,
+            "address3": "",
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "6012 Park Ave",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12015204505",
+        "display_phone": "(201) 520-4505",
+        "distance": 3815.9013194300524
+    },
+    {
+        "id": "kgXNbPJcumyJ8LS83Hez8g",
+        "alias": "sophies-cuban-cuisine-new-york-8",
+        "name": "Sophie's Cuban Cuisine",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EEl7AyGKJCBQCi3r7tujWA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sophies-cuban-cuisine-new-york-8?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 417,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7056891,
+            "longitude": -74.0124735
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "73 New St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10004",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "73 New St",
+                "New York, NY 10004"
+            ]
+        },
+        "phone": "+12128097755",
+        "display_phone": "(212) 809-7755",
+        "distance": 6717.389261997163
+    },
+    {
+        "id": "m6p_huTMlmMvUNkxDL1YCQ",
+        "alias": "havana-cafe-bronx-3",
+        "name": "Havana Cafe",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DWsgmBReQQFXhr2VsenoXg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/havana-cafe-bronx-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 196,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8331000193312,
+            "longitude": -73.8516100868583
+        },
+        "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1247 Castle Hill Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Bronx",
+            "zip_code": "10462",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1247 Castle Hill Ave",
+                "Bronx, NY 10462"
+            ]
+        },
+        "phone": "+17188224800",
+        "display_phone": "(718) 822-4800",
+        "distance": 13407.984470793383
+    },
+    {
+        "id": "3YjNGS-yUp82uqMsJ4UZAQ",
+        "alias": "latineria-new-york",
+        "name": "Latineria",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lGzAr1XzNh0ZgEQYVn3ztA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/latineria-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 11,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75287,
+            "longitude": -73.97768
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "89 East 42nd St",
+            "address2": "",
+            "address3": "Grand Central Dining Concourse",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "89 East 42nd St",
+                "Grand Central Dining Concourse",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+12125997500",
+        "display_phone": "(212) 599-7500",
+        "distance": 839.3301623276659
+    },
+    {
+        "id": "NwyhMWu6zsN4tBZQ2Fz-9A",
+        "alias": "la-havana-59-moonachie",
+        "name": "La Havana 59",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/c0HXpflQrGNK4gbrtiYXWg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-havana-59-moonachie?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 275,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.8383708013101,
+            "longitude": -74.063100494674
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "110 Moonachie Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Moonachie",
+            "zip_code": "07074",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "110 Moonachie Ave",
+                "Moonachie, NJ 07074"
+            ]
+        },
+        "phone": "+12019649515",
+        "display_phone": "(201) 964-9515",
+        "distance": 11235.512989600327
+    },
+    {
+        "id": "tM5ooPeeKmjjbtzesvsvtw",
+        "alias": "savage-sicko-astoria",
+        "name": "Savage Sicko",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/InIrTG7L3hMjSiwP6raEpw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/savage-sicko-astoria?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 12,
+        "categories": [
+            {
+                "alias": "vegan",
+                "title": "Vegan"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7617,
+            "longitude": -73.9185
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "37-10 31st Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Astoria",
+            "zip_code": "11103",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "37-10 31st Ave",
+                "Astoria, NY 11103"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 5060.003440531061
+    },
+    {
+        "id": "SRLrnScmDyJpS28wvWeJNQ",
+        "alias": "el-cocotero-new-york",
+        "name": "El Cocotero",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SxaCEDsYk8q0jnXZobhMIg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-cocotero-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 535,
+        "categories": [
+            {
+                "alias": "venezuelan",
+                "title": "Venezuelan"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74149,
+            "longitude": -73.99937
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "228 W 18th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "228 W 18th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12122068930",
+        "display_phone": "(212) 206-8930",
+        "distance": 2724.3727593196504
+    },
+    {
+        "id": "ORjTA0Xs8u2AD00DaGntAA",
+        "alias": "coco-havana-hoboken-4",
+        "name": "Coco Havana",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4ku-9yJZuH8R594susxXtg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/coco-havana-hoboken-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 162,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.736716,
+            "longitude": -74.0292182
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "32 Newark St",
+            "address2": "",
+            "address3": null,
+            "city": "Hoboken",
+            "zip_code": "07030",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "32 Newark St",
+                "Hoboken, NJ 07030"
+            ]
+        },
+        "phone": "+12012161766",
+        "display_phone": "(201) 216-1766",
+        "distance": 5007.6557043269095
+    },
+    {
+        "id": "knGthxUt9OEdzDjM0oN5fw",
+        "alias": "cubana-cafe-brooklyn",
+        "name": "Cubana Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aWv3amxx1psbYkiCzGH4bg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cubana-cafe-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 368,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.682652,
+            "longitude": -73.9935
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "272 Smith St",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11231",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "272 Smith St",
+                "Brooklyn, NY 11231"
+            ]
+        },
+        "phone": "+19293376476",
+        "display_phone": "(929) 337-6476",
+        "distance": 8716.735214029919
+    },
+    {
+        "id": "ef5H_0iuBy3T4NIpUOpLDw",
+        "alias": "conga-cafe-union-city",
+        "name": "Conga Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xO2wcJFBuCuThUADCnjDsA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/conga-cafe-union-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 191,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7618223087012,
+            "longitude": -74.0426364895968
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1218 Kennedy Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1218 Kennedy Blvd",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12018641444",
+        "display_phone": "(201) 864-1444",
+        "distance": 5360.931759060595
+    },
+    {
+        "id": "Uut2fBy53XdIgx1rLWdQeg",
+        "alias": "empanada-mama-l-e-s-new-york-10",
+        "name": "Empanada Mama L.E.S",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jVEXnJv1Qg5orvbDo7Lq2g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/empanada-mama-l-e-s-new-york-10?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 709,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71873,
+            "longitude": -73.9909
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "95 Allen St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "95 Allen St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12126730300",
+        "display_phone": "(212) 673-0300",
+        "distance": 4727.808328847243
+    },
+    {
+        "id": "h0qowxmqgwjKsh-fdkxvHw",
+        "alias": "latin-social-new-york-2",
+        "name": "Latin Social",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6TfPsskvTsmXRzYaLOqHRg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/latin-social-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 51,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.70769,
+            "longitude": -74.00767
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "75 Maiden Ln",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10038",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "75 Maiden Ln",
+                "New York, NY 10038"
+            ]
+        },
+        "phone": "+16464100080",
+        "display_phone": "(646) 410-0080",
+        "distance": 6319.3630625058
+    },
+    {
+        "id": "c-YVhXvBBvAGkss9Y3sTbA",
+        "alias": "pilar-cuban-bakery-brooklyn",
+        "name": "Pilar Cuban Bakery",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1z2YOvKuG9Qg9jEX4MMhoA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pilar-cuban-bakery-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 19,
+        "categories": [
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "bakeries",
+                "title": "Bakeries"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.68808,
+            "longitude": -73.9551
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "397 Greene Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11216",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "397 Greene Ave",
+                "Brooklyn, NY 11216"
+            ]
+        },
+        "phone": "+13473509037",
+        "display_phone": "(347) 350-9037",
+        "distance": 8262.22385078707
+    },
+    {
+        "id": "fhSV2h8d43dwMG65WD8uig",
+        "alias": "sophies-cuban-cuisine-new-york-16",
+        "name": "Sophies Cuban Cuisine",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LobX1cps1Nv4M6NVwsX9OQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sophies-cuban-cuisine-new-york-16?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 169,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.708967,
+            "longitude": -74.005521
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "76 Fulton St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10038",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "76 Fulton St",
+                "New York, NY 10038"
+            ]
+        },
+        "phone": "+12126086769",
+        "display_phone": "(212) 608-6769",
+        "distance": 6136.46098975255
+    },
+    {
+        "id": "3hCi3e-Ea62tdSdcdioR1g",
+        "alias": "el-rinconcito-new-york",
+        "name": "El Rinconcito",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YY36GHcUxySq7s2ABqMR1w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-rinconcito-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 69,
+        "categories": [
+            {
+                "alias": "puertorican",
+                "title": "Puerto Rican"
+            },
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.72553,
+            "longitude": -73.977
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "408 E 10th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10009",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "408 E 10th St",
+                "New York, NY 10009"
+            ]
+        },
+        "phone": "+12122541381",
+        "display_phone": "(212) 254-1381",
+        "distance": 3861.014487987103
+    },
+    {
+        "id": "AWjuFw0wn1ozYTp50-H_UQ",
+        "alias": "millies-cuban-cafe-brooklyn-2",
+        "name": "Millie's Cuban Cafe",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DtHa0OLNK8xCxNESXGg3Kg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/millies-cuban-cafe-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 68,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7005231,
+            "longitude": -73.9248911
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "151 Wilson Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11237",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "151 Wilson Ave",
+                "Brooklyn, NY 11237"
+            ]
+        },
+        "phone": "+13474258253",
+        "display_phone": "(347) 425-8253",
+        "distance": 8028.742954398367
+    }
+]

@@ -1,0 +1,2180 @@
+[
+    {
+        "id": "3W_yj4AVk32FIHnUvkB3sA",
+        "alias": "dynamite-seafood-flushing",
+        "name": "Dynamite Seafood",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rYrOBPoUeZquuhENDdHc7g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dynamite-seafood-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 148,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.76018,
+            "longitude": -73.8330299
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3720 Prince St",
+            "address2": "Ste 1D",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3720 Prince St",
+                "Ste 1D",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+17183210800",
+        "display_phone": "(718) 321-0800",
+        "distance": 12251.429918230215
+    },
+    {
+        "id": "iYsywuhlG7VJFdgdMqgV3w",
+        "alias": "kung-fu-tea-new-york-18",
+        "name": "Kung Fu Tea",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xKL_nUslVweMUv0HNLYy5A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kung-fu-tea-new-york-18?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 166,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7477882966671,
+            "longitude": -73.986274046627
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "11 W 32nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "11 W 32nd St",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12126955888",
+        "display_phone": "(212) 695-5888",
+        "distance": 1529.0708155621944
+    },
+    {
+        "id": "WxNlqGSsj_2TCodkx9Sa4A",
+        "alias": "vivi-bubble-tea-new-york-6",
+        "name": "Vivi Bubble Tea",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3BJ4_9m36w2N5nEY-yXOCA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/vivi-bubble-tea-new-york-6?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 639,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.715099,
+            "longitude": -73.997535
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "49 Bayard St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "49 Bayard St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12125666833",
+        "display_phone": "(212) 566-6833",
+        "distance": 5258.3619726371
+    },
+    {
+        "id": "ak9vroilf-vpA_GSNWX2Jg",
+        "alias": "imperial-palace-flushing",
+        "name": "Imperial Palace",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CPbtM9iYbZn_m1146mKW-w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/imperial-palace-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 434,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.761867,
+            "longitude": -73.830619
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "13613 37th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "13613 37th Ave",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+17189393501",
+        "display_phone": "(718) 939-3501",
+        "distance": 12456.846021257214
+    },
+    {
+        "id": "97q5nUQTuBo_h00XCxna2A",
+        "alias": "tasty-hand-pulled-noodles-new-york",
+        "name": "Tasty Hand-Pulled Noodles",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S4YfmBNkmDl7l2aiYJwBuA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tasty-hand-pulled-noodles-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1590,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7142,
+            "longitude": -73.99787
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1 Doyers St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1 Doyers St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12127911817",
+        "display_phone": "(212) 791-1817",
+        "distance": 5370.607082162317
+    },
+    {
+        "id": "Wioz8mltNscAtJg_RGyckQ",
+        "alias": "new-mulan-seafood-restaurant-flushing",
+        "name": "New Mulan Seafood Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TwKfBundWBzeQghHUj_Tpw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-mulan-seafood-restaurant-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 203,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7604295,
+            "longitude": -73.829968
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "136-17 39th Ave",
+            "address2": "Fl 2",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "136-17 39th Ave",
+                "Fl 2",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+17188868526",
+        "display_phone": "(718) 886-8526",
+        "distance": 12523.192130860954
+    },
+    {
+        "id": "1-oCMIHLTRyK1wOD9k2cVw",
+        "alias": "ke-zhang-flushing-2",
+        "name": "Ke Zhang",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zPyeV-bvMFjdBAy6aCJi3Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ke-zhang-flushing-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 102,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7506275,
+            "longitude": -73.8193525
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "45-72 Kissena Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11355",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "45-72 Kissena Blvd",
+                "Flushing, NY 11355"
+            ]
+        },
+        "phone": "+17186610008",
+        "display_phone": "(718) 661-0008",
+        "distance": 13445.978073649583
+    },
+    {
+        "id": "Cd11Q5nxqthvg5xQx2SW2g",
+        "alias": "tasty-dumpling-new-york",
+        "name": "Tasty Dumpling",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l6Rh7VbXaavoXZ2z4Xr0CQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tasty-dumpling-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 498,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7149408310765,
+            "longitude": -73.9995409548283
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "42 Mulberry St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "42 Mulberry St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12123490070",
+        "display_phone": "(212) 349-0070",
+        "distance": 5337.244510416754
+    },
+    {
+        "id": "bzgc8pCxlVKbn2GJrWBLGA",
+        "alias": "maple-garden-flushing",
+        "name": "Maple Garden",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cJDZLfbDEyntlYU5ZVmmdQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/maple-garden-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 32,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.75507,
+            "longitude": -73.82772
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "4209 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11355",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "4209 Main St",
+                "Flushing, NY 11355"
+            ]
+        },
+        "phone": "+17188880011",
+        "display_phone": "(718) 888-0011",
+        "distance": 12712.978698665745
+    },
+    {
+        "id": "XiIBASyS65DX3E_staW0JQ",
+        "alias": "xian-famous-foods-new-york-31",
+        "name": "Xi'an Famous Foods",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LNh6y-Wo9H6teBt1u4jFYg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xian-famous-foods-new-york-31?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 380,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.79847,
+            "longitude": -73.96934
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "2675 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2675 Broadway",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12127862068",
+        "display_phone": "(212) 786-2068",
+        "distance": 4326.230129275037
+    },
+    {
+        "id": "JaKLZrh1Y_2qB_0Gc3bk3A",
+        "alias": "ollies-sichuan-new-york-2",
+        "name": "Ollie's Sichuan",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WdaX9YTExaQjParlji_tMQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/ollies-sichuan-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 489,
+        "categories": [
+            {
+                "alias": "szechuan",
+                "title": "Szechuan"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75884,
+            "longitude": -73.99319
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "411 W 42nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "411 W 42nd St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12128686588",
+        "display_phone": "(212) 868-6588",
+        "distance": 1235.342227228446
+    },
+    {
+        "id": "a1GTJ0bYuoc0gOjhCupBmw",
+        "alias": "new-kim-tuong-new-york",
+        "name": "New Kim Tuong",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R599FB01DxvmTlyiI67knw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-kim-tuong-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 74,
+        "categories": [
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.71745,
+            "longitude": -73.99455
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "83 Chrystie St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "83 Chrystie St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12129662878",
+        "display_phone": "(212) 966-2878",
+        "distance": 4943.140001906603
+    },
+    {
+        "id": "i8ejDDR4COtukAAA1Ls5fw",
+        "alias": "soba-ya-new-york",
+        "name": "Soba-ya",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ffX7A19Ke0QOvLEsFKxjWw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/soba-ya-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1466,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7296485900879,
+            "longitude": -73.9878845214844
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "229 E 9th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "229 E 9th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12125336966",
+        "display_phone": "(212) 533-6966",
+        "distance": 3491.617979614727
+    },
+    {
+        "id": "vD2t3vzv2oNuOk2LTqg1qQ",
+        "alias": "coco-fresh-tea-and-juice-new-york-21",
+        "name": "CoCo Fresh Tea & Juice",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vZZeIfFt_PyNTuqUkN15TA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/coco-fresh-tea-and-juice-new-york-21?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 30,
+        "categories": [
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.71656,
+            "longitude": -73.99822
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "79 A Mott St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "79 A Mott St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12122338275",
+        "display_phone": "(212) 233-8275",
+        "distance": 5131.676223860987
+    },
+    {
+        "id": "84zvcPTAVCsSVtzCUtSDtA",
+        "alias": "cha-chan-tang-茶餐廳-new-york",
+        "name": "Cha Chan Tang 茶餐廳",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/swZwEd72KhnO9Z_djNdzYg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cha-chan-tang-%E8%8C%B6%E9%A4%90%E5%BB%B3-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1029,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "hkcafe",
+                "title": "Hong Kong Style Cafe"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7153,
+            "longitude": -73.99896
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "45 Mott St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "45 Mott St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12125772888",
+        "display_phone": "(212) 577-2888",
+        "distance": 5283.313086978897
+    },
+    {
+        "id": "JnSw_KeMLPRbksD6OZl2sw",
+        "alias": "davidstea-new-york-8",
+        "name": "DAVIDsTEA",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pT8yZE-Iudh_1hWo-xPVMg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/davidstea-new-york-8?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 195,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.73165,
+            "longitude": -74.003
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "275 Bleecker St",
+            "address2": "Unit W-14A",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10014",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "275 Bleecker St",
+                "Unit W-14A",
+                "New York, NY 10014"
+            ]
+        },
+        "phone": "+16466600399",
+        "display_phone": "(646) 660-0399",
+        "distance": 3791.50747417035
+    },
+    {
+        "id": "lgS9lE0Y9FhzT68zCj5QCw",
+        "alias": "hunan-bistro-new-york",
+        "name": "Hunan Bistro",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Uqmypotc4RZna7VQcW-tpA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hunan-bistro-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 214,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.73234,
+            "longitude": -73.9881
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "96 3rd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "96 3rd Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12123889855",
+        "display_phone": "(212) 388-9855",
+        "distance": 3202.916483780169
+    },
+    {
+        "id": "_VWpp7qBwJTAEwc4U2QX8Q",
+        "alias": "funny-bbq-new-york-2",
+        "name": "Funny BBQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4MmlSKq1JAPqedzMNb4vPQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/funny-bbq-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 208,
+        "categories": [
+            {
+                "alias": "hotpot",
+                "title": "Hot Pot"
+            },
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.71773,
+            "longitude": -73.99554
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "98 Bowery",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "98 Bowery",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129650076",
+        "display_phone": "(212) 965-0076",
+        "distance": 4935.628161414939
+    },
+    {
+        "id": "0beIplJQlG3_E8A8rsHTyg",
+        "alias": "coco-fresh-tea-and-juice-new-york-12",
+        "name": "CoCo Fresh Tea & Juice",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DFEw1vmq2VnKfXh-x6zbJA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/coco-fresh-tea-and-juice-new-york-12?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 149,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75263,
+            "longitude": -73.98719
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1384 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1384 Broadway",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+12123022225",
+        "display_phone": "(212) 302-2225",
+        "distance": 1115.9854818497174
+    },
+    {
+        "id": "X8ZS-dgiMIJvhwf9SaDnjw",
+        "alias": "wah-fung-no-1-fast-food-new-york-3",
+        "name": "Wah Fung No 1 Fast Food",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oMriteKj4yYHMmb8myOgJA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wah-fung-no-1-fast-food-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1411,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "hotdogs",
+                "title": "Fast Food"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.71735,
+            "longitude": -73.99457
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "79 Chrystie St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "79 Chrystie St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12129255175",
+        "display_phone": "(212) 925-5175",
+        "distance": 4955.254078383452
+    },
+    {
+        "id": "48bFNXISuqFzkAG3Iak8Gg",
+        "alias": "guo-s-restaurant-elmhurst",
+        "name": "Guo’s Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wI4sQp612WZYqsPH0Chjxg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/guo-s-restaurant-elmhurst?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.74075,
+            "longitude": -73.87905
+        },
+        "transactions": [],
+        "location": {
+            "address1": "83-29 Broadway",
+            "address2": "",
+            "address3": null,
+            "city": "Elmhurst",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "83-29 Broadway",
+                "Elmhurst, NY 11373"
+            ]
+        },
+        "phone": "+17182716500",
+        "display_phone": "(718) 271-6500",
+        "distance": 8652.23414784547
+    },
+    {
+        "id": "Xm-YU6UHb7OQh0sMPa6ZJg",
+        "alias": "bobaloca-bubble-tea-and-coffee-house-west-new-york-2",
+        "name": "Bobaloca Bubble Tea and Coffee House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GghmhBCn7WDMp8EOm-puxA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bobaloca-bubble-tea-and-coffee-house-west-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 15,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.790097,
+            "longitude": -74.0155855
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "6103 Bergenline Ave",
+            "address2": "",
+            "address3": null,
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "6103 Bergenline Ave",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12015909026",
+        "display_phone": "(201) 590-9026",
+        "distance": 4559.063254636694
+    },
+    {
+        "id": "L37A2JWXfwR_PgKColA8xA",
+        "alias": "big-wong-new-york",
+        "name": "Big Wong",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0e1jxB0WWPyoFA9IERfJmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/big-wong-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1433,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.71624,
+            "longitude": -73.99842
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "67 Mott St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "67 Mott St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129640540",
+        "display_phone": "(212) 964-0540",
+        "distance": 5170.510647555145
+    },
+    {
+        "id": "6wJOojpF2c4lLeBNbTBB0A",
+        "alias": "baoburg-brooklyn-2",
+        "name": "Baoburg",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AvXZWKSplu8HEMDwM8waog/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/baoburg-brooklyn-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 210,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7234929271998,
+            "longitude": -73.9503321851175
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "614 Manhattan Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11222",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "614 Manhattan Ave",
+                "Brooklyn, NY 11222"
+            ]
+        },
+        "phone": "+17183490011",
+        "display_phone": "(718) 349-0011",
+        "distance": 4722.806335326091
+    },
+    {
+        "id": "wLXLrpQrPAZeUG7nd8MInw",
+        "alias": "vivi-bubble-tea-new-york-32",
+        "name": "Vivi Bubble Tea",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vGsldfUOr2UDLbQwIRMipA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/vivi-bubble-tea-new-york-32?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 71,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.73057,
+            "longitude": -73.98959
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "30 3rd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "30 3rd Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12127773698",
+        "display_phone": "(212) 777-3698",
+        "distance": 3448.918993601272
+    },
+    {
+        "id": "uqzVqsDfrsH2mWVGn_yOSQ",
+        "alias": "patea-new-york-3",
+        "name": "PaTea",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZWZWMvzj9mlAtnz-VnC7Aw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/patea-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 224,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73306,
+            "longitude": -73.98589
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "227 E 14th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "227 E 14th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+19178622691",
+        "display_phone": "(917) 862-2691",
+        "distance": 3087.1413347272774
+    },
+    {
+        "id": "ZybTcEwBUeQqiiyyBpoiPQ",
+        "alias": "white-bear-flushing",
+        "name": "White Bear",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_rBVSIAUJaKpf5vx7ZVpHA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/white-bear-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 958,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.758783,
+            "longitude": -73.83163
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "135-02 Roosevelt Ave",
+            "address2": "Ste 5",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "135-02 Roosevelt Ave",
+                "Ste 5",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+17189612322",
+        "display_phone": "(718) 961-2322",
+        "distance": 12371.217225095488
+    },
+    {
+        "id": "6zM0c7vvoddgza_qvKkATw",
+        "alias": "golden-unicorn-new-york",
+        "name": "Golden Unicorn",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lfKJxjxTm8OcRhf90NyqtQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/golden-unicorn-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1775,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7136770496642,
+            "longitude": -73.997163364418
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "18 E Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "18 E Broadway",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12129410911",
+        "display_phone": "(212) 941-0911",
+        "distance": 5408.3971327437275
+    },
+    {
+        "id": "z7jUN-zEczunGpDfN8WMtQ",
+        "alias": "vivi-bubble-tea-new-york-22",
+        "name": "Vivi Bubble Tea",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4IOeXirDRDiqZbsQJcxihg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/vivi-bubble-tea-new-york-22?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 63,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.73634,
+            "longitude": -73.9948
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "18 W 14th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "18 W 14th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+16466827784",
+        "display_phone": "(646) 682-7784",
+        "distance": 3003.084187680558
+    },
+    {
+        "id": "Y5NjZuIkWnV-ntd7BeUjzg",
+        "alias": "little-sheep-mongolian-hot-pot-flushing",
+        "name": "Little Sheep Mongolian Hot Pot",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fNhh67qo-OrSiOKWkGGODA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/little-sheep-mongolian-hot-pot-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 642,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "mongolian",
+                "title": "Mongolian"
+            },
+            {
+                "alias": "hotpot",
+                "title": "Hot Pot"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.762281,
+            "longitude": -73.829041
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "136-59 37th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "136-59 37th Ave",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+17187628881",
+        "display_phone": "(718) 762-8881",
+        "distance": 12590.016725317364
+    },
+    {
+        "id": "fWGtMAZsx_EJZs1YsjzA0A",
+        "alias": "conway-bbq-flushing",
+        "name": "Conway BBQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7LEL_B5XDWsxWyTzD75xXg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/conway-bbq-flushing?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "foodstands",
+                "title": "Food Stands"
+            },
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7593484824772,
+            "longitude": -73.8290356099606
+        },
+        "transactions": [],
+        "location": {
+            "address1": "13620 Roosevelt Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "13620 Roosevelt Ave",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+17183218686",
+        "display_phone": "(718) 321-8686",
+        "distance": 12589.020765482723
+    },
+    {
+        "id": "WRIc4ru59IzPUQlWmB2PYA",
+        "alias": "sunkist-bakery-new-york",
+        "name": "Sunkist Bakery",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A_velCEn-bFI-GDgYxpSQQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sunkist-bakery-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 11,
+        "categories": [
+            {
+                "alias": "bakeries",
+                "title": "Bakeries"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.71418,
+            "longitude": -73.9905
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "160 E Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "160 E Broadway",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12126088899",
+        "display_phone": "(212) 608-8899",
+        "distance": 5216.890697330887
+    },
+    {
+        "id": "inftQdKaEEiqQ323AlomXg",
+        "alias": "dek-sen-elmhurst-2",
+        "name": "Dek Sen",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fZeLCGDCGkACDCQViD_tpg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dek-sen-elmhurst-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 254,
+        "categories": [
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.741714,
+            "longitude": -73.878689
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "8608 Whitney Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Elmhurst",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "8608 Whitney Ave",
+                "Elmhurst, NY 11373"
+            ]
+        },
+        "phone": "+17182055181",
+        "display_phone": "(718) 205-5181",
+        "distance": 8662.80903935434
+    },
+    {
+        "id": "K_gq_5HLN3bDIZlFgnrRsA",
+        "alias": "dumpling-cafe-brooklyn",
+        "name": "Dumpling Cafe",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p8I1oDG7ojRDkpqPWP7SaA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dumpling-cafe-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 27,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.71239,
+            "longitude": -73.93943
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "861 Grand St",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11211",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "861 Grand St",
+                "Brooklyn, NY 11211"
+            ]
+        },
+        "phone": "+17183028888",
+        "display_phone": "(718) 302-8888",
+        "distance": 6251.968691589104
+    },
+    {
+        "id": "RR9S0AYyqLbd04CTUZax9Q",
+        "alias": "ümacha-edgewater",
+        "name": "Ümacha",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R9NWmSl-_Gu3vWT_TPyc8Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/%C3%BCmacha-edgewater?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 11,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.816273,
+            "longitude": -73.9787658734817
+        },
+        "transactions": [],
+        "location": {
+            "address1": "595 River Rd",
+            "address2": "",
+            "address3": null,
+            "city": "Edgewater",
+            "zip_code": "07020",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "595 River Rd",
+                "Edgewater, NJ 07020"
+            ]
+        },
+        "phone": "+12019414500",
+        "display_phone": "(201) 941-4500",
+        "distance": 6233.408281542386
+    },
+    {
+        "id": "oDRZt37ROqadlK3-VI0PfQ",
+        "alias": "alimama-new-york-3",
+        "name": "Alimama",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5XwgumtgBN2Wzm20dprDqA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/alimama-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 991,
+        "categories": [
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "donuts",
+                "title": "Donuts"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7158626896215,
+            "longitude": -73.9992850858479
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "89A Bayard St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "89A Bayard St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12122357288",
+        "display_phone": "(212) 235-7288",
+        "distance": 5237.401709720716
+    },
+    {
+        "id": "wxlMX0tqhl8jK-FOt_1S-A",
+        "alias": "kung-fu-tea-new-york-31",
+        "name": "Kung Fu Tea",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PN3sX_Lkiup3hiiWbSbITQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kung-fu-tea-new-york-31?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 388,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.717113,
+            "longitude": -73.994558
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "73 Chrystie St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "73 Chrystie St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+16462884936",
+        "display_phone": "(646) 288-4936",
+        "distance": 4981.457324128191
+    },
+    {
+        "id": "PBUIaPtgnhmdHE3KHglK-g",
+        "alias": "jean-georges-new-york-2",
+        "name": "Jean-Georges",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tSJhcc9W1wb9peait1pMLg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jean-georges-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1880,
+        "categories": [
+            {
+                "alias": "french",
+                "title": "French"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7691122743293,
+            "longitude": -73.9814290717583
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$$$",
+        "location": {
+            "address1": "1 Central Park W",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1 Central Park W",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12122993900",
+        "display_phone": "(212) 299-3900",
+        "distance": 1019.6234165976689
+    },
+    {
+        "id": "nUaGG1xLmy9T4cqaf08i4g",
+        "alias": "chatime-flushing-7",
+        "name": "Chatime",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hx7bG3gblrX1jg1LggFTvA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chatime-flushing-7?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 21,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.740429,
+            "longitude": -73.815237
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "59-12 Kissena Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Flushing",
+            "zip_code": "11355",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "59-12 Kissena Blvd",
+                "Flushing, NY 11355"
+            ]
+        },
+        "phone": "+17189393712",
+        "display_phone": "(718) 939-3712",
+        "distance": 13927.661631003013
+    },
+    {
+        "id": "wCA2kvIfrkzhBQ225VKspA",
+        "alias": "88-palace-restaurant-new-york",
+        "name": "88 Palace Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xbIs9rgjLrf8dLOSstWUNQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/88-palace-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 206,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.714,
+            "longitude": -73.99439
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "88 E Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "88 E Broadway",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12129418886",
+        "display_phone": "(212) 941-8886",
+        "distance": 5310.108126726374
+    },
+    {
+        "id": "isIFCDLE3VIDJcqhVy_klA",
+        "alias": "99-favor-taste-brooklyn-5",
+        "name": "99 Favor Taste",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3-UDqzPN5XbWYhlatDXIiA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/99-favor-taste-brooklyn-5?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 754,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "hotpot",
+                "title": "Hot Pot"
+            },
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.6355691,
+            "longitude": -74.0115482
+        },
+        "transactions": [
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "732 61st St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11220",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "732 61st St",
+                "Brooklyn, NY 11220"
+            ]
+        },
+        "phone": "+17184390578",
+        "display_phone": "(718) 439-0578",
+        "distance": 14144.016274497797
+    },
+    {
+        "id": "rPTX2J5KGDkN1QhPD-QOvg",
+        "alias": "xifu-food-brooklyn",
+        "name": "Xifu Food",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SiWrJqq1wyIbUWFbhjgoXQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xifu-food-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 136,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.6880326,
+            "longitude": -73.9819963
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "318 Livingston St",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11217",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "318 Livingston St",
+                "Brooklyn, NY 11217"
+            ]
+        },
+        "phone": "+17182378886",
+        "display_phone": "(718) 237-8886",
+        "distance": 8038.613055528368
+    },
+    {
+        "id": "a-Bq_yXFVk2PptoWpmry3w",
+        "alias": "pye-boat-noodle-astoria",
+        "name": "Pye Boat Noodle",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LxWKlqAo2FuzUXvZlHcArw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pye-boat-noodle-astoria?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 801,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76043,
+            "longitude": -73.92152
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "35-13 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11106",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "35-13 Broadway",
+                "Astoria, NY 11106"
+            ]
+        },
+        "phone": "+17186852329",
+        "display_phone": "(718) 685-2329",
+        "distance": 4795.144249123729
+    },
+    {
+        "id": "nYhEcrY0zqh6Hc3-ERcVXw",
+        "alias": "silk-road-cafe-new-york",
+        "name": "Silk Road Cafe",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pQksn87Skg6XDtyjuhpKKQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/silk-road-cafe-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 162,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "bagels",
+                "title": "Bagels"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.714702,
+            "longitude": -73.998573
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "30 Mott St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "30 Mott St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+16462399935",
+        "display_phone": "(646) 239-9935",
+        "distance": 5332.281585660673
+    },
+    {
+        "id": "-yyCWn1iihJ3XpFNIq16-w",
+        "alias": "shiny-tea-new-york",
+        "name": "Shiny Tea",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HrWCv7jGzo_kEIxWX_eRyg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/shiny-tea-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 119,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.79823,
+            "longitude": -73.9695
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2667 Broadway",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2667 Broadway",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12122226134",
+        "display_phone": "(212) 222-6134",
+        "distance": 4302.938675613461
+    },
+    {
+        "id": "gMVFC--iXd29dM6QTMbp3w",
+        "alias": "yi-fang-taiwan-fruit-tea-long-island-city",
+        "name": "Yi Fang Taiwan Fruit Tea",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0L_9eVJWLpLCM9aLw5tkhw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/yi-fang-taiwan-fruit-tea-long-island-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 72,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "tea",
+                "title": "Tea Rooms"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74782,
+            "longitude": -73.94769
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "44-68 21st St",
+            "address2": "",
+            "address3": null,
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "44-68 21st St",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+13477384143",
+        "display_phone": "(347) 738-4143",
+        "distance": 2937.832293381062
+    },
+    {
+        "id": "6HfkOUronrx92x1dMmwFbA",
+        "alias": "summer-elmhurst",
+        "name": "Summer",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MBoMMIY0qDr4RPpiJ67LKw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/summer-elmhurst?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 111,
+        "categories": [
+            {
+                "alias": "vietnamese",
+                "title": "Vietnamese"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7353499,
+            "longitude": -73.88091
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "85-36 Grand Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Elmhurst",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "85-36 Grand Ave",
+                "Elmhurst, NY 11373"
+            ]
+        },
+        "phone": "+17188036233",
+        "display_phone": "(718) 803-6233",
+        "distance": 8672.966487370471
+    },
+    {
+        "id": "CSJ-D61YYfWeweGzFMI0ww",
+        "alias": "tai-pei-hot-queens",
+        "name": "Tai Pei Hot",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tai-pei-hot-queens?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 2,
+        "categories": [
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7414872,
+            "longitude": -73.8827301
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "8202 45th Ave",
+            "address2": "Ste 15",
+            "address3": null,
+            "city": "Queens",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "8202 45th Ave",
+                "Ste 15",
+                "Queens, NY 11373"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 8347.268153751338
+    },
+    {
+        "id": "IzPQJFt_W76noJR1cGCiYQ",
+        "alias": "kung-fu-tea-new-york-2",
+        "name": "Kung Fu Tea",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fa0hKCWu7TY4PdV107QywQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kung-fu-tea-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 307,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.71777,
+            "longitude": -73.9998899
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "234 Canal St",
+            "address2": "Ste 107",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "234 Canal St",
+                "Ste 107",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129662786",
+        "display_phone": "(212) 966-2786",
+        "distance": 5056.842503844985
+    },
+    {
+        "id": "W2B8KfNllQqIv_TyfCv85Q",
+        "alias": "gong-cha-new-york-9",
+        "name": "Gong Cha",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NxsPXGHpWD15tmh0bX6BTA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gong-cha-new-york-9?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 404,
+        "categories": [
+            {
+                "alias": "bubbletea",
+                "title": "Bubble Tea"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7523752091444,
+            "longitude": -73.98557536304
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "75 W 38th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "75 W 38th St",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+12123982716",
+        "display_phone": "(212) 398-2716",
+        "distance": 1055.9561999077123
+    }
+]

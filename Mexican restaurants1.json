@@ -1,0 +1,2202 @@
+[
+    {
+        "id": "xGoSAOhQBNdJMJmPn7CMDQ",
+        "alias": "mexicue-new-york-4",
+        "name": "Mexicue",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WQkdTVOAZ63QrnDZAj8mfQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mexicue-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 544,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.754109,
+            "longitude": -73.986015
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1440 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1440 Broadway",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+12123020385",
+        "display_phone": "(212) 302-0385",
+        "distance": 928.2162543923326
+    },
+    {
+        "id": "8WSRmH4rsSRJN1jN0qmT_A",
+        "alias": "café-frida-new-york-4",
+        "name": "Café Frida",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Dl4fQKNNHW0jLhCLEuurlw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/caf%C3%A9-frida-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 664,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7808959,
+            "longitude": -73.9764829
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "368 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10024",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "368 Columbus Ave",
+                "New York, NY 10024"
+            ]
+        },
+        "phone": "+12127122929",
+        "display_phone": "(212) 712-2929",
+        "distance": 2314.9759564758497
+    },
+    {
+        "id": "Jd2_ZC4ugEMSY9ElivNZgg",
+        "alias": "summer-salt-new-york",
+        "name": "Summer Salt",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tpWJzurP2QNZHRyyLLaoYA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/summer-salt-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 61,
+        "categories": [
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            },
+            {
+                "alias": "newmexican",
+                "title": "New Mexican Cuisine"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.74057,
+            "longitude": -73.98768
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "30 East 23rd St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "30 East 23rd St",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+12122090648",
+        "display_phone": "(212) 209-0648",
+        "distance": 2320.7100410943967
+    },
+    {
+        "id": "7bD22UAtH56ikWYslOSIQg",
+        "alias": "calexico-upper-east-side-new-york-2",
+        "name": "Calexico - Upper East Side",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/If17MxTRNkk2CbzlFkW_8g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/calexico-upper-east-side-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 675,
+        "categories": [
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.77259,
+            "longitude": -73.95588
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1491 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10075",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1491 2nd Ave",
+                "New York, NY 10075"
+            ]
+        },
+        "phone": "+13479675955",
+        "display_phone": "(347) 967-5955",
+        "distance": 2349.926469716569
+    },
+    {
+        "id": "7l0uy47dEHXg2S1lA1s-EQ",
+        "alias": "vote-for-pedro-tequila-and-tacos-new-york",
+        "name": "Vote For Pedro Tequila & Tacos",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TBCla8VyPcJ0g86y4a-OAQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/vote-for-pedro-tequila-and-tacos-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 100,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75725,
+            "longitude": -73.96808
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "231 E 53rd St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10022",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "231 E 53rd St",
+                "New York, NY 10022"
+            ]
+        },
+        "phone": "+19172658552",
+        "display_phone": "(917) 265-8552",
+        "distance": 938.2314630768695
+    },
+    {
+        "id": "e8C2mJjAmk0YWQx_Q0NN3w",
+        "alias": "casa-del-toro-new-york",
+        "name": "Casa del Toro",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oMXiery5_KJj6fORkesyFw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casa-del-toro-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 9,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.761115,
+            "longitude": -73.9940146
+        },
+        "transactions": [],
+        "location": {
+            "address1": "626B 10th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "626B 10th Ave",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12125860811",
+        "display_phone": "(212) 586-0811",
+        "distance": 1310.4948206287318
+    },
+    {
+        "id": "jnEv25Y2DosTq2sNnvmC9g",
+        "alias": "los-tacos-no-1-new-york",
+        "name": "Los Tacos No.1",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FU44TYl3PzXsE06G4W5aog/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/los-tacos-no-1-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 2942,
+        "categories": [
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7425547,
+            "longitude": -74.0060838
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "75 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "75 9th Ave",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12122560343",
+        "display_phone": "(212) 256-0343",
+        "distance": 3042.184635902337
+    },
+    {
+        "id": "ueL0t_7Yu_ev2RrWK9dgDA",
+        "alias": "tacombi-empire-state-building-new-york",
+        "name": "Tacombi - Empire State Building",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/20Jel917IhNc2EXvA3KUVA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tacombi-empire-state-building-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 176,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.748375,
+            "longitude": -73.9864908
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "23 W 33rd St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10118",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "23 W 33rd St",
+                "New York, NY 10118"
+            ]
+        },
+        "phone": "+12129675555",
+        "display_phone": "(212) 967-5555",
+        "distance": 1478.6018575359453
+    },
+    {
+        "id": "vC5XPdWzKa-c8iUQlUwEUQ",
+        "alias": "orale-mexican-kitchen-hoboken",
+        "name": "Orale Mexican Kitchen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JoGSshioz1P0iwN1iEIAqg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/orale-mexican-kitchen-hoboken?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 175,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75493,
+            "longitude": -74.02968
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1426 Willow Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Hoboken",
+            "zip_code": "07030",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1426 Willow Ave",
+                "Hoboken, NJ 07030"
+            ]
+        },
+        "phone": "+12019423937",
+        "display_phone": "(201) 942-3937",
+        "distance": 4348.272939754873
+    },
+    {
+        "id": "B6bEkY9sJ_GU2pD2Rwb4gg",
+        "alias": "el-mitote-new-york",
+        "name": "El Mitote",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xWkgqiaYmak8GQs98RTCiA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-mitote-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 487,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "salad",
+                "title": "Salad"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.77578,
+            "longitude": -73.98021
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "208 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "208 Columbus Ave",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12128742929",
+        "display_phone": "(212) 874-2929",
+        "distance": 1744.119421141356
+    },
+    {
+        "id": "u9xVzV1OZC5pwtUgaHLM-A",
+        "alias": "el-kallejon-new-york",
+        "name": "El Kallejon",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O0OSypsBwLBnrfNsNJa37A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-kallejon-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 294,
+        "categories": [
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.798538,
+            "longitude": -73.938805
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "209 E 117th St",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10035",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "209 E 117th St",
+                "New York, NY 10035"
+            ]
+        },
+        "phone": "+16466494795",
+        "display_phone": "(646) 649-4795",
+        "distance": 5415.739766894408
+    },
+    {
+        "id": "NOh24SMS6k4pzNv8Ds7KDg",
+        "alias": "cafe-habana-new-york-4",
+        "name": "Cafe Habana",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MUy4xs3PVio0lgzBNLmsBw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cafe-habana-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 3154,
+        "categories": [
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.722998,
+            "longitude": -73.994171
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "17 Prince St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "17 Prince St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+12126252001",
+        "display_phone": "(212) 625-2001",
+        "distance": 4343.8148233130805
+    },
+    {
+        "id": "tuP7STBjszTvKcQLeFMnkw",
+        "alias": "the-great-burrito-new-york-2",
+        "name": "The Great Burrito",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LfpeGKZcjZ0obcSDk2ulgA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-great-burrito-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 279,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.78333,
+            "longitude": -73.97796
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "405 Amsterdam Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10024",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "405 Amsterdam Ave",
+                "New York, NY 10024"
+            ]
+        },
+        "phone": "+12127245151",
+        "display_phone": "(212) 724-5151",
+        "distance": 2565.2075784291746
+    },
+    {
+        "id": "dgaNriM1VdI2nGochhHE_g",
+        "alias": "casa-enrique-long-island-city",
+        "name": "Casa Enrique",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PTQbaqicKuCeiVjr_HzFZQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casa-enrique-long-island-city?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1179,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.743404338358,
+            "longitude": -73.954350367693
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5-48 49th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "zip_code": "11101",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "5-48 49th Ave",
+                "Long Island City, NY 11101"
+            ]
+        },
+        "phone": "+13474486040",
+        "display_phone": "(347) 448-6040",
+        "distance": 2762.6733525367663
+    },
+    {
+        "id": "0W0m68TNPbodGCA3PhIB4w",
+        "alias": "the-black-ant-new-york-2",
+        "name": "The Black Ant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rP2F7ZGSjatRLRx8Z9DJJw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-black-ant-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 532,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "venues",
+                "title": "Venues & Event Spaces"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72578,
+            "longitude": -73.98952
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "60 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "60 2nd Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12125980300",
+        "display_phone": "(212) 598-0300",
+        "distance": 3939.502164896937
+    },
+    {
+        "id": "v8tuFxvNkKdZytWTn9BhMA",
+        "alias": "fonda-chelsea-new-york-2",
+        "name": "Fonda Chelsea",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mNyXXg9XcA-y_XpwBRKX3Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fonda-chelsea-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 334,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7455185879981,
+            "longitude": -74.0021848849335
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "189 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "189 9th Ave",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+19175255252",
+        "display_phone": "(917) 525-5252",
+        "distance": 2578.8797564255237
+    },
+    {
+        "id": "DQuwci5xgJxXx7dxxp9FBA",
+        "alias": "taqueria-st-marks-place-new-york",
+        "name": "Taqueria St. Marks Place",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j_1RvOMdLbXNtMLJLriYaw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taqueria-st-marks-place-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 427,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7278587780221,
+            "longitude": -73.9856138085992
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "79 St Marks Pl",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "79 St Marks Pl",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+16469645614",
+        "display_phone": "(646) 964-5614",
+        "distance": 3647.400951813049
+    },
+    {
+        "id": "xN4yKQMzo3PIoQlFamUOLQ",
+        "alias": "la-esquina-midtown-new-york-2",
+        "name": "La Esquina - Midtown",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/laj7Nc4ymjrFC6R2qlEE7g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-esquina-midtown-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 196,
+        "categories": [
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7642986928764,
+            "longitude": -73.9814604957066
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "200 W 55th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "200 W 55th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+16466137100",
+        "display_phone": "(646) 613-7100",
+        "distance": 518.0315827574314
+    },
+    {
+        "id": "rbAxZRKdMoMxeonDTmooFg",
+        "alias": "el-vez-new-york",
+        "name": "El Vez",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dlRkKLT98T7obHGyiKrzHA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-vez-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 648,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7147356376792,
+            "longitude": -74.015635
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "259 Vesey St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10282",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "259 Vesey St",
+                "New York, NY 10282"
+            ]
+        },
+        "phone": "+12122332500",
+        "display_phone": "(212) 233-2500",
+        "distance": 5946.651880445217
+    },
+    {
+        "id": "boRM4i0UQswxQIp6CA9y_A",
+        "alias": "la-esquina-soho-new-york",
+        "name": "La Esquina - SoHo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OKbbMhOq8jd2kF0mtPKuwg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-esquina-soho-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 2029,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.721372,
+            "longitude": -73.997529
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "114 Kenmare St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "114 Kenmare St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+16466137100",
+        "display_phone": "(646) 613-7100",
+        "distance": 4607.054137076205
+    },
+    {
+        "id": "ry7XCoXXxS0DxRmzZLFybw",
+        "alias": "taqueria-gramercy-new-york",
+        "name": "Taqueria Gramercy",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XayLwDU6hCJKRXwgfGXx1A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taqueria-gramercy-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 81,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7363,
+            "longitude": -73.98531
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "218 3rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "218 3rd Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+16463706435",
+        "display_phone": "(646) 370-6435",
+        "distance": 2721.5582124960224
+    },
+    {
+        "id": "uipFunIVqRWwopfEvrscyQ",
+        "alias": "casa-mezcal-new-york",
+        "name": "Casa Mezcal",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BxlflsYtvGRyJAGgo1XI_w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casa-mezcal-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 402,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7179602,
+            "longitude": -73.9902328
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "86 Orchard St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "86 Orchard St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12127772600",
+        "display_phone": "(212) 777-2600",
+        "distance": 4801.355664379457
+    },
+    {
+        "id": "SXWnyFNLCehVlJPRxk7gAg",
+        "alias": "anejo-tribeca-new-york-3",
+        "name": "Anejo Tribeca",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_fuWOS5dG8GL2oyWkn1L5A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/anejo-tribeca-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 378,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "tapasmallplates",
+                "title": "Tapas/Small Plates"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7193829,
+            "longitude": -74.004417
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "301 Church St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "301 Church St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129206270",
+        "display_phone": "(212) 920-6270",
+        "distance": 5038.053567651892
+    },
+    {
+        "id": "cy0vBvZu2Eb4XtRFCp8Seg",
+        "alias": "conmigo-new-york",
+        "name": "Conmigo",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bmHxOBSPVuLeOIvIiyvnHg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/conmigo-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 208,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.77793,
+            "longitude": -73.94902
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1685 1st Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10128",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1685 1st Ave",
+                "New York, NY 10128"
+            ]
+        },
+        "phone": "+12122560056",
+        "display_phone": "(212) 256-0056",
+        "distance": 3169.0503573660326
+    },
+    {
+        "id": "R5jpETY0OshPn-AeJjs0fA",
+        "alias": "dos-caminos-new-york-4",
+        "name": "Dos Caminos",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0Q_W1gcSGPL93_Nl2I9MSQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dos-caminos-new-york-4?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1066,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7266452,
+            "longitude": -73.9999024
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "475 W Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "475 W Broadway",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+12122774300",
+        "display_phone": "(212) 277-4300",
+        "distance": 4145.423336598884
+    },
+    {
+        "id": "sul_ihulQ5VUPNbk9liWqA",
+        "alias": "cantina-rooftop-new-york-6",
+        "name": "Cantina Rooftop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iarEj1CPC8XJXx-MY_hZvw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cantina-rooftop-new-york-6?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 670,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.765101,
+            "longitude": -73.996046
+        },
+        "transactions": [
+            "delivery",
+            "pickup",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "605 W 48th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "605 W 48th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12129571700",
+        "display_phone": "(212) 957-1700",
+        "distance": 1574.4286651743537
+    },
+    {
+        "id": "VThwGCuC6JVaxAgnmuJDRg",
+        "alias": "cilantro-new-york-3",
+        "name": "Cilantro",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C256AIaAYCGJ9EBSX0w7nQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cilantro-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 427,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.784629,
+            "longitude": -73.973121
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "485 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10024",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "485 Columbus Ave",
+                "New York, NY 10024"
+            ]
+        },
+        "phone": "+12127129090",
+        "display_phone": "(212) 712-9090",
+        "distance": 2751.080264619812
+    },
+    {
+        "id": "Ahx8GsuAGUl8TgqCWP7uXw",
+        "alias": "temerario-new-york-2",
+        "name": "Temerario",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MPZRWNAOKQMwmGXUyMH9Cw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/temerario-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 263,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7434133400872,
+            "longitude": -73.9996277220286
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "198 8th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "198 8th Ave",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12126452100",
+        "display_phone": "(212) 645-2100",
+        "distance": 2580.2223077145313
+    },
+    {
+        "id": "v4_89HfTm05NFTuukjsl_g",
+        "alias": "the-burrito-box-new-york",
+        "name": "The Burrito Box",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cBJyXeaXy-nJQYu4KHzRFw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-burrito-box-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 874,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76831,
+            "longitude": -73.98565
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "885 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "885 9th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12124896889",
+        "display_phone": "(212) 489-6889",
+        "distance": 1080.8673706862992
+    },
+    {
+        "id": "foAYWheDCF9wUyKPuOGYow",
+        "alias": "mole-new-york-6",
+        "name": "Mole",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gjFv4Lhr-4v9sS3ggwrOxw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mole-new-york-6?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 376,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.780331,
+            "longitude": -73.950302
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1735 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10128",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1735 2nd Ave",
+                "New York, NY 10128"
+            ]
+        },
+        "phone": "+12122898226",
+        "display_phone": "(212) 289-8226",
+        "distance": 3261.9109734612234
+    },
+    {
+        "id": "E_oFzRY-7j9T04qHkORCsw",
+        "alias": "santa-fe-new-york-3",
+        "name": "Santa Fe",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qasMZdxkqhAqAmFKDaE31g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/santa-fe-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 172,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7767077615034,
+            "longitude": -73.9789559105304
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "73 W 71st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "73 W 71st St",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12127240822",
+        "display_phone": "(212) 724-0822",
+        "distance": 1834.3204999312272
+    },
+    {
+        "id": "BxnrBKdLwdaEXyq97uxgKg",
+        "alias": "cascalote-latin-bistro-new-york",
+        "name": "Cascalote Latin Bistro",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YndWYxrM5dFcTOQP6aaZAw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cascalote-latin-bistro-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 340,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.79271,
+            "longitude": -73.94069
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2126 2nd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10029",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2126 2nd Ave",
+                "New York, NY 10029"
+            ]
+        },
+        "phone": "+16463516574",
+        "display_phone": "(646) 351-6574",
+        "distance": 4817.803088437875
+    },
+    {
+        "id": "oSFL1AVZYouS4YrDjoLyLA",
+        "alias": "baby-bos-cantina-new-york",
+        "name": "Baby Bo's Cantina",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IomSvlwVkiMVXMo5i2CTeQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/baby-bos-cantina-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 616,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.74514,
+            "longitude": -73.97598
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "627 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "627 2nd Ave",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12127792656",
+        "display_phone": "(212) 779-2656",
+        "distance": 1691.7601753040415
+    },
+    {
+        "id": "tCuPhpmf1PaYe5dmwdq8Ew",
+        "alias": "guacamole-mexican-restaurant-new-york",
+        "name": "Guacamole Mexican Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RJfiAS3Wb541_pBI1_L3SA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/guacamole-mexican-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 149,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.79515,
+            "longitude": -73.9698
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "768 Amsterdam Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "768 Amsterdam Ave",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+19172658173",
+        "display_phone": "(917) 265-8173",
+        "distance": 3954.7868869836975
+    },
+    {
+        "id": "HotAOU7WRHZcxpppEDwnfg",
+        "alias": "taco-dumbo-new-york-9",
+        "name": "Taco Dumbo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4yu88uHoVdOFfdXtn78yOg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taco-dumbo-new-york-9?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 67,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75811,
+            "longitude": -73.9831455
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "114 W 47th St",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "114 W 47th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+16467819409",
+        "display_phone": "(646) 781-9409",
+        "distance": 455.90591218559456
+    },
+    {
+        "id": "FkA9aoMhWO4XKFMTuTnl4Q",
+        "alias": "atla-new-york",
+        "name": "Atla",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OHFAX52BJ966mzpnykdJ1Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/atla-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 285,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7271874,
+            "longitude": -73.9938924
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "372 Lafayette St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10012",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "372 Lafayette St",
+                "New York, NY 10012"
+            ]
+        },
+        "phone": "+13476623522",
+        "display_phone": "(347) 662-3522",
+        "distance": 3905.987141716146
+    },
+    {
+        "id": "1m6viubAWUgsTgguIrJT6A",
+        "alias": "cosme-new-york",
+        "name": "Cosme",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/35V3CQjCk2sYJ3OO6rpXoQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cosme-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1052,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "desserts",
+                "title": "Desserts"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.739691,
+            "longitude": -73.988428
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "35 E 21st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "35 E 21st St",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+12129139659",
+        "display_phone": "(212) 913-9659",
+        "distance": 2430.551150454227
+    },
+    {
+        "id": "6ptX8V8WW_IzhHXLJ4SRAA",
+        "alias": "dos-toros-taqueria-new-york-22",
+        "name": "Dos Toros Taqueria",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IMZru7a0K51b0QDpyR3zuA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dos-toros-taqueria-new-york-22?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 177,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75352,
+            "longitude": -73.97418
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "465 Lexington Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "465 Lexington Ave",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+13473943844",
+        "display_phone": "(347) 394-3844",
+        "distance": 829.1284618481566
+    },
+    {
+        "id": "ulLQVyjtnWjsFttiOn2D8w",
+        "alias": "under-the-volcano-new-york",
+        "name": "Under the Volcano",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rlx5q5SSn5fMLDVIPPWn7A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/under-the-volcano-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 30,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7493203133345,
+            "longitude": -73.9827778190374
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "12 E 36th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "12 E 36th St",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12122130093",
+        "display_phone": "(212) 213-0093",
+        "distance": 1272.754147707837
+    },
+    {
+        "id": "FXgSgiLg6xgOO8zrG51mzg",
+        "alias": "claro-brooklyn",
+        "name": "Claro",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3jlTHQ6Im9hu_lQ1KcI6fA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/claro-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 169,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.6773587963142,
+            "longitude": -73.9861984489446
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "284 3rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11215",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "284 3rd Ave",
+                "Brooklyn, NY 11215"
+            ]
+        },
+        "phone": "+13477213126",
+        "display_phone": "(347) 721-3126",
+        "distance": 9235.983526953522
+    },
+    {
+        "id": "SCQvI5pAJmD-OMm37kkS6Q",
+        "alias": "dorado-tacos-and-quesadillas-new-york-3",
+        "name": "DORADO Tacos & Quesadillas",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2hfP7J7TaPtQuhjzELv2HA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dorado-tacos-and-quesadillas-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 631,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "gluten_free",
+                "title": "Gluten-Free"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73396,
+            "longitude": -73.99312
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "28 E 12th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "28 E 12th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12126270900",
+        "display_phone": "(212) 627-0900",
+        "distance": 3171.1375261374246
+    },
+    {
+        "id": "U9BX6bMvXHk8umBYnS3Dog",
+        "alias": "dos-toros-taqueria-new-york",
+        "name": "Dos Toros Taqueria",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uyH20JlQ20mDWuy7Y-2r8Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dos-toros-taqueria-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1324,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7336815475083,
+            "longitude": -73.9897049423153
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "137 4th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "137 4th Ave",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12126777300",
+        "display_phone": "(212) 677-7300",
+        "distance": 3097.6793172530183
+    },
+    {
+        "id": "WqjqHMozyW42XLTtLnKGag",
+        "alias": "la-pulperia-hells-kitchen-new-york",
+        "name": "La Pulperia Hell's Kitchen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fyNGpzJ4aB_ehHO-nb4IpQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-pulperia-hells-kitchen-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 783,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7609037798437,
+            "longitude": -73.9905203491259
+        },
+        "transactions": [
+            "pickup",
+            "restaurant_reservation"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "371 W 46th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "371 W 46th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12129603176",
+        "display_phone": "(212) 960-3176",
+        "distance": 1015.2636685061283
+    },
+    {
+        "id": "AABqAsYdRI9gSyU1gStdxg",
+        "alias": "gina-mexicana-new-york-2",
+        "name": "Gina Mexicana",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vgdFeV5W41q9uVXa93PXpA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gina-mexicana-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 155,
+        "categories": [
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.763456,
+            "longitude": -73.966753
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "145 E 61st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10021",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "145 E 61st St",
+                "New York, NY 10021"
+            ]
+        },
+        "phone": "+12125273700",
+        "display_phone": "(212) 527-3700",
+        "distance": 1052.984058322169
+    },
+    {
+        "id": "PGpCaNkB1meojnbgRmb2gQ",
+        "alias": "buena-vista-restaurant-and-bar-new-york",
+        "name": "Buena Vista Restaurant & Bar",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cpPCEqAx6O_ytHY1ovajeA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/buena-vista-restaurant-and-bar-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 180,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.75686,
+            "longitude": -73.99356
+        },
+        "transactions": [
+            "delivery",
+            "pickup",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "536 9th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "536 9th Ave",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+12123885040",
+        "display_phone": "(212) 388-5040",
+        "distance": 1317.4081073307775
+    },
+    {
+        "id": "o-KRgyTJoM4EM-K-rwe86w",
+        "alias": "bodega-negra-new-york",
+        "name": "Bodega Negra",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qNm_t7hmAwcKt6AKP_Ue2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bodega-negra-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 680,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7421414364183,
+            "longitude": -74.0035781860352
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$$",
+        "location": {
+            "address1": "355 W 16th St",
+            "address2": "",
+            "address3": "Dream Downtown",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "355 W 16th St",
+                "Dream Downtown",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12122292336",
+        "display_phone": "(212) 229-2336",
+        "distance": 2915.6894176188325
+    },
+    {
+        "id": "t86q8MbsrW8pB8bmfwPWTw",
+        "alias": "blockheads-new-york-12",
+        "name": "Blockheads",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OBX7DDTHvB_wMzicjJFDsw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/blockheads-new-york-12?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 458,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7551,
+            "longitude": -73.96802
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "954 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10022",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "954 2nd Ave",
+                "New York, NY 10022"
+            ]
+        },
+        "phone": "+12127502020",
+        "display_phone": "(212) 750-2020",
+        "distance": 1050.0698983740365
+    },
+    {
+        "id": "lL5DgsvOuiI8nMQcjK1bMA",
+        "alias": "el-centro-cantina-new-york-3",
+        "name": "El Centro Cantina",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eiJMf4kBOmIKZ1DsVEw_WQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-centro-cantina-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 48,
+        "categories": [
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76593,
+            "longitude": -73.98675
+        },
+        "transactions": [],
+        "location": {
+            "address1": "359 W 54th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "359 W 54th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 941.5830464624723
+    },
+    {
+        "id": "L3REPLCvQpMapYPd_fkS-A",
+        "alias": "los-mariscos-new-york",
+        "name": "Los Mariscos",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/miAqlvuZ-SEdViMIAbHkeQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/los-mariscos-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 566,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "tacos",
+                "title": "Tacos"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.74207,
+            "longitude": -74.00565
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "409 W 15th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "409 W 15th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12129204986",
+        "display_phone": "(212) 920-4986",
+        "distance": 3049.2994710005573
+    },
+    {
+        "id": "-Qn5nXGhxWHNePA0dYmPSg",
+        "alias": "tacos-times-square-new-york-3",
+        "name": "Tacos Times Square",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jkXYNBq7Sn2IqQRm1LBJ4g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tacos-times-square-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 106,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76253,
+            "longitude": -73.97671
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "43 West 55st",
+            "address2": "1fl",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "43 West 55st",
+                "1fl",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12129120044",
+        "display_phone": "(212) 912-0044",
+        "distance": 312.5322446429294
+    }
+]

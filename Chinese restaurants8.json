@@ -1,0 +1,2168 @@
+[
+    {
+        "id": "XDboe1zVxSRRMgHObYULSA",
+        "alias": "hong-kong-street-cart-at-broadway-bites-new-york",
+        "name": "Hong Kong Street Cart At Broadway Bites",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SQLaxsq1f-PqM9q-5UQt8A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hong-kong-street-cart-at-broadway-bites-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "vegetarian",
+                "title": "Vegetarian"
+            },
+            {
+                "alias": "foodstands",
+                "title": "Food Stands"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.750671,
+            "longitude": -73.986755
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "968 Avenue Of The Americas",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "968 Avenue Of The Americas",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1268.4150012485377
+    },
+    {
+        "id": "aQi6bKQoIZbGbMc6WvKJaw",
+        "alias": "chans-dragon-inn-ridgefield",
+        "name": "Chan's Dragon Inn",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oTcqoZou-9v4IdX9ovnVZQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chans-dragon-inn-ridgefield?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 135,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8347854614258,
+            "longitude": -74.0082931518555
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "630 Broad Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Ridgefield",
+            "zip_code": "07657",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "630 Broad Ave",
+                "Ridgefield, NJ 07657"
+            ]
+        },
+        "phone": "+12019431276",
+        "display_phone": "(201) 943-1276",
+        "distance": 8670.150060973148
+    },
+    {
+        "id": "-FSwYW_xV__5KHTIc56B0Q",
+        "alias": "rice-k-astoria",
+        "name": "Rice K",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bl5HbiWJYn0c7hvVsgVWVw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rice-k-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 85,
+        "categories": [
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.774743,
+            "longitude": -73.913172
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "29-21 23rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Astoria",
+            "zip_code": "11105",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "29-21 23rd Ave",
+                "Astoria, NY 11105"
+            ]
+        },
+        "phone": "+17186068508",
+        "display_phone": "(718) 606-8508",
+        "distance": 5733.9068411517355
+    },
+    {
+        "id": "akWRnF0VFJLJD4uOnGWB-g",
+        "alias": "po-wong-restaurant-union-city",
+        "name": "Po Wong Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jtxKktSb3FpMoQcM9hRpRg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/po-wong-restaurant-union-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 27,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.758224,
+            "longitude": -74.044303
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "617 Summit Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "617 Summit Ave",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12018672208",
+        "display_phone": "(201) 867-2208",
+        "distance": 5543.366005862575
+    },
+    {
+        "id": "5KDfEi17KRFD1TrzZyT4lQ",
+        "alias": "profit-chinese-restaurant-ii-new-york",
+        "name": "Profit Chinese Restaurant II",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j9kvd2sZxh15q8EEaRftdw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/profit-chinese-restaurant-ii-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 36,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "soup",
+                "title": "Soup"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.74565,
+            "longitude": -73.9755799
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "643 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "643 2nd Ave",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12126898388",
+        "display_phone": "(212) 689-8388",
+        "distance": 1638.0585392415528
+    },
+    {
+        "id": "kNOr6_g6QfBHdhf89j3g5w",
+        "alias": "taiwan-pork-chop-house-new-york",
+        "name": "Taiwan Pork Chop House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RN27DsMreoDk07k5O1UxqA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/taiwan-pork-chop-house-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 455,
+        "categories": [
+            {
+                "alias": "taiwanese",
+                "title": "Taiwanese"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71424,
+            "longitude": -73.99799
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "3 Doyers St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3 Doyers St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12127917007",
+        "display_phone": "(212) 791-7007",
+        "distance": 5368.651764300092
+    },
+    {
+        "id": "91rrB0aH3caC70oCkxAynA",
+        "alias": "deluxe-green-bo-new-york-2",
+        "name": "Deluxe Green Bo",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GOvfa0CgVYL8w79TxeOSaA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/deluxe-green-bo-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 638,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.715540215765,
+            "longitude": -73.9981645926656
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "66 Bayard St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "66 Bayard St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12126252359",
+        "display_phone": "(212) 625-2359",
+        "distance": 5236.587903702116
+    },
+    {
+        "id": "AA54rKcNIMglGhofj0huvg",
+        "alias": "deng-ji-ii-new-york-2",
+        "name": "Deng Ji II",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TrWPtHVh9nuSV7b565le7Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/deng-ji-ii-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 57,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71416,
+            "longitude": -73.995061
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "51 Division St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "51 Division St",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+19174751082",
+        "display_phone": "(917) 475-1082",
+        "distance": 5307.745578357102
+    },
+    {
+        "id": "JbAdL2vOd-8O_Xa2wRktug",
+        "alias": "new-hong-wong-seafood-restaurant-new-york",
+        "name": "New Hong Wong Seafood Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ah1Juamp1T2RuTQT0ZosTw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-hong-wong-seafood-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.717796,
+            "longitude": -73.995498
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "100 Bowery",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "100 Bowery",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12122268778",
+        "display_phone": "(212) 226-8778",
+        "distance": 4930.656986669063
+    },
+    {
+        "id": "C0uaRMiXCCtjXdQSZhaU_A",
+        "alias": "chinah-jersey-city-2",
+        "name": "Chinah",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mOFPXwZSCdjE4YpkVQb3Gw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chinah-jersey-city-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 42,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72693,
+            "longitude": -74.03559
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "525 Washington Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07310",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "525 Washington Blvd",
+                "Jersey City, NJ 07310"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 6073.360945550999
+    },
+    {
+        "id": "3gqKLANaXNsHZnPDjKrcTg",
+        "alias": "win-son-brooklyn-4",
+        "name": "Win Son",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EXCnl7qaa1wEQMWMI6ZqRQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/win-son-brooklyn-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 480,
+        "categories": [
+            {
+                "alias": "taiwanese",
+                "title": "Taiwanese"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.70747,
+            "longitude": -73.94339
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "159 Graham Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11206",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "159 Graham Ave",
+                "Brooklyn, NY 11206"
+            ]
+        },
+        "phone": "+13474576010",
+        "display_phone": "(347) 457-6010",
+        "distance": 6566.1806971643055
+    },
+    {
+        "id": "ZdLS7gD1ulmCPkqNc9_S3A",
+        "alias": "keming-restaurant-hoboken-2",
+        "name": "Keming Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vbc0-Czx7L46pjV4ACUjwQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/keming-restaurant-hoboken-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 136,
+        "categories": [
+            {
+                "alias": "szechuan",
+                "title": "Szechuan"
+            },
+            {
+                "alias": "hotpot",
+                "title": "Hot Pot"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.74893,
+            "longitude": -74.02772
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1006 Washington St",
+            "address2": "",
+            "address3": null,
+            "city": "Hoboken",
+            "zip_code": "07030",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1006 Washington St",
+                "Hoboken, NJ 07030"
+            ]
+        },
+        "phone": "+12016566108",
+        "display_phone": "(201) 656-6108",
+        "distance": 4329.33236639677
+    },
+    {
+        "id": "RQRQOO_CGhj16AIz4KqlQA",
+        "alias": "fu-zhou-wei-zhong-wei-jia-xiang-feng-wei-new-york",
+        "name": "Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GOyfeeZPCmfOdQSyuvYCRQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fu-zhou-wei-zhong-wei-jia-xiang-feng-wei-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 25,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.713837,
+            "longitude": -73.99414
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "88 E Broadway",
+            "address2": "",
+            "address3": "Stall B45",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "88 E Broadway",
+                "Stall B45",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12124313555",
+        "display_phone": "(212) 431-3555",
+        "distance": 5322.668157132188
+    },
+    {
+        "id": "y_ylOQzCP-9D_4DcUIJ3jA",
+        "alias": "shabu-tatsu-east-village-new-york",
+        "name": "Shabu-Tatsu East Village",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tN_WhYdL8ghzK2SqxFAxSA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/shabu-tatsu-east-village-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 629,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            },
+            {
+                "alias": "hotpot",
+                "title": "Hot Pot"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72927,
+            "longitude": -73.98585
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "216 E 10th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "216 E 10th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12124772972",
+        "display_phone": "(212) 477-2972",
+        "distance": 3508.6563983003784
+    },
+    {
+        "id": "QgTR7mA2kd82KVrIJNuJ3A",
+        "alias": "mings-restaurant-new-york-2",
+        "name": "Ming's Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f9QLKZsey0R-3fCSCka8pQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mings-restaurant-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 32,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.752998,
+            "longitude": -73.997001
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "413 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "413 9th Ave",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12128681378",
+        "display_phone": "(212) 868-1378",
+        "distance": 1747.6801993117772
+    },
+    {
+        "id": "qu3niqEXOUdNxCCXnSPBYg",
+        "alias": "xian-famous-foods-new-york-33",
+        "name": "Xi'an Famous Foods",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hJieriO4enkmZh38uKLboA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xian-famous-foods-new-york-33?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 94,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.730996,
+            "longitude": -74.0018838
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "313 6th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10014",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "313 6th Ave",
+                "New York, NY 10014"
+            ]
+        },
+        "phone": "+12127862068",
+        "display_phone": "(212) 786-2068",
+        "distance": 3799.5260579512897
+    },
+    {
+        "id": "xOL2SC34gdhKHSbyaDz9BA",
+        "alias": "pearls-new-york-2",
+        "name": "Pearls",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g1tF9hwnLW41k5cvSxCTRA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pearls-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 153,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7958833,
+            "longitude": -73.9692167
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "796 Amsterdam Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "796 Amsterdam Ave",
+                "New York, NY 10025"
+            ]
+        },
+        "phone": "+12127490300",
+        "display_phone": "(212) 749-0300",
+        "distance": 4049.941430996187
+    },
+    {
+        "id": "xZ19F2iiWiA36LAS5PH_GA",
+        "alias": "great-wall-kitchen-new-york",
+        "name": "Great Wall Kitchen",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AfEt3jGb_l3PWHxoYzTuHw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/great-wall-kitchen-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8132892,
+            "longitude": -73.9454751
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "2238 Adam Clayton Powell",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10027",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2238 Adam Clayton Powell",
+                "New York, NY 10027"
+            ]
+        },
+        "phone": "+12122348086",
+        "display_phone": "(212) 234-8086",
+        "distance": 6531.557990799804
+    },
+    {
+        "id": "EVQQ1Fs1YNlKd4HuxmzlJQ",
+        "alias": "88-chinese-restaurant-new-york",
+        "name": "88 Chinese Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pCVKaQQPTqxubA45yk0hxA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/88-chinese-restaurant-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.8133599154897,
+            "longitude": -73.9418023908753
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "473 Malcolm X Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10037",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "473 Malcolm X Blvd",
+                "New York, NY 10037"
+            ]
+        },
+        "phone": "+12122811288",
+        "display_phone": "(212) 281-1288",
+        "distance": 6668.386084157193
+    },
+    {
+        "id": "EbX_9tqAJs4gW51gZpOB7g",
+        "alias": "rasa-new-york",
+        "name": "Rasa",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fUI-aSI_nRXoBjPVMODrWg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rasa-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 709,
+        "categories": [
+            {
+                "alias": "malaysian",
+                "title": "Malaysian"
+            },
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "singaporean",
+                "title": "Singaporean"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7327654,
+            "longitude": -73.9975674
+        },
+        "transactions": [
+            "delivery",
+            "pickup",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "25 W 8th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "25 W 8th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+12122541888",
+        "display_phone": "(212) 254-1888",
+        "distance": 3449.0859488427277
+    },
+    {
+        "id": "4--r7DCu5l9UEIjs4OwKSQ",
+        "alias": "gem-bing-shop-new-york-3",
+        "name": "Gem Bing Shop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P-C9PKNVZxdzQUj7bcobuQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gem-bing-shop-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 52,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72946,
+            "longitude": -73.9891
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "9 Saint Marks Pl",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "9 Saint Marks Pl",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 3538.541748799121
+    },
+    {
+        "id": "BkXb82Y2OIsQ5RpNNQOYmQ",
+        "alias": "china-express-brooklyn-4",
+        "name": "China Express",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JXWE6ZNa3Ano_-HqDv9bBw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/china-express-brooklyn-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 95,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7061859,
+            "longitude": -73.9501435
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "192 Union Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11211",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "192 Union Ave",
+                "Brooklyn, NY 11211"
+            ]
+        },
+        "phone": "+17182187919",
+        "display_phone": "(718) 218-7919",
+        "distance": 6484.276648151883
+    },
+    {
+        "id": "BG0F1eTMikmXnL2C03Oq3A",
+        "alias": "foo-hing-chinese-kitchen-bronx",
+        "name": "Foo-Hing Chinese Kitchen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cZorDCu72HpXfgY55aOL5Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/foo-hing-chinese-kitchen-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.8135242,
+            "longitude": -73.9222125
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "2706 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10454",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2706 3rd Ave",
+                "Bronx, NY 10454"
+            ]
+        },
+        "phone": "+17186657593",
+        "display_phone": "(718) 665-7593",
+        "distance": 7606.407119979159
+    },
+    {
+        "id": "hyd08lsVkYzCfbbCuzla5Q",
+        "alias": "golden-house-west-new-york",
+        "name": "Golden House",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_9GumXfspqwttwRC9g98Hw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/golden-house-west-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "chicken_wings",
+                "title": "Chicken Wings"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.78862,
+            "longitude": -74.00681
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "6305 Park Ave",
+            "address2": "",
+            "address3": "",
+            "city": "West New York",
+            "zip_code": "07093",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "6305 Park Ave",
+                "West New York, NJ 07093"
+            ]
+        },
+        "phone": "+12018693323",
+        "display_phone": "(201) 869-3323",
+        "distance": 3954.728403701659
+    },
+    {
+        "id": "c1HgKFOT4Cc7TqWQD5mQBQ",
+        "alias": "cheong-fun-cart-new-york",
+        "name": "Cheong Fun Cart",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CZaKyqHFeAvGgWrOolDG8Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cheong-fun-cart-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 76,
+        "categories": [
+            {
+                "alias": "foodstands",
+                "title": "Food Stands"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "streetvendors",
+                "title": "Street Vendors"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7176279773311,
+            "longitude": -73.9963736857056
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "159 Hester St.",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "159 Hester St.",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 4969.107785670061
+    },
+    {
+        "id": "ZiGeqmXH55hVegpqnqoznw",
+        "alias": "aquarius-seafood-restaurant-fort-lee",
+        "name": "Aquarius Seafood Restaurant",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a54JLhLK6alV-5h8wPBDyA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/aquarius-seafood-restaurant-fort-lee?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 248,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8515556,
+            "longitude": -73.9718064
+        },
+        "transactions": [
+            "delivery",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "230-234 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Fort Lee",
+            "zip_code": "07024",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "230-234 Main St",
+                "Fort Lee, NJ 07024"
+            ]
+        },
+        "phone": "+12015928338",
+        "display_phone": "(201) 592-8338",
+        "distance": 10172.224622611213
+    },
+    {
+        "id": "tS4aiWBYgzlqKX898jr3_w",
+        "alias": "shun-wang-restaurant-elmhurst",
+        "name": "Shun Wang Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2eFD_NWnBm99fmP3idOVKA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/shun-wang-restaurant-elmhurst?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 163,
+        "categories": [
+            {
+                "alias": "bbq",
+                "title": "Barbeque"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7431373596191,
+            "longitude": -73.8830413818359
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "81-25 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Elmhurst",
+            "zip_code": "11373",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "81-25 Broadway",
+                "Elmhurst, NY 11373"
+            ]
+        },
+        "phone": "+17187793330",
+        "display_phone": "(718) 779-3330",
+        "distance": 8262.183831457172
+    },
+    {
+        "id": "ZYWwYSXWyDlVYIjPgXmIQA",
+        "alias": "east-garden-astoria-2",
+        "name": "East Garden",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ugrILPPcybabDjbiCHwcGQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/east-garden-astoria-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 46,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7560263,
+            "longitude": -73.9285962
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "32-10 36th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11106",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "32-10 36th Ave",
+                "Astoria, NY 11106"
+            ]
+        },
+        "phone": "+17187291188",
+        "display_phone": "(718) 729-1188",
+        "distance": 4229.0037129549355
+    },
+    {
+        "id": "NebgteFykeM1gwiVgPcCHw",
+        "alias": "the-handpulled-noodle-new-york",
+        "name": "The Handpulled Noodle",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x2L8S-42qO6BxIrOkUi5Fw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-handpulled-noodle-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 688,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.828384,
+            "longitude": -73.948674
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3600 Broadway",
+            "address2": "Ste 3",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10031",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3600 Broadway",
+                "Ste 3",
+                "New York, NY 10031"
+            ]
+        },
+        "phone": "+19172620213",
+        "display_phone": "(917) 262-0213",
+        "distance": 7985.069666029454
+    },
+    {
+        "id": "hNFe8WhCibrqT4sFcZmAgw",
+        "alias": "kong-sihk-tong-港食堂-new-york",
+        "name": "Kong Sihk Tong 港食堂",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G00GzDuAyjgtBHEcjR_lLg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kong-sihk-tong-%E6%B8%AF%E9%A3%9F%E5%A0%82-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 240,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "hkcafe",
+                "title": "Hong Kong Style Cafe"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71542,
+            "longitude": -73.99813
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "65 Bayard St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "65 Bayard St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+16468506140",
+        "display_phone": "(646) 850-6140",
+        "distance": 5250.414142130973
+    },
+    {
+        "id": "MXYtu8-0eNkW6L4firJfcw",
+        "alias": "chinatown-restaurant-new-york-3",
+        "name": "Chinatown Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ojD_l8QME-xOCWKIDEmN8g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chinatown-restaurant-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 258,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "sushi",
+                "title": "Sushi Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.78286,
+            "longitude": -73.95126
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1650 3rd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10128",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1650 3rd Ave",
+                "New York, NY 10128"
+            ]
+        },
+        "phone": "+12129873500",
+        "display_phone": "(212) 987-3500",
+        "distance": 3413.7186027319417
+    },
+    {
+        "id": "rJnd1QVy67DmdKCGxgHjiw",
+        "alias": "liu-beis-astoria",
+        "name": "Liu Beis",
+        "image_url": "",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/liu-beis-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 1,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.761302,
+            "longitude": -73.931322
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "2414 34th Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Astoria",
+            "zip_code": "11106",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2414 34th Ave",
+                "Astoria, NY 11106"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 3978.365154000156
+    },
+    {
+        "id": "5RjZCsXuWPclyrDsnsXw7w",
+        "alias": "xian-famous-foods-new-york-35",
+        "name": "Xi'an Famous Foods",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EXFcRW8RJ_sdXv2McKuccQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/xian-famous-foods-new-york-35?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 199,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74033,
+            "longitude": -73.98744
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "38 E 23rd St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "38 E 23rd St",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+12127862068",
+        "display_phone": "(212) 786-2068",
+        "distance": 2330.738054952088
+    },
+    {
+        "id": "lKxmH-hQ6ezKbq4URKrd-Q",
+        "alias": "may-wah-fast-food-new-york-3",
+        "name": "May Wah Fast Food",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-yXFJdbLspki2pqG-eeKgA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/may-wah-fast-food-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 339,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "taiwanese",
+                "title": "Taiwanese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71825,
+            "longitude": -73.99842
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "190 Hester St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "190 Hester St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12129256428",
+        "display_phone": "(212) 925-6428",
+        "distance": 4965.025723260495
+    },
+    {
+        "id": "lRSiXYB09Z5x1iINqQ7rHA",
+        "alias": "dim-sum-go-go-new-york",
+        "name": "Dim Sum Go Go",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e87uE-SCOeEyDaKzNiCffA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/dim-sum-go-go-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 780,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7132415735622,
+            "longitude": -73.9977319419107
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5 E Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10038",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "5 E Broadway",
+                "New York, NY 10038"
+            ]
+        },
+        "phone": "+12127320797",
+        "display_phone": "(212) 732-0797",
+        "distance": 5468.749628407918
+    },
+    {
+        "id": "bAMTBEztHz4zQqYiIyzf4w",
+        "alias": "chong-qing-lao-zao-flushing-2",
+        "name": "Chong Qing Lao Zao",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3iG-jIOopFli4IWRhgDScg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/chong-qing-lao-zao-flushing-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 93,
+        "categories": [
+            {
+                "alias": "hotpot",
+                "title": "Hot Pot"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76065,
+            "longitude": -73.83304
+        },
+        "transactions": [],
+        "price": "$$$",
+        "location": {
+            "address1": "37-04 Prince St",
+            "address2": null,
+            "address3": "",
+            "city": "Flushing",
+            "zip_code": "11354",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "37-04 Prince St",
+                "Flushing, NY 11354"
+            ]
+        },
+        "phone": "+19175637171",
+        "display_phone": "(917) 563-7171",
+        "distance": 12252.756704513833
+    },
+    {
+        "id": "nAcVK-Y1_ojsRF_04o-x-A",
+        "alias": "yin-ji-chang-fen-rice-roll-new-york",
+        "name": "Yin Ji Chang Fen Rice Roll",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PskgJOy8m2VXYBkIUq662A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/yin-ji-chang-fen-rice-roll-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 190,
+        "categories": [
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.71583,
+            "longitude": -73.999336
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "91 Bayard St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10013",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "91 Bayard St",
+                "New York, NY 10013"
+            ]
+        },
+        "phone": "+12122274888",
+        "display_phone": "(212) 227-4888",
+        "distance": 5238.273315233732
+    },
+    {
+        "id": "B3i4zs5wquFu1UZyzYJ-bQ",
+        "alias": "baohaus-new-york-2",
+        "name": "BaoHaus",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i5Bv1vmYbZL9zTmUgUG7XQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/baohaus-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 1948,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "taiwanese",
+                "title": "Taiwanese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7324690923782,
+            "longitude": -73.9857136011124
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "238 E 14th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "238 E 14th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+16466698889",
+        "display_phone": "(646) 669-8889",
+        "distance": 3144.4632527387816
+    },
+    {
+        "id": "55jx0bYJ-odyqKKSrDXtPA",
+        "alias": "mighty-bowl-new-york-6",
+        "name": "MIGHTY Bowl",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EqFZogN9rzcbT_H9h5EJ9w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mighty-bowl-new-york-6?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 145,
+        "categories": [
+            {
+                "alias": "japanese",
+                "title": "Japanese"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75101,
+            "longitude": -73.9717
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "817 2nd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "817 2nd Ave",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+16466495603",
+        "display_phone": "(646) 649-5603",
+        "distance": 1172.010004618075
+    },
+    {
+        "id": "2rSmA4IK51QAQj60YGvjnw",
+        "alias": "new-asian-cuisine-woodside",
+        "name": "New Asian Cuisine",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6NhgwU8cLrzA7T4PMwp8bA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-asian-cuisine-woodside?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 30,
+        "categories": [
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7393524,
+            "longitude": -73.9210213
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "44-20 48th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Woodside",
+            "zip_code": "11377",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "44-20 48th Ave",
+                "Woodside, NY 11377"
+            ]
+        },
+        "phone": "+17187844989",
+        "display_phone": "(718) 784-4989",
+        "distance": 5409.429194516285
+    },
+    {
+        "id": "N_5VwtCoXPhHdlz1JQbIoQ",
+        "alias": "duck-king-edgewater",
+        "name": "Duck King",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WIDNey_shh9tA5dSTLgCHg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/duck-king-edgewater?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 174,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "shanghainese",
+                "title": "Shanghainese"
+            },
+            {
+                "alias": "szechuan",
+                "title": "Szechuan"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.82533,
+            "longitude": -73.97495
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "880 River Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Edgewater",
+            "zip_code": "07020",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "880 River Rd",
+                "Edgewater, NJ 07020"
+            ]
+        },
+        "phone": "+12019458825",
+        "display_phone": "(201) 945-8825",
+        "distance": 7264.649255093854
+    },
+    {
+        "id": "00J0yKkOuOxMhqt-Dg9daw",
+        "alias": "panda-express-new-york-8",
+        "name": "Panda Express",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JpxacJJ1Z5RW3muscex4WQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/panda-express-new-york-8?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 66,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "hotdogs",
+                "title": "Fast Food"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7501065718521,
+            "longitude": -73.9948594942689
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "414 Eighth Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "414 Eighth Ave",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+19176393302",
+        "display_phone": "(917) 639-3302",
+        "distance": 1778.2259097193244
+    },
+    {
+        "id": "B3_K2kUVbYOU0VaLcj_LTw",
+        "alias": "thai-villa-new-york-2",
+        "name": "Thai Villa",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OgCU9NPFIl8hF_04Zani9w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/thai-villa-new-york-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 3314,
+        "categories": [
+            {
+                "alias": "thai",
+                "title": "Thai"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.73902,
+            "longitude": -73.99065
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "5 E 19th St",
+            "address2": "G Floor",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "5 E 19th St",
+                "G Floor",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12128029999",
+        "display_phone": "(212) 802-9999",
+        "distance": 2571.0708403093968
+    },
+    {
+        "id": "gcwOJAeYOQsCaC9k_SRo2A",
+        "alias": "kays-spring-garden-jersey-city",
+        "name": "Kay's Spring Garden",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vyjKmwkZ9fe6Gx1KhPUpFg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/kays-spring-garden-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 31,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.750907,
+            "longitude": -74.046302
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "473 Central Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "zip_code": "07307",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "473 Central Ave",
+                "Jersey City, NJ 07307"
+            ]
+        },
+        "phone": "+12016530235",
+        "display_phone": "(201) 653-0235",
+        "distance": 5799.076345358852
+    },
+    {
+        "id": "xd_8cHyPO8sjIV8JMojHnw",
+        "alias": "red-house-new-york",
+        "name": "Red House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4PtsHadM8cRk2_XccTIF2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/red-house-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 91,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.7333221435547,
+            "longitude": -73.9865036010742
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "203 E 14th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "203 E 14th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12122288288",
+        "display_phone": "(212) 228-8288",
+        "distance": 3067.4950845836033
+    },
+    {
+        "id": "yj9vVa08ABH6BBOLHMfJag",
+        "alias": "bund-on-broadway-astoria",
+        "name": "Bund On Broadway",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-gsBu63NhkT4GhUPWK0O1Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bund-on-broadway-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 183,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "shanghainese",
+                "title": "Shanghainese"
+            },
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7631578922095,
+            "longitude": -73.9282292
+        },
+        "transactions": [
+            "delivery",
+            "pickup",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "25-08 Broadway",
+            "address2": "",
+            "address3": null,
+            "city": "Astoria",
+            "zip_code": "11106",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "25-08 Broadway",
+                "Astoria, NY 11106"
+            ]
+        },
+        "phone": "+17189715465",
+        "display_phone": "(718) 971-5465",
+        "distance": 4246.589960495089
+    },
+    {
+        "id": "6zM0c7vvoddgza_qvKkATw",
+        "alias": "golden-unicorn-new-york",
+        "name": "Golden Unicorn",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lfKJxjxTm8OcRhf90NyqtQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/golden-unicorn-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 1775,
+        "categories": [
+            {
+                "alias": "dimsum",
+                "title": "Dim Sum"
+            },
+            {
+                "alias": "cantonese",
+                "title": "Cantonese"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7136770496642,
+            "longitude": -73.997163364418
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "18 E Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10002",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "18 E Broadway",
+                "New York, NY 10002"
+            ]
+        },
+        "phone": "+12129410911",
+        "display_phone": "(212) 941-0911",
+        "distance": 5408.3971327437275
+    },
+    {
+        "id": "CgYWuNH0UHd5vp2vGgKflw",
+        "alias": "wagamama-murray-hill-new-york",
+        "name": "wagamama - murray hill",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XyNq25Ygc8l7E375AUyJlQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/wagamama-murray-hill-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 265,
+        "categories": [
+            {
+                "alias": "noodles",
+                "title": "Noodles"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74909,
+            "longitude": -73.9754
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "605 3rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10158",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "605 3rd Ave",
+                "New York, NY 10158"
+            ]
+        },
+        "phone": "+16468133396",
+        "display_phone": "(646) 813-3396",
+        "distance": 1277.7536002595693
+    },
+    {
+        "id": "SaZZ363k55_E61DgDJX6BA",
+        "alias": "terry-and-yaki-new-york",
+        "name": "Terry and Yaki",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bFeSTVg3TsVIWoIAnwew_Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/terry-and-yaki-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "foodtrucks",
+                "title": "Food Trucks"
+            },
+            {
+                "alias": "asianfusion",
+                "title": "Asian Fusion"
+            },
+            {
+                "alias": "halal",
+                "title": "Halal"
+            }
+        ],
+        "rating": 5.0,
+        "coordinates": {
+            "latitude": 40.7673294649148,
+            "longitude": -73.9630373941956
+        },
+        "transactions": [],
+        "location": {
+            "address1": "215 E 68th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10065",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "215 E 68th St",
+                "New York, NY 10065"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 1523.7447968570345
+    },
+    {
+        "id": "Qd4LleGL1MU7hcBYXcyVSA",
+        "alias": "good-chinese-kitchen-north-bergen",
+        "name": "Good Chinese Kitchen",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s2YNT2aCbqHSjPdINT5g4g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/good-chinese-kitchen-north-bergen?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 32,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.807477,
+            "longitude": -74.017076
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "8101 Tonnelle Ave",
+            "address2": "",
+            "address3": "",
+            "city": "North Bergen",
+            "zip_code": "07047",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "8101 Tonnelle Ave",
+                "North Bergen, NJ 07047"
+            ]
+        },
+        "phone": "+12012950806",
+        "display_phone": "(201) 295-0806",
+        "distance": 6177.920911579455
+    }
+]

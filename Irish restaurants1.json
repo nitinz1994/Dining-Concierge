@@ -1,0 +1,2257 @@
+[
+    {
+        "id": "_wsPfnUO-pRrvh54c1M2qw",
+        "alias": "mcgees-pub-new-york-2",
+        "name": "McGee's Pub",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IL81baqrIQj5EI2EiIAfoQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mcgees-pub-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 629,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7648124694824,
+            "longitude": -73.9829788208008
+        },
+        "transactions": [
+            "pickup",
+            "delivery",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "240 W 55th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "240 W 55th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12129573536",
+        "display_phone": "(212) 957-3536",
+        "distance": 643.3930532862158
+    },
+    {
+        "id": "7boggcCID7gVdNFQn4e8hQ",
+        "alias": "carraghers-pub-and-restaurant-new-york",
+        "name": "Carragher's Pub & Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KaAommL_qMw09IV_AY3x0Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/carraghers-pub-and-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 223,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "british",
+                "title": "British"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7561483754108,
+            "longitude": -73.9908477827673
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "228 W 39th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "228 W 39th St",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+16463701545",
+        "display_phone": "(646) 370-1545",
+        "distance": 1134.0340398941573
+    },
+    {
+        "id": "DCTWsTYqkbwJ-pFCIwmHew",
+        "alias": "gleasons-tavern-new-york",
+        "name": "Gleason's Tavern",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q6Vh_bgsuQT408Rv4aKHXg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gleasons-tavern-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 132,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75539,
+            "longitude": -73.98809
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "206 W 41st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "206 W 41st St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12123022167",
+        "display_phone": "(212) 302-2167",
+        "distance": 967.3177597938746
+    },
+    {
+        "id": "6ZIfKJpnZ465jN-diiwrzA",
+        "alias": "feile-new-york-13",
+        "name": "Feile",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tg0aLREgQ7173piRDzJKXw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/feile-new-york-13?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 261,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.74987,
+            "longitude": -73.98975
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "131 W 33rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "131 W 33rd St",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12126951122",
+        "display_phone": "(212) 695-1122",
+        "distance": 1484.51186771549
+    },
+    {
+        "id": "XRK6bTyINWS1stlmCbxiYA",
+        "alias": "carlow-east-new-york",
+        "name": "Carlow East",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XcoIy9ecDBf7_lf7dKbvpA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/carlow-east-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 89,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.778689023197,
+            "longitude": -73.9562473565979
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "1254 Lexington Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10028",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1254 Lexington Ave",
+                "New York, NY 10028"
+            ]
+        },
+        "phone": "+12127446397",
+        "display_phone": "(212) 744-6397",
+        "distance": 2780.5863151958224
+    },
+    {
+        "id": "JXcYD52B4190gIh6_RSXCg",
+        "alias": "lillys-craft-and-kitchen-new-york",
+        "name": "Lilly's Craft and Kitchen",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1pBE5cwUQ_GH8TvMTZZQIg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lillys-craft-and-kitchen-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 993,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.76138,
+            "longitude": -73.99071
+        },
+        "transactions": [
+            "pickup",
+            "delivery",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "675 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "675 9th Ave",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12127570373",
+        "display_phone": "(212) 757-0373",
+        "distance": 1038.8184233125924
+    },
+    {
+        "id": "kH5RMIaFmd-bekCIhOcqDw",
+        "alias": "landmark-tavern-new-york-2",
+        "name": "Landmark Tavern",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w7dHIqzYinD7x7zNE9Jtjw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/landmark-tavern-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 291,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.763156,
+            "longitude": -73.996253
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "626 11th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "626 11th Ave",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12122472562",
+        "display_phone": "(212) 247-2562",
+        "distance": 1525.7874902805022
+    },
+    {
+        "id": "RiV2e2jVOMAA8kNS1zlKBw",
+        "alias": "coogans-new-york",
+        "name": "Coogan's",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7roz8BlO-wOz_VPOfMsl8Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/coogans-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 329,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8416548272064,
+            "longitude": -73.9392976551047
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "4015 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10032",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "4015 Broadway",
+                "New York, NY 10032"
+            ]
+        },
+        "phone": "+12129281234",
+        "display_phone": "(212) 928-1234",
+        "distance": 9638.16838053084
+    },
+    {
+        "id": "5wDbAclRoX71FCn-Dj5M-Q",
+        "alias": "the-long-room-new-york",
+        "name": "The Long Room",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7659O7Qp5PXClGw6RgeeoA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-long-room-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 295,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            },
+            {
+                "alias": "beerbar",
+                "title": "Beer Bar"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7565,
+            "longitude": -73.98427
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "120 W 44th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "120 W 44th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12129973933",
+        "display_phone": "(212) 997-3933",
+        "distance": 648.5599595650591
+    },
+    {
+        "id": "H3AnaDvXg_tXticwUGL7PA",
+        "alias": "hudson-hound-new-york",
+        "name": "Hudson Hound",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HO2K2U7Sqrw9pz9JXFIvfw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/hudson-hound-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 105,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.73615,
+            "longitude": -74.00609
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "575 Hudson St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10014",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "575 Hudson St",
+                "New York, NY 10014"
+            ]
+        },
+        "phone": "+12127966213",
+        "display_phone": "(212) 796-6213",
+        "distance": 3550.152553343842
+    },
+    {
+        "id": "1f5qB_hERe4OxBjE6QNLWg",
+        "alias": "abbey-tavern-new-york",
+        "name": "Abbey Tavern",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pHyrOGEfhRVkZ7tJ4aUAjg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/abbey-tavern-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 76,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.74071,
+            "longitude": -73.98201
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "354 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "354 3rd Ave",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+12126961011",
+        "display_phone": "(212) 696-1011",
+        "distance": 2185.9528669316874
+    },
+    {
+        "id": "fU8gJtLz1r6oQ94l1kS5Ag",
+        "alias": "playwright-irish-pub-new-york-3",
+        "name": "Playwright Irish Pub",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O6FO9ACRFuPd3yNGhE9wuw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/playwright-irish-pub-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 457,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.749885559082,
+            "longitude": -73.9853439331055
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "27 W 35th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "27 W 35th St",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12122688868",
+        "display_phone": "(212) 268-8868",
+        "distance": 1287.6842293818252
+    },
+    {
+        "id": "Gey_giAxXSzPbpVigXV9jQ",
+        "alias": "paddy-maguires-ale-house-new-york",
+        "name": "Paddy Maguire's Ale House",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wKFhzMgK7IkuD_L4j_1Bsw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/paddy-maguires-ale-house-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 82,
+        "categories": [
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7364240384139,
+            "longitude": -73.9848463081818
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "237 3rd Ave Frnt",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "237 3rd Ave Frnt",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12122530031",
+        "display_phone": "(212) 253-0031",
+        "distance": 2698.8939160130435
+    },
+    {
+        "id": "I31pIFClX7xdaFkjM2a83g",
+        "alias": "pig-n-whistle-new-york-13",
+        "name": "Pig 'N' Whistle",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w1PsVRPT0JbSDc9aDXNFiA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pig-n-whistle-new-york-13?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 115,
+        "categories": [
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75795,
+            "longitude": -73.98417
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "144 W 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "144 W 46th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+19176393864",
+        "display_phone": "(917) 639-3864",
+        "distance": 541.6315365251215
+    },
+    {
+        "id": "_WVqaEFtX7KqCtqFQ1uVAA",
+        "alias": "mchales-bar-and-grill-new-york",
+        "name": "McHale's Bar & Grill",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PqmiWZ9kYlRcGeRBS6aqmQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mchales-bar-and-grill-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 229,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7628899,
+            "longitude": -73.984993
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "251 W 51st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "251 W 51st St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12129575138",
+        "display_phone": "(212) 957-5138",
+        "distance": 622.8608912921075
+    },
+    {
+        "id": "ZCfqAtpASbibf_YaU1rIpw",
+        "alias": "the-grafton-new-york",
+        "name": "The Grafton",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/f75fH67vErRNzpa0N6Yr-A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-grafton-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 78,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7271881103516,
+            "longitude": -73.9851989746094
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "126 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10009",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "126 1st Ave",
+                "New York, NY 10009"
+            ]
+        },
+        "phone": "+12122288580",
+        "display_phone": "(212) 228-8580",
+        "distance": 3713.0870052937826
+    },
+    {
+        "id": "3NbhYebjZPjLTWZZyRuhsw",
+        "alias": "the-winslow-new-york-2",
+        "name": "The Winslow",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KqK_JDisR25T9QQdVvgHNg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-winslow-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 537,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "british",
+                "title": "British"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7327766418457,
+            "longitude": -73.9852142333984
+        },
+        "transactions": [
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "243 E 14th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "243 E 14th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12127777717",
+        "display_phone": "(212) 777-7717",
+        "distance": 3104.2413690378417
+    },
+    {
+        "id": "8l4l9r4-K5TYq_i0mP69bg",
+        "alias": "the-dubliner-new-york",
+        "name": "The Dubliner",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UJ-vv9acmvOmWpn8e2gI2A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-dubliner-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 234,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7043151177964,
+            "longitude": -74.0104553957992
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "45 Stone St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10004",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "45 Stone St",
+                "New York, NY 10004"
+            ]
+        },
+        "phone": "+12127855400",
+        "display_phone": "(212) 785-5400",
+        "distance": 6773.878547409803
+    },
+    {
+        "id": "9oyE5T8P3YfTYjKrOn-i3w",
+        "alias": "rosie-o-gradys-new-york",
+        "name": "Rosie O'Grady's",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YGyA8TdjcGBRWO03FfL0Mg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rosie-o-gradys-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 533,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "diners",
+                "title": "Diners"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.762621,
+            "longitude": -73.982506
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "800 7th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "800 7th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12125822975",
+        "display_phone": "(212) 582-2975",
+        "distance": 430.57612030502366
+    },
+    {
+        "id": "lNJCUyutrybnK-5NK9kRQg",
+        "alias": "o-briens-irish-pub-new-york",
+        "name": "O'Brien's Irish Pub",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1dC4F8KkSv2bGqLs5o5WJg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/o-briens-irish-pub-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 167,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.757841,
+            "longitude": -73.983935
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "134 W 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "134 W 46th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12123911516",
+        "display_phone": "(212) 391-1516",
+        "distance": 528.3949140474141
+    },
+    {
+        "id": "xnRgRjOyLjwkWJeajg6CHg",
+        "alias": "connollys-pub-and-restaurant-new-york-6",
+        "name": "Connolly's Pub & Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bu-QkG0qSC8yr87dWHAT_w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/connollys-pub-and-restaurant-new-york-6?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 196,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7621414885515,
+            "longitude": -73.9775485192104
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "43 W 54th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "43 W 54th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12124890271",
+        "display_phone": "(212) 489-0271",
+        "distance": 228.7342777650661
+    },
+    {
+        "id": "2RbBg1CIxBZAc2MQPdxkcA",
+        "alias": "lillies-victorian-establishment-new-york",
+        "name": "Lillie's Victorian Establishment",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sBLOuDpQfuxrjS8eG5RGnA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/lillies-victorian-establishment-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 1063,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "british",
+                "title": "British"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.737661,
+            "longitude": -73.991113
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "13 E 17th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10003",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "13 E 17th St",
+                "New York, NY 10003"
+            ]
+        },
+        "phone": "+12123371970",
+        "display_phone": "(212) 337-1970",
+        "distance": 2723.654735959163
+    },
+    {
+        "id": "Co6-ZaY0sBNCC3I8L0PAFw",
+        "alias": "graces-new-york",
+        "name": "Grace's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/60F5MKSndCbQOhKPZmjuoA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/graces-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 30,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.73936,
+            "longitude": -74.00223
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "252 West 14th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10011",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "252 West 14th St",
+                "New York, NY 10011"
+            ]
+        },
+        "phone": "+16468700333",
+        "display_phone": "(646) 870-0333",
+        "distance": 3057.838023427072
+    },
+    {
+        "id": "c1kKAH9XMPNeaBhvnIP0FQ",
+        "alias": "trinity-place-new-york-3",
+        "name": "Trinity Place",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TdtcSLphiQ5FUuscFZKNuw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/trinity-place-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 375,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.708865,
+            "longitude": -74.01117
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "115 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10006",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "115 Broadway",
+                "New York, NY 10006"
+            ]
+        },
+        "phone": "+12129640939",
+        "display_phone": "(212) 964-0939",
+        "distance": 6338.717632517264
+    },
+    {
+        "id": "jjLcqGI11ThxAhcftEh1Aw",
+        "alias": "fraunces-tavern-new-york-6",
+        "name": "Fraunces Tavern",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/47nPp28xT_OzBokwqjDWzA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fraunces-tavern-new-york-6?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 872,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.70344,
+            "longitude": -74.01135
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "54 Pearl St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10004",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "54 Pearl St",
+                "New York, NY 10004"
+            ]
+        },
+        "phone": "+12129681776",
+        "display_phone": "(212) 968-1776",
+        "distance": 6899.310660520043
+    },
+    {
+        "id": "oo77ZO5cj9M2NRdTqEgHvQ",
+        "alias": "d-j-reynolds-new-york-5",
+        "name": "D.J. Reynolds",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nJnEX79JURBz9K-yBZHGtQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/d-j-reynolds-new-york-5?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 108,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.76775,
+            "longitude": -73.98487
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "351 W 57th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "351 W 57th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122452912",
+        "display_phone": "(212) 245-2912",
+        "distance": 999.1366420391566
+    },
+    {
+        "id": "bkIMbvXOcztDVz8bpyhMzQ",
+        "alias": "the-dead-poet-new-york",
+        "name": "The Dead Poet",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fW9WcVHznuZMT-_x___jAg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-dead-poet-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 427,
+        "categories": [
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.78499,
+            "longitude": -73.97735
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "450 Amsterdam Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10024",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "450 Amsterdam Ave",
+                "New York, NY 10024"
+            ]
+        },
+        "phone": "+12125955670",
+        "display_phone": "(212) 595-5670",
+        "distance": 2756.6805447604875
+    },
+    {
+        "id": "a8hlHcxPxtXmYxGFsy5PSg",
+        "alias": "mcgarrys-bar-and-restaurant-new-york",
+        "name": "McGarry's Bar and Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Li-oRsaXfrNScPZUL4yjvA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mcgarrys-bar-and-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 147,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75304,
+            "longitude": -73.99678
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "417 Ninth Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "417 Ninth Ave",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12128102115",
+        "display_phone": "(212) 810-2115",
+        "distance": 1740.6525441658937
+    },
+    {
+        "id": "mbkBCEx8mgw9Qroo7xywPg",
+        "alias": "the-mean-fiddler-new-york",
+        "name": "The Mean Fiddler",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1xtwn4c6OnqdBVKDNKPcCg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-mean-fiddler-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 499,
+        "categories": [
+            {
+                "alias": "danceclubs",
+                "title": "Dance Clubs"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7600569,
+            "longitude": -73.9871765
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "266 W 47th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "266 W 47th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12123542950",
+        "display_phone": "(212) 354-2950",
+        "distance": 730.9537724733606
+    },
+    {
+        "id": "JNkK9xp-hTWxsLrboPWC3Q",
+        "alias": "the-perfect-pint-new-york",
+        "name": "The Perfect Pint",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OOSukN8cGXkdLnsQtGeBwg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-perfect-pint-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 386,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7574091835053,
+            "longitude": -73.9837408764447
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "123 W 45th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "123 W 45th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12123541099",
+        "display_phone": "(212) 354-1099",
+        "distance": 540.5147586132599
+    },
+    {
+        "id": "hpzm2ZMMccvsm3etCxnJEw",
+        "alias": "le-chéile-new-york-2",
+        "name": "Le Chéile",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CA4wt_IcXNyygWKKfj6hyQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/le-ch%C3%A9ile-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 366,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8514803804586,
+            "longitude": -73.9399689480721
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "839 W 181st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10033",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "839 W 181st St",
+                "New York, NY 10033"
+            ]
+        },
+        "phone": "+12127403111",
+        "display_phone": "(212) 740-3111",
+        "distance": 10653.839296671022
+    },
+    {
+        "id": "PrEAWCuFDAQqgbKGWv8c_g",
+        "alias": "frank-mac-s-pub-new-york",
+        "name": "Frank Mac’s Pub",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7C0wp33XqVo5oMBrtgOh5w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/frank-mac-s-pub-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 41,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.78398,
+            "longitude": -73.97749
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "location": {
+            "address1": "425 Amsterdam Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10024",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "425 Amsterdam Ave",
+                "New York, NY 10024"
+            ]
+        },
+        "phone": "+16468503888",
+        "display_phone": "(646) 850-3888",
+        "distance": 2640.942189975003
+    },
+    {
+        "id": "httHQj4gGRsgFAh3y65jtg",
+        "alias": "playwright-tavern-and-restaurant-new-york-3",
+        "name": "Playwright Tavern & Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S9ZDK4ZTz3l7Eh5ja5NE4w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/playwright-tavern-and-restaurant-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 334,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.760541,
+            "longitude": -73.984125
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "202 W 49th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "202 W 49th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122629229",
+        "display_phone": "(212) 262-9229",
+        "distance": 475.1155764112141
+    },
+    {
+        "id": "60_ONUWGij1TbvDHSEcOpQ",
+        "alias": "pj-clarkes-new-york-7",
+        "name": "PJ Clarke's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uJld_cDK8TJxKP1iVul21A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/pj-clarkes-new-york-7?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 830,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "burgers",
+                "title": "Burgers"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.771524604477,
+            "longitude": -73.9827515606251
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "44 W 63rd St",
+            "address2": "",
+            "address3": "Lincoln Square",
+            "city": "New York",
+            "zip_code": "10023",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "44 W 63rd St",
+                "Lincoln Square",
+                "New York, NY 10023"
+            ]
+        },
+        "phone": "+12129579700",
+        "display_phone": "(212) 957-9700",
+        "distance": 1307.5497166860869
+    },
+    {
+        "id": "Z_W3doydEDnnG7PPc3fW5Q",
+        "alias": "killarney-rose-new-york",
+        "name": "Killarney Rose",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b-VSX1W1Ni0_vOSMHZnMQA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/killarney-rose-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 150,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.705221802732,
+            "longitude": -74.008625345126
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "127 Pearl St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10005",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "127 Pearl St",
+                "New York, NY 10005"
+            ]
+        },
+        "phone": "+12124221486",
+        "display_phone": "(212) 422-1486",
+        "distance": 6620.844551212778
+    },
+    {
+        "id": "gbq-eZAEzygjCpKBJt9g8A",
+        "alias": "the-stagecoach-tavern-new-york",
+        "name": "The Stagecoach Tavern",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j8Er7ogYGSISJ93-4-cJDw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-stagecoach-tavern-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 158,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7633859318908,
+            "longitude": -73.9817308062547
+        },
+        "transactions": [
+            "pickup",
+            "delivery",
+            "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "834 7th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "834 7th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12129759044",
+        "display_phone": "(212) 975-9044",
+        "distance": 445.36775266474484
+    },
+    {
+        "id": "4jPn2ePLCBgmNbVRXp9_kg",
+        "alias": "muldoons-new-york",
+        "name": "Muldoon's",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C9W8XBvv_eB__GHoWlc_OQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/muldoons-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 138,
+        "categories": [
+            {
+                "alias": "irish",
+                "title": "Irish"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7519,
+            "longitude": -73.97403
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "692 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10017",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "692 3rd Ave",
+                "New York, NY 10017"
+            ]
+        },
+        "phone": "+12125992750",
+        "display_phone": "(212) 599-2750",
+        "distance": 1003.4155365587694
+    },
+    {
+        "id": "EuoHL-sfKlSoLdeYDJZgUA",
+        "alias": "deacon-brodies-tavern-new-york-3",
+        "name": "Deacon Brodie's Tavern",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PzgrQBQgzhQEx4NDb3Dg1A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/deacon-brodies-tavern-new-york-3?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 74,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7606896,
+            "longitude": -73.9903717
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "370 W 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10036",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "370 W 46th St",
+                "New York, NY 10036"
+            ]
+        },
+        "phone": "+12122621452",
+        "display_phone": "(212) 262-1452",
+        "distance": 1001.2440313469441
+    },
+    {
+        "id": "rvabT9eHrKFKgfNPrp69Zw",
+        "alias": "the-waylon-new-york",
+        "name": "The Waylon",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KnIlR3e8Va5TYl7a-gcXjQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-waylon-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 112,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7650840967709,
+            "longitude": -73.9918056894333
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "736 10th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "736 10th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122650010",
+        "display_phone": "(212) 265-0010",
+        "distance": 1244.5356283848446
+    },
+    {
+        "id": "isH4dv8NScbayTD6w9YUbg",
+        "alias": "gossip-bar-and-restaurant-new-york",
+        "name": "Gossip Bar & Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ywbukfMP9QXY9Ch_GDmB-A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gossip-bar-and-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 206,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.76337,
+            "longitude": -73.98944
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "733 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "733 9th Ave",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12122652720",
+        "display_phone": "(212) 265-2720",
+        "distance": 979.0158795891662
+    },
+    {
+        "id": "5oN2CFibQ-9dsITEk7B4UQ",
+        "alias": "j-j-kinahan-s-new-york-2",
+        "name": "J J Kinahan’s",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O-JR3otrpPjE4CMGCfvlnA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/j-j-kinahan-s-new-york-2?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 56,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "gastropubs",
+                "title": "Gastropubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.74439,
+            "longitude": -73.99199
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "757 6th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10010",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "757 6th Ave",
+                "New York, NY 10010"
+            ]
+        },
+        "phone": "+16464766276",
+        "display_phone": "(646) 476-6276",
+        "distance": 2090.4423649597725
+    },
+    {
+        "id": "u3liUuRA2EGEV-Dehn4n-Q",
+        "alias": "gabby-o-haras-new-york",
+        "name": "Gabby O'Hara's",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d98XjJp3S07Oz2nbOaDd9A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/gabby-o-haras-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 116,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7535605,
+            "longitude": -73.9866098
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "123 W 39th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10018",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "123 W 39th St",
+                "New York, NY 10018"
+            ]
+        },
+        "phone": "+12122788984",
+        "display_phone": "(212) 278-8984",
+        "distance": 993.5825299415377
+    },
+    {
+        "id": "9tWsM0Ol6CGqfBWKzwdwyg",
+        "alias": "maggie-reillys-restaurant-new-york",
+        "name": "Maggie Reillys Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zN58TTyaZS3n1UT3E9C3sQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/maggie-reillys-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 91,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7504318,
+            "longitude": -73.9981307
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "340 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "340 9th Ave",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+16464763209",
+        "display_phone": "(646) 476-3209",
+        "distance": 1979.2300955180044
+    },
+    {
+        "id": "HWTH6QwatW6lcYaIWgw4Kg",
+        "alias": "mcmahons-public-house-brooklyn",
+        "name": "McMahon's Public House",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RZGGaCkmJNiP1KvSmvaOeg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mcmahons-public-house-brooklyn?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 189,
+        "categories": [
+            {
+                "alias": "sportsbars",
+                "title": "Sports Bars"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.6816498,
+            "longitude": -73.9765623
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "39 5th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11217",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "39 5th Ave",
+                "Brooklyn, NY 11217"
+            ]
+        },
+        "phone": "+17182304549",
+        "display_phone": "(718) 230-4549",
+        "distance": 8737.558705403135
+    },
+    {
+        "id": "mzuH_l94kFbjleoVpJvwZA",
+        "alias": "cassidys-pub-and-restaurant-new-york",
+        "name": "Cassidy's Pub & Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BhMl58shGfG6YGYVoh6D_A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/cassidys-pub-and-restaurant-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 128,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7627499,
+            "longitude": -73.97725
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "65 W 55th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10019",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "65 W 55th St",
+                "New York, NY 10019"
+            ]
+        },
+        "phone": "+12123970814",
+        "display_phone": "(212) 397-0814",
+        "distance": 306.2025677019084
+    },
+    {
+        "id": "B-MDhRKRTmTqj4Vp_p8AGw",
+        "alias": "p-j-clarkes-new-york-8",
+        "name": "P.J. Clarke's",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R4JjrUHy0q1_6_0EXpD3Yg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/p-j-clarkes-new-york-8?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 550,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "raw_food",
+                "title": "Live/Raw Food"
+            },
+            {
+                "alias": "cocktailbars",
+                "title": "Cocktail Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7136996616618,
+            "longitude": -74.0162283182144
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "250 Vesey St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10281",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "250 Vesey St",
+                "New York, NY 10281"
+            ]
+        },
+        "phone": "+12122851500",
+        "display_phone": "(212) 285-1500",
+        "distance": 6070.954920337236
+    },
+    {
+        "id": "pC92jJr2d1VrxGKRNPPERA",
+        "alias": "11th-street-bar-new-york",
+        "name": "11th Street Bar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dmVCA08PpjtF9LoM6B3ecw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/11th-street-bar-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 137,
+        "categories": [
+            {
+                "alias": "irish_pubs",
+                "title": "Irish Pub"
+            },
+            {
+                "alias": "musicvenues",
+                "title": "Music Venues"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.72802,
+            "longitude": -73.98128
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "510 E 11th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10009",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "510 E 11th St",
+                "New York, NY 10009"
+            ]
+        },
+        "phone": "+12129823929",
+        "display_phone": "(212) 982-3929",
+        "distance": 3589.26343582407
+    },
+    {
+        "id": "Y5WUgONrH9BfSRC4F3X4EA",
+        "alias": "mulligans-pub-new-york",
+        "name": "Mulligan's Pub",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h3FWcGsTtq-8aZu4hVVV5Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mulligans-pub-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 147,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.75097,
+            "longitude": -73.98027
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "267 Madison Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10016",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "267 Madison Ave",
+                "New York, NY 10016"
+            ]
+        },
+        "phone": "+12122860207",
+        "display_phone": "(212) 286-0207",
+        "distance": 1037.0660065740085
+    },
+    {
+        "id": "qpD22cY8CSXLT2qujiJtqw",
+        "alias": "the-full-shilling-new-york",
+        "name": "The Full Shilling",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/psjJZqLcjU2c6ZxEITGREw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-full-shilling-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 86,
+        "categories": [
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            },
+            {
+                "alias": "irish",
+                "title": "Irish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.705722,
+            "longitude": -74.007469
+        },
+        "transactions": [
+            "pickup",
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "160 Pearl St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10005",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "160 Pearl St",
+                "New York, NY 10005"
+            ]
+        },
+        "phone": "+12124223855",
+        "display_phone": "(212) 422-3855",
+        "distance": 6533.928073999709
+    },
+    {
+        "id": "3ESlPTtjsEsyI5jhJFvBbw",
+        "alias": "the-porterhouse-brewing-company-new-york",
+        "name": "The Porterhouse Brewing Company",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hFxNAl6S8hStrPXOCU9G-w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/the-porterhouse-brewing-company-new-york?adjust_creative=YbRhTmiOmuJH1nBrB7AHzQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YbRhTmiOmuJH1nBrB7AHzQ",
+        "review_count": 118,
+        "categories": [
+            {
+                "alias": "breweries",
+                "title": "Breweries"
+            },
+            {
+                "alias": "pubs",
+                "title": "Pubs"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7032627,
+            "longitude": -74.0107867
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "36 Water St",
+            "address2": "",
+            "address3": "58 Pearl St",
+            "city": "New York",
+            "zip_code": "10004",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "36 Water St",
+                "58 Pearl St",
+                "New York, NY 10004"
+            ]
+        },
+        "phone": "+12124257171",
+        "display_phone": "(212) 425-7171",
+        "distance": 6876.091767604161
+    }
+]

@@ -1,0 +1,2192 @@
+[
+    {
+        "id": "i1ueG-jyd-qGhy7lsGV-kg",
+        "alias": "el-sazon-de-olga-bronx",
+        "name": "El Sazon De Olga",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ydwc4qOeBs9eujo4OhUq1w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-sazon-de-olga-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 5,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.828172,
+            "longitude": -73.850533
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "1017 Castle Hill Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Bronx",
+            "zip_code": "10472",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1017 Castle Hill Ave",
+                "Bronx, NY 10472"
+            ]
+        },
+        "phone": "+13476570955",
+        "display_phone": "(347) 657-0955",
+        "distance": 13163.94250909215
+    },
+    {
+        "id": "69pq6R-8bhDv9FZ8sp94nw",
+        "alias": "la-familia-restaurant-brooklyn-3",
+        "name": "La Familia Restaurant",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Iq9DgwmOYY8f_fNhEym3jw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-familia-restaurant-brooklyn-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.65486,
+            "longitude": -74.00416
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "938 4th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11232",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "938 4th Ave",
+                "Brooklyn, NY 11232"
+            ]
+        },
+        "phone": "+17188327568",
+        "display_phone": "(718) 832-7568",
+        "distance": 11916.052959500077
+    },
+    {
+        "id": "PWZRaqS9JB9QqWQgB3Irmg",
+        "alias": "mama-elenas-paterson",
+        "name": "Mama Elena's",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h27BZVYYOUFjH52b_uYsIA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mama-elenas-paterson?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 16,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.90682,
+            "longitude": -74.15674
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "395 21st Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Paterson",
+            "zip_code": "07513",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "395 21st Ave",
+                "Paterson, NJ 07513"
+            ]
+        },
+        "phone": "+19739257304",
+        "display_phone": "(973) 925-7304",
+        "distance": 22143.78605065019
+    },
+    {
+        "id": "bbAYf0ly9GZGPVPDKehLFg",
+        "alias": "capellis-cafe-corona",
+        "name": "Capelli's Cafe",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lAB0Ly9XvHKZ7RxbSk04NQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/capellis-cafe-corona?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.757876,
+            "longitude": -73.8614417
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "107-11 Northern Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Corona",
+            "zip_code": "11368",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "107-11 Northern Blvd",
+                "Corona, NY 11368"
+            ]
+        },
+        "phone": "+19292966557",
+        "display_phone": "(929) 296-6557",
+        "distance": 9862.792106908286
+    },
+    {
+        "id": "bG68AUaOLsxqWKZ1iN-Ikg",
+        "alias": "bridge-coffee-shop-new-york",
+        "name": "Bridge Coffee Shop",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UoQXSEc2bnfFOoA4Ctf5eA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bridge-coffee-shop-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7022171020508,
+            "longitude": -73.9844665527344
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "73 Bridge St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "11201",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "73 Bridge St",
+                "New York, NY 11201"
+            ]
+        },
+        "phone": "+17187970825",
+        "display_phone": "(718) 797-0825",
+        "distance": 6468.619188907292
+    },
+    {
+        "id": "zlZ64IpM7L8_-FN6E8OrjQ",
+        "alias": "el-malecon-brooklyn-2",
+        "name": "El Malecon",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/43SR6a2n7m7lRUcDS2U2-Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-malecon-brooklyn-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 44,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.62118,
+            "longitude": -74.02874
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "8727 4th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "zip_code": "11209",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "8727 4th Ave",
+                "Brooklyn, NY 11209"
+            ]
+        },
+        "phone": "+13479097132",
+        "display_phone": "(347) 909-7132",
+        "distance": 16029.143912875326
+    },
+    {
+        "id": "lH6eF-VE3d69Z2eDT-BHEg",
+        "alias": "69-coffee-shop-woodside",
+        "name": "69 Coffee Shop",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lp3Ij1kdCWyc3eOyYWWcJQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/69-coffee-shop-woodside?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 14,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.736729,
+            "longitude": -73.895592
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "5001 69th St",
+            "address2": null,
+            "address3": null,
+            "city": "Woodside",
+            "zip_code": "11377",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "5001 69th St",
+                "Woodside, NY 11377"
+            ]
+        },
+        "phone": "+13476428226",
+        "display_phone": "(347) 642-8226",
+        "distance": 7459.166645321419
+    },
+    {
+        "id": "IWYjJnnKWoKsEEe7-991-A",
+        "alias": "noches-de-colombia-union-city",
+        "name": "Noches De Colombia",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Gy2Ugim6pQ7RwIARNHeedA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/noches-de-colombia-union-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 119,
+        "categories": [
+            {
+                "alias": "colombian",
+                "title": "Colombian"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.77893,
+            "longitude": -74.02422
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "4329 Bergenline Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "4329 Bergenline Ave",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12018633165",
+        "display_phone": "(201) 863-3165",
+        "distance": 4379.807245935315
+    },
+    {
+        "id": "AY4g4h_taSTeYbiToruiKw",
+        "alias": "caribbean-delicacies-carlstadt-2",
+        "name": "Caribbean Delicacies",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1uuxEXdNonZIv43vzPvNug/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/caribbean-delicacies-carlstadt-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 26,
+        "categories": [
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.839133,
+            "longitude": -74.082794
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "711 NJ-17",
+            "address2": "",
+            "address3": "Inside The Clock Tower Plaza",
+            "city": "Carlstadt",
+            "zip_code": "07072",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "711 NJ-17",
+                "Inside The Clock Tower Plaza",
+                "Carlstadt, NJ 07072"
+            ]
+        },
+        "phone": "+12013558611",
+        "display_phone": "(201) 355-8611",
+        "distance": 12412.641342235347
+    },
+    {
+        "id": "lmiwPS9tl3cyMDGDeVstqQ",
+        "alias": "new-apolo-brooklyn-2",
+        "name": "New Apolo",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nEkqbeywMEYPN0nZQP8ZNg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/new-apolo-brooklyn-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 135,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.71078,
+            "longitude": -73.95076
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "508 Grand St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11211",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "508 Grand St",
+                "Brooklyn, NY 11211"
+            ]
+        },
+        "phone": "+17183871773",
+        "display_phone": "(718) 387-1773",
+        "distance": 5973.350879231409
+    },
+    {
+        "id": "sGwQYKPaMJ-tD2E4fQ0EJQ",
+        "alias": "jardin-de-china-corona",
+        "name": "Jardin De China",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/61xJ2xPaco5xCLCV1_piBA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/jardin-de-china-corona?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 226,
+        "categories": [
+            {
+                "alias": "chinese",
+                "title": "Chinese"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.750672,
+            "longitude": -73.869982
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "3737 Jct Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Corona",
+            "zip_code": "11368",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3737 Jct Blvd",
+                "Corona, NY 11368"
+            ]
+        },
+        "phone": "+17184763755",
+        "display_phone": "(718) 476-3755",
+        "distance": 9200.412791828927
+    },
+    {
+        "id": "fY5YbHmYJ-tzk7pLEQk9bA",
+        "alias": "brisas-del-caribe-union-city",
+        "name": "Brisas Del Caribe",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uiiqtmnPelGOcAg4GZAYrQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/brisas-del-caribe-union-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.768219,
+            "longitude": -74.0324173
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2417 Bergenline Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Union City",
+            "zip_code": "07087",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "2417 Bergenline Ave",
+                "Union City, NJ 07087"
+            ]
+        },
+        "phone": "+12018672959",
+        "display_phone": "(201) 867-2959",
+        "distance": 4619.77297504477
+    },
+    {
+        "id": "8cmf6Sb0Y_WJ-uKmjmn87g",
+        "alias": "sabor-tropical-restaurant-jersey-city",
+        "name": "Sabor Tropical Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ksFHJulFCMuXZnpVXg7Mmw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sabor-tropical-restaurant-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.731442,
+            "longitude": -74.067342
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "2828 John F Kennedy Blvd",
+            "address2": "Ste A",
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07306",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "2828 John F Kennedy Blvd",
+                "Ste A",
+                "Jersey City, NJ 07306"
+            ]
+        },
+        "phone": "+12012397800",
+        "display_phone": "(201) 239-7800",
+        "distance": 8139.416840399315
+    },
+    {
+        "id": "X8KaE65z48I23ohgch70Mw",
+        "alias": "roosevelt-tropical-restaurant-woodside-2",
+        "name": "Roosevelt Tropical Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MIGPU-ySOGapcMNqqSsQTw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/roosevelt-tropical-restaurant-woodside-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7460512,
+            "longitude": -73.8977815
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "6722 Roosevelt Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Woodside",
+            "zip_code": "11377",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "6722 Roosevelt Ave",
+                "Woodside, NY 11377"
+            ]
+        },
+        "phone": "+17182056027",
+        "display_phone": "(718) 205-6027",
+        "distance": 7015.196746483555
+    },
+    {
+        "id": "Hh9glEE_xDYT_pPUsRPXlA",
+        "alias": "blend-on-the-water-long-island-city",
+        "name": "Blend on the Water",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VJPj7eeNq78j6JpGM2P8wQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/blend-on-the-water-long-island-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 3140,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "breakfast_brunch",
+                "title": "Breakfast & Brunch"
+            },
+            {
+                "alias": "lounges",
+                "title": "Lounges"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7479520761447,
+            "longitude": -73.9570822404376
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "4540 Center Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "zip_code": "11109",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "4540 Center Blvd",
+                "Long Island City, NY 11109"
+            ]
+        },
+        "phone": "+17186069851",
+        "display_phone": "(718) 606-9851",
+        "distance": 2261.4289063597967
+    },
+    {
+        "id": "afpW_1G784ZJn92bMyXOTg",
+        "alias": "sofrito-latin-cuisine-ridgefield-park",
+        "name": "Sofrito Latin Cuisine",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NfxAWHyH6DCUaF2IzlOMqg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sofrito-latin-cuisine-ridgefield-park?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 32,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.8561435698034,
+            "longitude": -74.0254032690897
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "194 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "Ridgefield Park",
+            "zip_code": "07660",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "194 Main St",
+                "Ridgefield Park, NJ 07660"
+            ]
+        },
+        "phone": "+12016418888",
+        "display_phone": "(201) 641-8888",
+        "distance": 11373.77712322158
+    },
+    {
+        "id": "15DB2BU403NAIyYrKx-icA",
+        "alias": "el-gran-malecon-restaurant-bushwick",
+        "name": "El Gran Malecon Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/duN9LixxSwGKPiic0Tyazg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-gran-malecon-restaurant-bushwick?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.7027702,
+            "longitude": -73.9257965
+        },
+        "transactions": [],
+        "location": {
+            "address1": "234 Knickerbocker Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Bushwick",
+            "zip_code": "11207",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "234 Knickerbocker Ave",
+                "Bushwick, NY 11207"
+            ]
+        },
+        "phone": "+13479151504",
+        "display_phone": "(347) 915-1504",
+        "distance": 7775.355592541034
+    },
+    {
+        "id": "NxpjfoxMypjQvj3iAqO6bQ",
+        "alias": "la-brisa-restaurant-corona",
+        "name": "La Brisa Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OWD6b6t4UhypnL_RrpOSqw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-brisa-restaurant-corona?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 91,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.75133,
+            "longitude": -73.863099
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "3779 103rd St",
+            "address2": "",
+            "address3": "",
+            "city": "Corona",
+            "zip_code": "11368",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3779 103rd St",
+                "Corona, NY 11368"
+            ]
+        },
+        "phone": "+17182054941",
+        "display_phone": "(718) 205-4941",
+        "distance": 9770.331990530482
+    },
+    {
+        "id": "OspKlgkxFgdctHY6Nl4nPw",
+        "alias": "tu-cachapa-new-york",
+        "name": "Tu Cachapa",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tyFeh1XZpKIloJeLI69GPQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/tu-cachapa-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 55,
+        "categories": [
+            {
+                "alias": "venezuelan",
+                "title": "Venezuelan"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8481895,
+            "longitude": -73.9380171
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "4195 Broadway St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10033",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "4195 Broadway St",
+                "New York, NY 10033"
+            ]
+        },
+        "phone": "+12125687575",
+        "display_phone": "(212) 568-7575",
+        "distance": 10358.77538926124
+    },
+    {
+        "id": "sMwo18huDJ_KmKoLwcrBUQ",
+        "alias": "campo-bello-clifton",
+        "name": "Campo Bello",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0P3FZav69EjzOmtYE-ewyQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/campo-bello-clifton?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 41,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.6244698,
+            "longitude": -74.0791931
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "118 Broad St",
+            "address2": "",
+            "address3": "",
+            "city": "Clifton",
+            "zip_code": "10304",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "118 Broad St",
+                "Clifton, NY 10304"
+            ]
+        },
+        "phone": "+17184481496",
+        "display_phone": "(718) 448-1496",
+        "distance": 17313.162707997435
+    },
+    {
+        "id": "fcb-GO2hMaFmRUqYVexVeQ",
+        "alias": "el-sazon-de-las-americas-jersey-city",
+        "name": "El Sazon De Las Americas",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-RUDJs5t9HKF3wbUFwh1PQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-sazon-de-las-americas-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 67,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.7191,
+            "longitude": -74.04361
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "305 Grove St",
+            "address2": null,
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07302",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "305 Grove St",
+                "Jersey City, NJ 07302"
+            ]
+        },
+        "phone": "+12014518515",
+        "display_phone": "(201) 451-8515",
+        "distance": 7148.664957613415
+    },
+    {
+        "id": "1qGPOrTUcU846FAFFSkIyQ",
+        "alias": "sazon-ramirez-staten-island",
+        "name": "Sazon Ramirez",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/--D7qxUjdK2nS1n27pCiig/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sazon-ramirez-staten-island?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            },
+            {
+                "alias": "newamerican",
+                "title": "American (New)"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.63569,
+            "longitude": -74.166311
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "174 S Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Staten Island",
+            "zip_code": "10303",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "174 S Ave",
+                "Staten Island, NY 10303"
+            ]
+        },
+        "phone": "+17184420480",
+        "display_phone": "(718) 442-0480",
+        "distance": 21033.563588378034
+    },
+    {
+        "id": "By2Zl1imtu0SpA4IBziN1g",
+        "alias": "la-masa-bronx-3",
+        "name": "La Masa",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lU9nik8Pyn9fv9rrYnwWMA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-masa-bronx-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 415,
+        "categories": [
+            {
+                "alias": "colombian",
+                "title": "Colombian"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8480737080242,
+            "longitude": -73.8560921276473
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1000 Morris Park Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10462",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1000 Morris Park Ave",
+                "Bronx, NY 10462"
+            ]
+        },
+        "phone": "+17188228400",
+        "display_phone": "(718) 822-8400",
+        "distance": 14198.324803428388
+    },
+    {
+        "id": "n6nxNv-jZNEPJq4cEiul2A",
+        "alias": "exquisito-astoria",
+        "name": "Exquisito",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PXphJtFLcLv0mt0It71xnw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/exquisito-astoria?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 38,
+        "categories": [
+            {
+                "alias": "pizza",
+                "title": "Pizza"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            },
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.759429,
+            "longitude": -73.936482
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "21-12 36th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "zip_code": "11106",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "21-12 36th Ave",
+                "Astoria, NY 11106"
+            ]
+        },
+        "phone": "+17187843505",
+        "display_phone": "(718) 784-3505",
+        "distance": 3540.069167682555
+    },
+    {
+        "id": "Zub8pI8HmU2Ff9VTZXPz1A",
+        "alias": "fk-restaurant-jersey-city",
+        "name": "FK Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mpkVSMRhV2oK5wLmDZuMUw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fk-restaurant-jersey-city?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "sandwiches",
+                "title": "Sandwiches"
+            },
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.7092271,
+            "longitude": -74.0806967
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "302 Martin Luther King Dr",
+            "address2": null,
+            "address3": null,
+            "city": "Jersey City",
+            "zip_code": "07305",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "302 Martin Luther King Dr",
+                "Jersey City, NJ 07305"
+            ]
+        },
+        "phone": "+12014512141",
+        "display_phone": "(201) 451-2141",
+        "distance": 10302.420921756251
+    },
+    {
+        "id": "k2cc1gjX7l0vjuzNephfvA",
+        "alias": "el-nuevo-amanecer-restaurant-and-lounge-new-york",
+        "name": "El Nuevo Amanecer Restaurant & Lounge",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ZGpiuJNG7dkiU3rZIiR0w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-nuevo-amanecer-restaurant-and-lounge-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 14,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.83041,
+            "longitude": -73.94722
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "3666 Broadway",
+            "address2": null,
+            "address3": "Between 151st & 152nd St",
+            "city": "New York",
+            "zip_code": "10031",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "3666 Broadway",
+                "Between 151st & 152nd St",
+                "New York, NY 10031"
+            ]
+        },
+        "phone": "+12128629280",
+        "display_phone": "(212) 862-9280",
+        "distance": 8240.778594034062
+    },
+    {
+        "id": "0XDlyOlcwMCSxNSM1m2BVw",
+        "alias": "que-sabrosura-restaurant-and-bar-bronx-4",
+        "name": "Que Sabrosura! Restaurant & Bar",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vMjOlHqlixs8yhJPrycFdA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/que-sabrosura-restaurant-and-bar-bronx-4?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 20,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            },
+            {
+                "alias": "bars",
+                "title": "Bars"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.85827,
+            "longitude": -73.9027
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "48 E 183rd St",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10453",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "48 E 183rd St",
+                "Bronx, NY 10453"
+            ]
+        },
+        "phone": "+17183652200",
+        "display_phone": "(718) 365-2200",
+        "distance": 12628.207746379543
+    },
+    {
+        "id": "q6FcRtW3ZoQ-hynSCSa8Ig",
+        "alias": "arepera-guacuco-bushwick-brooklyn",
+        "name": "Arepera Guacuco Bushwick",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rZ1u5kgKmtVCxo4_VwQ5aw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/arepera-guacuco-bushwick-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 522,
+        "categories": [
+            {
+                "alias": "salad",
+                "title": "Salad"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            },
+            {
+                "alias": "venezuelan",
+                "title": "Venezuelan"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.704667,
+            "longitude": -73.924583
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "44 Irving Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11237",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "44 Irving Ave",
+                "Brooklyn, NY 11237"
+            ]
+        },
+        "phone": "+13473053300",
+        "display_phone": "(347) 305-3300",
+        "distance": 7667.475750722417
+    },
+    {
+        "id": "6tyauFgQh7Ta8RJfm-HklA",
+        "alias": "sapoara-new-york-6",
+        "name": "Sapoara",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uYjyONKw3REYzr-_YgfR0w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sapoara-new-york-6?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 60,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "comfortfood",
+                "title": "Comfort Food"
+            },
+            {
+                "alias": "beer_and_wine",
+                "title": "Beer, Wine & Spirits"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.7962065305915,
+            "longitude": -73.9350713466444
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "2262 1st Ave",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10035",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2262 1st Ave",
+                "New York, NY 10035"
+            ]
+        },
+        "phone": "+12122560199",
+        "display_phone": "(212) 256-0199",
+        "distance": 5421.140768101466
+    },
+    {
+        "id": "pBgnAbZQSsvv_HJGR1ydRQ",
+        "alias": "latin-fusion-restaurant-bronx",
+        "name": "Latin Fusion Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pEqZZJbBNev1tRY_sdClcA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/latin-fusion-restaurant-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 17,
+        "categories": [
+            {
+                "alias": "mexican",
+                "title": "Mexican"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.86566,
+            "longitude": -73.86396
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "location": {
+            "address1": "789 Allerton Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10467",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "789 Allerton Ave",
+                "Bronx, NY 10467"
+            ]
+        },
+        "phone": "+17186542067",
+        "display_phone": "(718) 654-2067",
+        "distance": 15185.232214760332
+    },
+    {
+        "id": "Lk3wRnbvdzDil5ti32KApQ",
+        "alias": "el-nuevo-delicioso-bronx",
+        "name": "El Nuevo Delicioso",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/27EQBIOBd1VJZOz0msrt2w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-nuevo-delicioso-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 9,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.81495,
+            "longitude": -73.91749
+        },
+        "transactions": [],
+        "price": "$$",
+        "location": {
+            "address1": "410 E 148th St",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10455",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "410 E 148th St",
+                "Bronx, NY 10455"
+            ]
+        },
+        "phone": "+17184027900",
+        "display_phone": "(718) 402-7900",
+        "distance": 7950.0156603865835
+    },
+    {
+        "id": "4ku3NZsRunypKkkEOWEr2w",
+        "alias": "edward-lunch-and-restaurant-brooklyn",
+        "name": "Edward Lunch & Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m_DiLV0f2KtkdNL8_y-J7A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/edward-lunch-and-restaurant-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 4,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            },
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.6744356001004,
+            "longitude": -74.0073738052626
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "56 Lorraine St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11231",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "56 Lorraine St",
+                "Brooklyn, NY 11231"
+            ]
+        },
+        "phone": "+17182608284",
+        "display_phone": "(718) 260-8284",
+        "distance": 9843.730151996553
+    },
+    {
+        "id": "zxno00eO32LJVpSOiGeCiA",
+        "alias": "mi-casa-restaurant-passaic",
+        "name": "Mi Casa Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vZ913RNoOz3AWGMBlXEoIQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mi-casa-restaurant-passaic?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 3,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.8615818,
+            "longitude": -74.1246582
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "198 Washington Pl",
+            "address2": "",
+            "address3": null,
+            "city": "Passaic",
+            "zip_code": "07055",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "198 Washington Pl",
+                "Passaic, NJ 07055"
+            ]
+        },
+        "phone": "+19736418356",
+        "display_phone": "(973) 641-8356",
+        "distance": 16685.813963123514
+    },
+    {
+        "id": "e1701VvvJIr-SC-b6KGo7g",
+        "alias": "el-dorado-ridgewood-2",
+        "name": "El Dorado",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_tE60ZEg1EEErzFIDJEK5g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-dorado-ridgewood-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 29,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.69988,
+            "longitude": -73.90913
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "54-55 Myrtle Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Ridgewood",
+            "zip_code": "11385",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "54-55 Myrtle Ave",
+                "Ridgewood, NY 11385"
+            ]
+        },
+        "phone": "+17184184035",
+        "display_phone": "(718) 418-4035",
+        "distance": 8892.740913685535
+    },
+    {
+        "id": "x3ntAmAvy3NsslFbf8h1rA",
+        "alias": "empanada-kingdom-staten-island",
+        "name": "Empanada Kingdom",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pJqWDx9PUd_YGIJD6aukaQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/empanada-kingdom-staten-island?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 10,
+        "categories": [
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.612303,
+            "longitude": -74.129838
+        },
+        "transactions": [],
+        "location": {
+            "address1": "1970 Victory Blvd",
+            "address2": null,
+            "address3": null,
+            "city": "Staten Island",
+            "zip_code": "10314",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1970 Victory Blvd",
+                "Staten Island, NY 10314"
+            ]
+        },
+        "phone": "+13479343832",
+        "display_phone": "(347) 934-3832",
+        "distance": 20816.690897114742
+    },
+    {
+        "id": "XB-mf3J7gNMImfQ_2EVfxA",
+        "alias": "rice-and-beans-restaurant-brooklyn",
+        "name": "Rice and Beans Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QRWTeiVBGws-wUQ8w-KNlw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rice-and-beans-restaurant-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 26,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.677109,
+            "longitude": -73.9836326
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "234 4th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11215",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "234 4th Ave",
+                "Brooklyn, NY 11215"
+            ]
+        },
+        "phone": "+17182464635",
+        "display_phone": "(718) 246-4635",
+        "distance": 9251.0622820013
+    },
+    {
+        "id": "LQQZHp0Tuvr7-yYTFTVq6w",
+        "alias": "yoly-restaurant-bronx",
+        "name": "Yoly Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E-_SYH9ZGlip_BJGYC965Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/yoly-restaurant-bronx?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 22,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8459999,
+            "longitude": -73.91998
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "118 Featherbed Ln",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10452",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "118 Featherbed Ln",
+                "Bronx, NY 10452"
+            ]
+        },
+        "phone": "+17187315900",
+        "display_phone": "(718) 731-5900",
+        "distance": 10733.672191674
+    },
+    {
+        "id": "lXPQ5iNQjEPxX86D8YLV-w",
+        "alias": "amarachi-brooklyn",
+        "name": "AMARACHI",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V75vInDaQVfO8Iu2W6HIMQ/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/amarachi-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 346,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "caribbean",
+                "title": "Caribbean"
+            },
+            {
+                "alias": "african",
+                "title": "African"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.69803,
+            "longitude": -73.98482
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "189 Bridge St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11201",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "189 Bridge St",
+                "Brooklyn, NY 11201"
+            ]
+        },
+        "phone": "+17182221010",
+        "display_phone": "(718) 222-1010",
+        "distance": 6937.993576234217
+    },
+    {
+        "id": "aLj26m4EIyK_sdX4iNixUA",
+        "alias": "el-castillo-restaurant-brooklyn",
+        "name": "El Castillo Restaurant",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pE8u6S_EU9TLsao3sxp34g/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-castillo-restaurant-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 9,
+        "categories": [
+            {
+                "alias": "tradamerican",
+                "title": "American (Traditional)"
+            },
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 40.68124,
+            "longitude": -73.9532
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "1227 Bedford Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11216",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1227 Bedford Ave",
+                "Brooklyn, NY 11216"
+            ]
+        },
+        "phone": "+17188572413",
+        "display_phone": "(718) 857-2413",
+        "distance": 9036.575884553056
+    },
+    {
+        "id": "ntNaKGqw7PHuDooPPdDoEA",
+        "alias": "bossa-cafe-woodside",
+        "name": "Bossa Cafe",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h89zO_zYNlWKnmpDhfwieA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/bossa-cafe-woodside?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 7,
+        "categories": [
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            },
+            {
+                "alias": "salvadoran",
+                "title": "Salvadoran"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7467537,
+            "longitude": -73.89617
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "location": {
+            "address1": "38-09 69th St",
+            "address2": "",
+            "address3": null,
+            "city": "Woodside",
+            "zip_code": "11377",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "38-09 69th St",
+                "Woodside, NY 11377"
+            ]
+        },
+        "phone": "",
+        "display_phone": "",
+        "distance": 7094.619051518109
+    },
+    {
+        "id": "DklpHj1YV2CMR4VEo-TlGQ",
+        "alias": "casella-bagel-coffee-shop-new-york",
+        "name": "Casella Bagel Coffee Shop",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/obEOIWMHj09f10rwEIfWLA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/casella-bagel-coffee-shop-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 26,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "bagels",
+                "title": "Bagels"
+            },
+            {
+                "alias": "cuban",
+                "title": "Cuban"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.692009,
+            "longitude": -73.986076
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "66 Willoughby St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "11201",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "66 Willoughby St",
+                "New York, NY 11201"
+            ]
+        },
+        "phone": "+17185225641",
+        "display_phone": "(718) 522-5641",
+        "distance": 7609.225328883788
+    },
+    {
+        "id": "zjkTDH-OFl5xtnTcE4WuDg",
+        "alias": "oscars-kitchen-bronx-3",
+        "name": "Oscar's Kitchen",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FTBgp4e8JO6L_QyiVJHJ8w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/oscars-kitchen-bronx-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 22,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            },
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            },
+            {
+                "alias": "juicebars",
+                "title": "Juice Bars & Smoothies"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.8667793273926,
+            "longitude": -73.8976364135742
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "2618 Jerome Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Bronx",
+            "zip_code": "10468",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "2618 Jerome Ave",
+                "Bronx, NY 10468"
+            ]
+        },
+        "phone": "+16463535991",
+        "display_phone": "(646) 353-5991",
+        "distance": 13669.780487854105
+    },
+    {
+        "id": "2SFqtv4Lyafn9PpFHrfk2g",
+        "alias": "empanadas-cafe-hoboken-2",
+        "name": "Empanadas Cafe",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9bocNKWrL22L-oGDK2xysw/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/empanadas-cafe-hoboken-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 197,
+        "categories": [
+            {
+                "alias": "empanadas",
+                "title": "Empanadas"
+            },
+            {
+                "alias": "cafes",
+                "title": "Cafes"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.7381404894542,
+            "longitude": -74.0306659960623
+        },
+        "transactions": [
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "123 Washington St",
+            "address2": "",
+            "address3": "",
+            "city": "Hoboken",
+            "zip_code": "07030",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "123 Washington St",
+                "Hoboken, NJ 07030"
+            ]
+        },
+        "phone": "+12016833069",
+        "display_phone": "(201) 683-3069",
+        "distance": 5033.402560003164
+    },
+    {
+        "id": "z2-4RUw17NRDEqOoxPJulA",
+        "alias": "rinconcito-luncheonette-new-rochelle",
+        "name": "Rinconcito Luncheonette",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w5xHbiU4M7_qwpjHV2UFMg/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/rinconcito-luncheonette-new-rochelle?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 28,
+        "categories": [
+            {
+                "alias": "colombian",
+                "title": "Colombian"
+            }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+            "latitude": 40.9116799,
+            "longitude": -73.77774
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "371 Main St",
+            "address2": "",
+            "address3": "",
+            "city": "New Rochelle",
+            "zip_code": "10801",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "371 Main St",
+                "New Rochelle, NY 10801"
+            ]
+        },
+        "phone": "+19146369871",
+        "display_phone": "(914) 636-9871",
+        "distance": 23857.520453631987
+    },
+    {
+        "id": "U1E3uSnr0OTeRL5LhmV3Yw",
+        "alias": "la-isla-new-york-3",
+        "name": "La Isla",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u8wRSAvklRxWX4Ugzi74iA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/la-isla-new-york-3?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 27,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 2.5,
+        "coordinates": {
+            "latitude": 40.79029,
+            "longitude": -73.94538
+        },
+        "transactions": [],
+        "price": "$",
+        "location": {
+            "address1": "1883 3rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10029",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1883 3rd Ave",
+                "New York, NY 10029"
+            ]
+        },
+        "phone": "+12125340002",
+        "display_phone": "(212) 534-0002",
+        "distance": 4354.481653615075
+    },
+    {
+        "id": "wcxXuWG97E7y8XKC1cx6iw",
+        "alias": "zoni-cafe-new-york-8",
+        "name": "Zoni Cafe",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WbtqFSy6W8lEruLIPrqr5Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/zoni-cafe-new-york-8?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 21,
+        "categories": [
+            {
+                "alias": "coffee",
+                "title": "Coffee & Tea"
+            },
+            {
+                "alias": "delis",
+                "title": "Delis"
+            },
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 2.0,
+        "coordinates": {
+            "latitude": 40.7486829654735,
+            "longitude": -73.9870824816185
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "41 W 33rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10001",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "41 W 33rd St",
+                "New York, NY 10001"
+            ]
+        },
+        "phone": "+12125645897",
+        "display_phone": "(212) 564-5897",
+        "distance": 1472.0182087548922
+    },
+    {
+        "id": "F9IVMdJzc-QOWVgmmWUJjA",
+        "alias": "sabor-caribeno-brooklyn",
+        "name": "Sabor Caribeno",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j3jXAkTf4_XgxCHDG5kQCA/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/sabor-caribeno-brooklyn?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 8,
+        "categories": [
+            {
+                "alias": "latin",
+                "title": "Latin American"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.69479,
+            "longitude": -73.93162
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "1062 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "zip_code": "11221",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "1062 Broadway",
+                "Brooklyn, NY 11221"
+            ]
+        },
+        "phone": "+17186020006",
+        "display_phone": "(718) 602-0006",
+        "distance": 8279.946890870118
+    },
+    {
+        "id": "5QTvF4tHAwViCRScDlSrEw",
+        "alias": "el-malecon-fort-lee",
+        "name": "El Malecon",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-FaAHbRF8gtTUNJtfDjb1w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/el-malecon-fort-lee?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 51,
+        "categories": [
+            {
+                "alias": "dominican",
+                "title": "Dominican"
+            }
+        ],
+        "rating": 3.5,
+        "coordinates": {
+            "latitude": 40.84542,
+            "longitude": -73.97846
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "1400 Anderson Ave",
+            "address2": "Bldg 2",
+            "address3": "",
+            "city": "Fort Lee",
+            "zip_code": "07024",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "1400 Anderson Ave",
+                "Bldg 2",
+                "Fort Lee, NJ 07024"
+            ]
+        },
+        "phone": "+12019445400",
+        "display_phone": "(201) 944-5400",
+        "distance": 9479.259478918011
+    },
+    {
+        "id": "fb1f50Ogucihr-Cx_T1q5A",
+        "alias": "segovia-restaurant-moonachie-2",
+        "name": "Segovia Restaurant",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KwdpD6B6gkVqTrn4Xm6R0A/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/segovia-restaurant-moonachie-2?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 384,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            },
+            {
+                "alias": "seafood",
+                "title": "Seafood"
+            },
+            {
+                "alias": "tapas",
+                "title": "Tapas Bars"
+            }
+        ],
+        "rating": 4.0,
+        "coordinates": {
+            "latitude": 40.8400085319357,
+            "longitude": -74.0485996248338
+        },
+        "transactions": [
+            "delivery"
+        ],
+        "price": "$$",
+        "location": {
+            "address1": "150 Moonachie Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Moonachie",
+            "zip_code": "07074",
+            "country": "US",
+            "state": "NJ",
+            "display_address": [
+                "150 Moonachie Rd",
+                "Moonachie, NJ 07074"
+            ]
+        },
+        "phone": "+12016414266",
+        "display_phone": "(201) 641-4266",
+        "distance": 10655.504516226003
+    },
+    {
+        "id": "3VnOYXK4HmVqu65jWxdwJA",
+        "alias": "mirador-new-york",
+        "name": "Mirador",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1buW9MO9mtyIVS8l1zk13Q/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/mirador-new-york?adjust_creative=6bVXm5lZXy6XJv1Uuazk9w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=6bVXm5lZXy6XJv1Uuazk9w",
+        "review_count": 15,
+        "categories": [
+            {
+                "alias": "spanish",
+                "title": "Spanish"
+            }
+        ],
+        "rating": 3.0,
+        "coordinates": {
+            "latitude": 40.8678933,
+            "longitude": -73.8993116
+        },
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "price": "$",
+        "location": {
+            "address1": "44 W Kingsbridge Rd",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10468",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+                "44 W Kingsbridge Rd",
+                "New York, NY 10468"
+            ]
+        },
+        "phone": "+17184503844",
+        "display_phone": "(718) 450-3844",
+        "distance": 13702.960022811805
+    }
+]
